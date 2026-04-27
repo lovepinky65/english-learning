@@ -1,0 +1,30 @@
+{
+  "word": "physical",
+  "audioFile": "audio-assets/audio/physical.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.58
+    },
+    "chineseWord": {
+      "start": 2.3,
+      "end": 2.62
+    },
+    "exampleSentence1English": {
+      "start": 3.77,
+      "end": 7.49
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.86,
+      "end": 12.12
+    },
+    "exampleSentence2English": {
+      "start": 12.87,
+      "end": 14.92
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.2,
+      "end": 17.89
+    }
+  }
+}

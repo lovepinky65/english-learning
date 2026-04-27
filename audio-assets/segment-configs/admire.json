@@ -1,0 +1,27 @@
+{
+  "word": "admire",
+  "audioFile": "audio-assets/audio/admire.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 1.02
+    },
+    "chineseWord": {
+      "start": 1.91,
+      "end": 2.56
+    },
+    "exampleSentence1English": {
+      "start": 3.43,
+      "end": 6.99
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.93,
+      "end": 9.59
+    },
+    "exampleSentence2English": {
+      "start": 9.93,
+      "end": 11.4
+    },
+    "exampleSentence2Chinese": null
+  }
+}

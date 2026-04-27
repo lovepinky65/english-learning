@@ -1,0 +1,30 @@
+{
+  "word": "reduce",
+  "audioFile": "audio-assets/audio/reduce.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.1
+    },
+    "chineseWord": {
+      "start": 1.83,
+      "end": 2.44
+    },
+    "exampleSentence1English": {
+      "start": 3.24,
+      "end": 5.82
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.72,
+      "end": 9.04
+    },
+    "exampleSentence2English": {
+      "start": 9.83,
+      "end": 12.13
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.85,
+      "end": 14.78
+    }
+  }
+}

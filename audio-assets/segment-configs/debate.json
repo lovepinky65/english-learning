@@ -1,0 +1,30 @@
+{
+  "word": "debate",
+  "audioFile": "audio-assets/audio/debate.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.68
+    },
+    "chineseWord": {
+      "start": 1.94,
+      "end": 2.6
+    },
+    "exampleSentence1English": {
+      "start": 3.58,
+      "end": 7.09
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.13,
+      "end": 11.05
+    },
+    "exampleSentence2English": {
+      "start": 11.98,
+      "end": 15.11
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.18,
+      "end": 19.14
+    }
+  }
+}

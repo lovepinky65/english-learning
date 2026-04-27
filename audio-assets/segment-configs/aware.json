@@ -1,0 +1,30 @@
+{
+  "word": "aware",
+  "audioFile": "audio-assets/audio/aware.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.79
+    },
+    "chineseWord": {
+      "start": 1.7,
+      "end": 2.39
+    },
+    "exampleSentence1English": {
+      "start": 3.28,
+      "end": 5.7
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.49,
+      "end": 8.29
+    },
+    "exampleSentence2English": {
+      "start": 9.13,
+      "end": 12.26
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.36,
+      "end": 15.8
+    }
+  }
+}

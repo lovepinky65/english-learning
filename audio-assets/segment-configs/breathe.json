@@ -1,0 +1,30 @@
+{
+  "word": "breathe",
+  "audioFile": "audio-assets/audio/breathe.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 0.7
+    },
+    "chineseWord": {
+      "start": 3.36,
+      "end": 4.02
+    },
+    "exampleSentence1English": {
+      "start": 6.03,
+      "end": 8.11
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.83,
+      "end": 12.79
+    },
+    "exampleSentence2English": {
+      "start": 15.27,
+      "end": 17.56
+    },
+    "exampleSentence2Chinese": {
+      "start": 20.06,
+      "end": 22.06
+    }
+  }
+}

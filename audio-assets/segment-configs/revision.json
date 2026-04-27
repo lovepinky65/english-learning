@@ -1,0 +1,30 @@
+{
+  "word": "revision",
+  "audioFile": "audio-assets/audio/revision.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 0.89
+    },
+    "chineseWord": {
+      "start": 1.79,
+      "end": 3.07
+    },
+    "exampleSentence1English": {
+      "start": 4.13,
+      "end": 6.88
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.84,
+      "end": 10.05
+    },
+    "exampleSentence2English": {
+      "start": 10.75,
+      "end": 14.38
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.1,
+      "end": 18.33
+    }
+  }
+}

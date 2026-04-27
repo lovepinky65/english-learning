@@ -1,0 +1,30 @@
+{
+  "word": "announce",
+  "audioFile": "audio-assets/audio/announce.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 1.04
+    },
+    "chineseWord": {
+      "start": 1.23,
+      "end": 1.78
+    },
+    "exampleSentence1English": {
+      "start": 1.97,
+      "end": 3.37
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.41,
+      "end": 11
+    },
+    "exampleSentence2English": {
+      "start": 14.57,
+      "end": 15.23
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.41,
+      "end": 17.31
+    }
+  }
+}

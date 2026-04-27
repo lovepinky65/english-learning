@@ -1,0 +1,30 @@
+{
+  "word": "judge",
+  "audioFile": "audio-assets/audio/judge.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 0.79
+    },
+    "chineseWord": {
+      "start": 1.95,
+      "end": 2.52
+    },
+    "exampleSentence1English": {
+      "start": 3.47,
+      "end": 5.66
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.83,
+      "end": 8.29
+    },
+    "exampleSentence2English": {
+      "start": 9.41,
+      "end": 11.84
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.94,
+      "end": 15.49
+    }
+  }
+}

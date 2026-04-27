@@ -1,0 +1,30 @@
+{
+  "word": "avoid",
+  "audioFile": "audio-assets/audio/avoid.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.84
+    },
+    "chineseWord": {
+      "start": 2.44,
+      "end": 3.05
+    },
+    "exampleSentence1English": {
+      "start": 3.95,
+      "end": 6.65
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.76,
+      "end": 9.85
+    },
+    "exampleSentence2English": {
+      "start": 10.68,
+      "end": 13.36
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.34,
+      "end": 16.79
+    }
+  }
+}

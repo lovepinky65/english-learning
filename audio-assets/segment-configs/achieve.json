@@ -1,0 +1,30 @@
+{
+  "word": "achieve",
+  "audioFile": "audio-assets/audio/achieve.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 0.88
+    },
+    "chineseWord": {
+      "start": 1.65,
+      "end": 2.28
+    },
+    "exampleSentence1English": {
+      "start": 3.03,
+      "end": 6.95
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.83,
+      "end": 10.49
+    },
+    "exampleSentence2English": {
+      "start": 11.09,
+      "end": 13.92
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.74,
+      "end": 17.23
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "behavior",
+  "audioFile": "audio-assets/audio/behavior.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 0.98
+    },
+    "chineseWord": {
+      "start": 4.33,
+      "end": 5.12
+    },
+    "exampleSentence1English": {
+      "start": 8.19,
+      "end": 10.96
+    },
+    "exampleSentence1Chinese": {
+      "start": 14.08,
+      "end": 16.65
+    },
+    "exampleSentence2English": {
+      "start": 19.64,
+      "end": 22.35
+    },
+    "exampleSentence2Chinese": {
+      "start": 25.39,
+      "end": 28.56
+    }
+  }
+}

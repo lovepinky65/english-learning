@@ -1,0 +1,30 @@
+{
+  "word": "anxious",
+  "audioFile": "audio-assets/audio/anxious.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 0.72
+    },
+    "chineseWord": {
+      "start": 1.62,
+      "end": 2.32
+    },
+    "exampleSentence1English": {
+      "start": 3.33,
+      "end": 6.05
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.94,
+      "end": 10.42
+    },
+    "exampleSentence2English": {
+      "start": 11.21,
+      "end": 14.04
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.74,
+      "end": 18.47
+    }
+  }
+}

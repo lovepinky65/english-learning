@@ -1,0 +1,30 @@
+{
+  "word": "harvest",
+  "audioFile": "audio-assets/audio/harvest.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.36,
+      "end": 0.99
+    },
+    "chineseWord": {
+      "start": 1.8,
+      "end": 2.5
+    },
+    "exampleSentence1English": {
+      "start": 3.3,
+      "end": 5.71
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.66,
+      "end": 8.82
+    },
+    "exampleSentence2English": {
+      "start": 9.91,
+      "end": 12.48
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.5,
+      "end": 15.86
+    }
+  }
+}

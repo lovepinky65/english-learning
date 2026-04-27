@@ -1,0 +1,30 @@
+{
+  "word": "explain",
+  "audioFile": "audio-assets/audio/explain.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.92
+    },
+    "chineseWord": {
+      "start": 1.78,
+      "end": 2.46
+    },
+    "exampleSentence1English": {
+      "start": 3.39,
+      "end": 5.59
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.18,
+      "end": 8.96
+    },
+    "exampleSentence2English": {
+      "start": 9.99,
+      "end": 12.15
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.17,
+      "end": 15.29
+    }
+  }
+}

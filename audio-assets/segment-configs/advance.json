@@ -1,0 +1,30 @@
+{
+  "word": "advance",
+  "audioFile": "audio-assets/audio/advance.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 1.13
+    },
+    "chineseWord": {
+      "start": 1.88,
+      "end": 2.43
+    },
+    "exampleSentence1English": {
+      "start": 3.13,
+      "end": 6.18
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.25,
+      "end": 9.04
+    },
+    "exampleSentence2English": {
+      "start": 9.65,
+      "end": 13.05
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.84,
+      "end": 16.49
+    }
+  }
+}

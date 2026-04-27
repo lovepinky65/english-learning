@@ -1,0 +1,30 @@
+{
+  "word": "argue",
+  "audioFile": "audio-assets/audio/argue.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.21,
+      "end": 0.74
+    },
+    "chineseWord": {
+      "start": 1.87,
+      "end": 2.48
+    },
+    "exampleSentence1English": {
+      "start": 3.22,
+      "end": 5.76
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.03,
+      "end": 9.63
+    },
+    "exampleSentence2English": {
+      "start": 10.28,
+      "end": 13.43
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.48,
+      "end": 17.74
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "develop",
+  "audioFile": "audio-assets/audio/develop.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 0.78
+    },
+    "chineseWord": {
+      "start": 2.57,
+      "end": 3.02
+    },
+    "exampleSentence1English": {
+      "start": 3.92,
+      "end": 6.84
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.22,
+      "end": 10.81
+    },
+    "exampleSentence2English": {
+      "start": 11.65,
+      "end": 14.02
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.46,
+      "end": 17.79
+    }
+  }
+}

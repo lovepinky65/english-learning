@@ -1,0 +1,30 @@
+{
+  "word": "system",
+  "audioFile": "audio-assets/audio/system.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.39,
+      "end": 0.83
+    },
+    "chineseWord": {
+      "start": 1.6,
+      "end": 2.27
+    },
+    "exampleSentence1English": {
+      "start": 2.86,
+      "end": 5.03
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.94,
+      "end": 8.06
+    },
+    "exampleSentence2English": {
+      "start": 8.66,
+      "end": 11.26
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.18,
+      "end": 14.8
+    }
+  }
+}

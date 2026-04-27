@@ -1,0 +1,30 @@
+{
+  "word": "election",
+  "audioFile": "audio-assets/audio/election.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.05
+    },
+    "chineseWord": {
+      "start": 1.73,
+      "end": 2.44
+    },
+    "exampleSentence1English": {
+      "start": 3.4,
+      "end": 6.33
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.1,
+      "end": 9.66
+    },
+    "exampleSentence2English": {
+      "start": 10.61,
+      "end": 13.41
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.95,
+      "end": 16.45
+    }
+  }
+}

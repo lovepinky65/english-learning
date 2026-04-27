@@ -1,0 +1,30 @@
+{
+  "word": "affect",
+  "audioFile": "audio-assets/audio/affect.wav",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 0.73
+    },
+    "chineseWord": {
+      "start": 1.9,
+      "end": 2.44
+    },
+    "exampleSentence1English": {
+      "start": 3.34,
+      "end": 5.81
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.03,
+      "end": 9.74
+    },
+    "exampleSentence2English": {
+      "start": 10.61,
+      "end": 12.75
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.24,
+      "end": 16.46
+    }
+  }
+}
