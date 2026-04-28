@@ -45,6 +45,11 @@
     "outputPath": "audio-assets\\segment-configs\\apologize.json"
   },
   {
+    "word": "appointment",
+    "segmentCount": 6,
+    "outputPath": "audio-assets\\segment-configs\\appointment.json"
+  },
+  {
     "word": "approach",
     "segmentCount": 6,
     "outputPath": "audio-assets\\segment-configs\\approach.json"
@@ -58,6 +63,11 @@
     "word": "arrange",
     "segmentCount": 6,
     "outputPath": "audio-assets\\segment-configs\\arrange.json"
+  },
+  {
+    "word": "assistant",
+    "segmentCount": 6,
+    "outputPath": "audio-assets\\segment-configs\\assistant.json"
   },
   {
     "word": "attend",
@@ -115,9 +125,19 @@
     "outputPath": "audio-assets\\segment-configs\\develop.json"
   },
   {
+    "word": "election",
+    "segmentCount": 6,
+    "outputPath": "audio-assets\\segment-configs\\election.json"
+  },
+  {
     "word": "explain",
     "segmentCount": 6,
     "outputPath": "audio-assets\\segment-configs\\explain.json"
+  },
+  {
+    "word": "harvest",
+    "segmentCount": 6,
+    "outputPath": "audio-assets\\segment-configs\\harvest.json"
   },
   {
     "word": "judge",
@@ -133,6 +153,21 @@
     "word": "reduce",
     "segmentCount": 6,
     "outputPath": "audio-assets\\segment-configs\\reduce.json"
+  },
+  {
+    "word": "revision",
+    "segmentCount": 6,
+    "outputPath": "audio-assets\\segment-configs\\revision.json"
+  },
+  {
+    "word": "reward",
+    "segmentCount": 6,
+    "outputPath": "audio-assets\\segment-configs\\reward.json"
+  },
+  {
+    "word": "security",
+    "segmentCount": 6,
+    "outputPath": "audio-assets\\segment-configs\\security.json"
   },
   {
     "word": "system",
