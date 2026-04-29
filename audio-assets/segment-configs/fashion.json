@@ -1,0 +1,30 @@
+{
+  "word": "fashion",
+  "audioFile": "audio-assets/audio/fashion.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.39,
+      "end": 0.85
+    },
+    "chineseWord": {
+      "start": 1.77,
+      "end": 2.5
+    },
+    "exampleSentence1English": {
+      "start": 3.2,
+      "end": 6
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.81,
+      "end": 9.64
+    },
+    "exampleSentence2English": {
+      "start": 10.27,
+      "end": 12.58
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.38,
+      "end": 15.22
+    }
+  }
+}

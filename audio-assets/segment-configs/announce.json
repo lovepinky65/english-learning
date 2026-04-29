@@ -1,6 +1,6 @@
 {
   "word": "announce",
-  "audioFile": "audio-assets/audio/announce.wav",
+  "audioFile": "audio-assets/audio/announce.mp3",
   "fields": {
     "englishWord": {
       "start": 0.29,

@@ -1,6 +1,6 @@
 {
   "word": "advance",
-  "audioFile": "audio-assets/audio/advance.wav",
+  "audioFile": "audio-assets/audio/advance.mp3",
   "fields": {
     "englishWord": {
       "start": 0.23,
@@ -12,7 +12,7 @@
     },
     "exampleSentence1English": {
       "start": 3.13,
-      "end": 6.18
+      "end": 6.5
     },
     "exampleSentence1Chinese": {
       "start": 7.25,

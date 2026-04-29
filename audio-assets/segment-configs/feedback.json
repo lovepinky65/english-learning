@@ -1,0 +1,30 @@
+{
+  "word": "feedback",
+  "audioFile": "audio-assets/audio/feedback.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.8
+    },
+    "chineseWord": {
+      "start": 1.67,
+      "end": 2.32
+    },
+    "exampleSentence1English": {
+      "start": 3.3,
+      "end": 5.68
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.38,
+      "end": 8.68
+    },
+    "exampleSentence2English": {
+      "start": 10.06,
+      "end": 12.59
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.7,
+      "end": 15.77
+    }
+  }
+}

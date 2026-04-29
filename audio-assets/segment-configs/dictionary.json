@@ -1,0 +1,30 @@
+{
+  "word": "dictionary",
+  "audioFile": "audio-assets/audio/dictionary.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.11
+    },
+    "chineseWord": {
+      "start": 2.09,
+      "end": 2.69
+    },
+    "exampleSentence1English": {
+      "start": 3.54,
+      "end": 5.66
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.6,
+      "end": 8.89
+    },
+    "exampleSentence2English": {
+      "start": 9.66,
+      "end": 12.97
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.83,
+      "end": 17.36
+    }
+  }
+}

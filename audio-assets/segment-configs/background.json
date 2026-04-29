@@ -1,0 +1,30 @@
+{
+  "word": "background",
+  "audioFile": "audio-assets/audio/background.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.27,
+      "end": 0.85
+    },
+    "chineseWord": {
+      "start": 1.72,
+      "end": 3.76
+    },
+    "exampleSentence1English": {
+      "start": 4.42,
+      "end": 6.43
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.33,
+      "end": 9.14
+    },
+    "exampleSentence2English": {
+      "start": 9.8,
+      "end": 12.56
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.53,
+      "end": 16.7
+    }
+  }
+}

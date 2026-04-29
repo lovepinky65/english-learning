@@ -1,6 +1,6 @@
 {
   "word": "breathe",
-  "audioFile": "audio-assets/audio/breathe.wav",
+  "audioFile": "audio-assets/audio/breathe.mp3",
   "fields": {
     "englishWord": {
       "start": 0.23,
@@ -23,7 +23,7 @@
       "end": 17.56
     },
     "exampleSentence2Chinese": {
-      "start": 20.06,
+      "start": 20.17,
       "end": 22.06
     }
   }

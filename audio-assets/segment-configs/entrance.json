@@ -1,0 +1,30 @@
+{
+  "word": "entrance",
+  "audioFile": "audio-assets/audio/entrance.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.01
+    },
+    "chineseWord": {
+      "start": 1.58,
+      "end": 2.4
+    },
+    "exampleSentence1English": {
+      "start": 3.1,
+      "end": 8.63
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.15,
+      "end": 10.13
+    },
+    "exampleSentence2English": {
+      "start": 10.65,
+      "end": 11.24
+    },
+    "exampleSentence2Chinese": {
+      "start": 11.85,
+      "end": 13.76
+    }
+  }
+}

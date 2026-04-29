@@ -1,6 +1,6 @@
 {
   "word": "anxious",
-  "audioFile": "audio-assets/audio/anxious.wav",
+  "audioFile": "audio-assets/audio/anxious.mp3",
   "fields": {
     "englishWord": {
       "start": 0.24,
@@ -19,7 +19,7 @@
       "end": 10.42
     },
     "exampleSentence2English": {
-      "start": 11.21,
+      "start": 11.2,
       "end": 14.04
     },
     "exampleSentence2Chinese": {

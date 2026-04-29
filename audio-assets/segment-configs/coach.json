@@ -1,0 +1,30 @@
+{
+  "word": "coach",
+  "audioFile": "audio-assets/audio/coach.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.34,
+      "end": 0.86
+    },
+    "chineseWord": {
+      "start": 1.64,
+      "end": 2.23
+    },
+    "exampleSentence1English": {
+      "start": 3.17,
+      "end": 5.97
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.75,
+      "end": 8.99
+    },
+    "exampleSentence2English": {
+      "start": 9.91,
+      "end": 12.43
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.39,
+      "end": 16.3
+    }
+  }
+}

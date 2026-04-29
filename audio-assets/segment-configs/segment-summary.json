@@ -1,8 +1,23 @@
 [
   {
+    "word": "access",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/access.json"
+  },
+  {
+    "word": "account",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/account.json"
+  },
+  {
     "word": "achieve",
     "segmentCount": 6,
     "outputPath": "audio-assets/segment-configs/achieve.json"
+  },
+  {
+    "word": "activity",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/activity.json"
   },
   {
     "word": "adapt",
@@ -28,6 +43,11 @@
     "word": "allow",
     "segmentCount": 6,
     "outputPath": "audio-assets/segment-configs/allow.json"
+  },
+  {
+    "word": "allowance",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/allowance.json"
   },
   {
     "word": "announce",
@@ -80,6 +100,11 @@
     "outputPath": "audio-assets/segment-configs/attract.json"
   },
   {
+    "word": "audience",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/audience.json"
+  },
+  {
     "word": "avoid",
     "segmentCount": 6,
     "outputPath": "audio-assets/segment-configs/avoid.json"
@@ -88,6 +113,11 @@
     "word": "aware",
     "segmentCount": 6,
     "outputPath": "audio-assets/segment-configs/aware.json"
+  },
+  {
+    "word": "background",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/background.json"
   },
   {
     "word": "balance",
@@ -115,9 +145,39 @@
     "outputPath": "audio-assets/segment-configs/capture.json"
   },
   {
+    "word": "choice",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/choice.json"
+  },
+  {
+    "word": "coach",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/coach.json"
+  },
+  {
+    "word": "contact",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/contact.json"
+  },
+  {
+    "word": "cooperation",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/cooperation.json"
+  },
+  {
+    "word": "critic",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/critic.json"
+  },
+  {
     "word": "debate",
     "segmentCount": 6,
     "outputPath": "audio-assets/segment-configs/debate.json"
+  },
+  {
+    "word": "department",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/department.json"
   },
   {
     "word": "develop",
@@ -125,14 +185,64 @@
     "outputPath": "audio-assets/segment-configs/develop.json"
   },
   {
+    "word": "dialogue",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/dialogue.json"
+  },
+  {
+    "word": "dictionary",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/dictionary.json"
+  },
+  {
     "word": "election",
     "segmentCount": 6,
     "outputPath": "audio-assets/segment-configs/election.json"
   },
   {
+    "word": "employee",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/employee.json"
+  },
+  {
+    "word": "ending",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/ending.json"
+  },
+  {
+    "word": "entrance",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/entrance.json"
+  },
+  {
+    "word": "expectation",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/expectation.json"
+  },
+  {
     "word": "explain",
     "segmentCount": 6,
     "outputPath": "audio-assets/segment-configs/explain.json"
+  },
+  {
+    "word": "fashion",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/fashion.json"
+  },
+  {
+    "word": "feedback",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/feedback.json"
+  },
+  {
+    "word": "fiction",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/fiction.json"
+  },
+  {
+    "word": "friendship",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/friendship.json"
   },
   {
     "word": "harvest",
@@ -145,9 +255,24 @@
     "outputPath": "audio-assets/segment-configs/judge.json"
   },
   {
+    "word": "message",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/message.json"
+  },
+  {
     "word": "physical",
     "segmentCount": 6,
     "outputPath": "audio-assets/segment-configs/physical.json"
+  },
+  {
+    "word": "reality",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/reality.json"
+  },
+  {
+    "word": "reason",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/reason.json"
   },
   {
     "word": "reduce",
@@ -170,8 +295,33 @@
     "outputPath": "audio-assets/segment-configs/security.json"
   },
   {
+    "word": "service",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/service.json"
+  },
+  {
+    "word": "spirit",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/spirit.json"
+  },
+  {
+    "word": "subject",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/subject.json"
+  },
+  {
+    "word": "success",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/success.json"
+  },
+  {
     "word": "system",
     "segmentCount": 6,
     "outputPath": "audio-assets/segment-configs/system.json"
+  },
+  {
+    "word": "website",
+    "segmentCount": 6,
+    "outputPath": "audio-assets/segment-configs/website.json"
   }
 ]

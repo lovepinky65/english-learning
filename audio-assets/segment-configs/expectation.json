@@ -1,0 +1,30 @@
+{
+  "word": "expectation",
+  "audioFile": "audio-assets/audio/expectation.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 1.35
+    },
+    "chineseWord": {
+      "start": 2.08,
+      "end": 2.65
+    },
+    "exampleSentence1English": {
+      "start": 3.4,
+      "end": 5.5
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.15,
+      "end": 8.34
+    },
+    "exampleSentence2English": {
+      "start": 9.1,
+      "end": 11.91
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.6,
+      "end": 15.19
+    }
+  }
+}

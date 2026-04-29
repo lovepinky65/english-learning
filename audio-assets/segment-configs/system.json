@@ -1,6 +1,6 @@
 {
   "word": "system",
-  "audioFile": "audio-assets/audio/system.wav",
+  "audioFile": "audio-assets/audio/system.mp3",
   "fields": {
     "englishWord": {
       "start": 0.39,
@@ -12,7 +12,7 @@
     },
     "exampleSentence1English": {
       "start": 2.86,
-      "end": 5.03
+      "end": 5.5
     },
     "exampleSentence1Chinese": {
       "start": 5.94,

@@ -1,6 +1,6 @@
 {
   "word": "assistant",
-  "audioFile": "audio-assets/audio/assistant.wav",
+  "audioFile": "audio-assets/audio/assistant.mp3",
   "fields": {
     "englishWord": {
       "start": 0.2,

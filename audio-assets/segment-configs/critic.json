@@ -1,0 +1,30 @@
+{
+  "word": "critic",
+  "audioFile": "audio-assets/audio/critic.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.64
+    },
+    "chineseWord": {
+      "start": 1.4,
+      "end": 3.59
+    },
+    "exampleSentence1English": {
+      "start": 4.4,
+      "end": 7.53
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.2,
+      "end": 11.3
+    },
+    "exampleSentence2English": {
+      "start": 11.89,
+      "end": 14.41
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.28,
+      "end": 17.71
+    }
+  }
+}

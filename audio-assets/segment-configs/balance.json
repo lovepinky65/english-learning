@@ -1,6 +1,6 @@
 {
   "word": "balance",
-  "audioFile": "audio-assets/audio/balance.wav",
+  "audioFile": "audio-assets/audio/balance.mp3",
   "fields": {
     "englishWord": {
       "start": 0.23,
@@ -15,7 +15,7 @@
       "end": 10.43
     },
     "exampleSentence1Chinese": {
-      "start": 13.56,
+      "start": 13.58,
       "end": 17.07
     },
     "exampleSentence2English": {

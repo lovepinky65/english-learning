@@ -1,0 +1,30 @@
+{
+  "word": "spirit",
+  "audioFile": "audio-assets/audio/spirit.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.35,
+      "end": 0.9
+    },
+    "chineseWord": {
+      "start": 1.85,
+      "end": 3.46
+    },
+    "exampleSentence1English": {
+      "start": 4.12,
+      "end": 7.27
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.44,
+      "end": 11.4
+    },
+    "exampleSentence2English": {
+      "start": 12.29,
+      "end": 15.09
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.24,
+      "end": 18.93
+    }
+  }
+}
