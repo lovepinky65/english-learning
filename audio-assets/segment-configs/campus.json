@@ -1,0 +1,30 @@
+{
+  "word": "campus",
+  "audioFile": "audio-assets/audio/campus.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.35,
+      "end": 1.18
+    },
+    "chineseWord": {
+      "start": 1.65,
+      "end": 3.56
+    },
+    "exampleSentence1English": {
+      "start": 4.04,
+      "end": 6.91
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.49,
+      "end": 9.62
+    },
+    "exampleSentence2English": {
+      "start": 10.08,
+      "end": 12.8
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.36,
+      "end": 15.96
+    }
+  }
+}

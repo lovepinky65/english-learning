@@ -1,0 +1,30 @@
+{
+  "word": "citizen",
+  "audioFile": "audio-assets/audio/citizen.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.27,
+      "end": 1.07
+    },
+    "chineseWord": {
+      "start": 1.52,
+      "end": 2.37
+    },
+    "exampleSentence1English": {
+      "start": 2.79,
+      "end": 5.98
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.65,
+      "end": 9.37
+    },
+    "exampleSentence2English": {
+      "start": 10.08,
+      "end": 12.45
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.97,
+      "end": 14.88
+    }
+  }
+}

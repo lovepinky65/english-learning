@@ -1,0 +1,30 @@
+{
+  "word": "soil",
+  "audioFile": "audio-assets/audio/soil.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.39,
+      "end": 0.94
+    },
+    "chineseWord": {
+      "start": 1.77,
+      "end": 2.47
+    },
+    "exampleSentence1English": {
+      "start": 3.13,
+      "end": 5.75
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.58,
+      "end": 9.75
+    },
+    "exampleSentence2English": {
+      "start": 10.33,
+      "end": 13.44
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.11,
+      "end": 17.11
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "condition",
+  "audioFile": "audio-assets/audio/condition.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 1.07
+    },
+    "chineseWord": {
+      "start": 1.51,
+      "end": 3.4
+    },
+    "exampleSentence1English": {
+      "start": 3.95,
+      "end": 6.24
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.84,
+      "end": 8.98
+    },
+    "exampleSentence2English": {
+      "start": 9.37,
+      "end": 12.02
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.45,
+      "end": 15.24
+    }
+  }
+}

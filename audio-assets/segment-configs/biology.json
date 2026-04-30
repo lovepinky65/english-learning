@@ -1,0 +1,30 @@
+{
+  "word": "biology",
+  "audioFile": "audio-assets/audio/biology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 1.3
+    },
+    "chineseWord": {
+      "start": 1.85,
+      "end": 4.07
+    },
+    "exampleSentence1English": {
+      "start": 4.54,
+      "end": 7.07
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.61,
+      "end": 10.23
+    },
+    "exampleSentence2English": {
+      "start": 10.63,
+      "end": 13.58
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.18,
+      "end": 16.68
+    }
+  }
+}

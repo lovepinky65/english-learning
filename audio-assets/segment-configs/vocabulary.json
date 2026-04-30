@@ -1,0 +1,30 @@
+{
+  "word": "vocabulary",
+  "audioFile": "audio-assets/audio/vocabulary.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 1.47
+    },
+    "chineseWord": {
+      "start": 2.43,
+      "end": 3.89
+    },
+    "exampleSentence1English": {
+      "start": 4.31,
+      "end": 7.81
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.16,
+      "end": 11.43
+    },
+    "exampleSentence2English": {
+      "start": 12.02,
+      "end": 15.41
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.82,
+      "end": 18.28
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "instrument",
+  "audioFile": "audio-assets/audio/instrument.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 1.11
+    },
+    "chineseWord": {
+      "start": 1.62,
+      "end": 3.44
+    },
+    "exampleSentence1English": {
+      "start": 3.97,
+      "end": 6.23
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.59,
+      "end": 8.43
+    },
+    "exampleSentence2English": {
+      "start": 8.96,
+      "end": 12.43
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.8,
+      "end": 16.08
+    }
+  }
+}

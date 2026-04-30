@@ -1,0 +1,30 @@
+{
+  "word": "ancestor",
+  "audioFile": "audio-assets/audio/ancestor.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 1.33
+    },
+    "chineseWord": {
+      "start": 1.99,
+      "end": 3.85
+    },
+    "exampleSentence1English": {
+      "start": 4.47,
+      "end": 6.73
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.34,
+      "end": 9.29
+    },
+    "exampleSentence2English": {
+      "start": 9.96,
+      "end": 12.19
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.7,
+      "end": 15.12
+    }
+  }
+}

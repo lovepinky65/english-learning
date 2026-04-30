@@ -1,0 +1,30 @@
+{
+  "word": "atmosphere",
+  "audioFile": "audio-assets/audio/atmosphere.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.1
+    },
+    "chineseWord": {
+      "start": 1.93,
+      "end": 4.02
+    },
+    "exampleSentence1English": {
+      "start": 4.44,
+      "end": 6.97
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.83,
+      "end": 10.44
+    },
+    "exampleSentence2English": {
+      "start": 11.03,
+      "end": 13.92
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.83,
+      "end": 18
+    }
+  }
+}

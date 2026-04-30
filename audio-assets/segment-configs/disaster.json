@@ -1,0 +1,30 @@
+{
+  "word": "disaster",
+  "audioFile": "audio-assets/audio/disaster.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.34
+    },
+    "chineseWord": {
+      "start": 1.79,
+      "end": 2.77
+    },
+    "exampleSentence1English": {
+      "start": 3.34,
+      "end": 6.4
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.79,
+      "end": 10.75
+    },
+    "exampleSentence2English": {
+      "start": 11.23,
+      "end": 13.27
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.84,
+      "end": 16.38
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "victory",
+  "audioFile": "audio-assets/audio/victory.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.36,
+      "end": 1.2
+    },
+    "chineseWord": {
+      "start": 1.77,
+      "end": 3.46
+    },
+    "exampleSentence1English": {
+      "start": 4.04,
+      "end": 6.02
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.64,
+      "end": 8.59
+    },
+    "exampleSentence2English": {
+      "start": 9.12,
+      "end": 10.92
+    },
+    "exampleSentence2Chinese": {
+      "start": 11.58,
+      "end": 13.46
+    }
+  }
+}

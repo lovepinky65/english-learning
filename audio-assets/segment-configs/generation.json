@@ -1,0 +1,30 @@
+{
+  "word": "generation",
+  "audioFile": "audio-assets/audio/generation.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.26
+    },
+    "chineseWord": {
+      "start": 1.67,
+      "end": 2.49
+    },
+    "exampleSentence1English": {
+      "start": 2.96,
+      "end": 6.56
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.02,
+      "end": 10.19
+    },
+    "exampleSentence2English": {
+      "start": 10.74,
+      "end": 14.1
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.61,
+      "end": 16.42
+    }
+  }
+}

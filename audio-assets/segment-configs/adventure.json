@@ -1,0 +1,30 @@
+{
+  "word": "adventure",
+  "audioFile": "audio-assets/audio/adventure.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.62,
+      "end": 1.6
+    },
+    "chineseWord": {
+      "start": 2.11,
+      "end": 5.05
+    },
+    "exampleSentence1English": {
+      "start": 5.66,
+      "end": 8.32
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.94,
+      "end": 12.4
+    },
+    "exampleSentence2English": {
+      "start": 12.97,
+      "end": 15.43
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.98,
+      "end": 18.26
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "science",
+  "audioFile": "audio-assets/audio/science.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.23
+    },
+    "chineseWord": {
+      "start": 1.69,
+      "end": 2.56
+    },
+    "exampleSentence1English": {
+      "start": 3.09,
+      "end": 5.96
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.45,
+      "end": 9.39
+    },
+    "exampleSentence2English": {
+      "start": 9.85,
+      "end": 12.79
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.45,
+      "end": 16.21
+    }
+  }
+}

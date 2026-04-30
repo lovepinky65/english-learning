@@ -1,0 +1,30 @@
+{
+  "word": "company",
+  "audioFile": "audio-assets/audio/company.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.56,
+      "end": 1.27
+    },
+    "chineseWord": {
+      "start": 1.88,
+      "end": 3.83
+    },
+    "exampleSentence1English": {
+      "start": 4.44,
+      "end": 7.18
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.89,
+      "end": 10.58
+    },
+    "exampleSentence2English": {
+      "start": 11.3,
+      "end": 13.89
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.61,
+      "end": 16.64
+    }
+  }
+}

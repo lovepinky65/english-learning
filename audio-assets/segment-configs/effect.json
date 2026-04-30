@@ -1,0 +1,30 @@
+{
+  "word": "effect",
+  "audioFile": "audio-assets/audio/effect.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 0.89
+    },
+    "chineseWord": {
+      "start": 1.46,
+      "end": 3.2
+    },
+    "exampleSentence1English": {
+      "start": 3.73,
+      "end": 6.44
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.98,
+      "end": 9.52
+    },
+    "exampleSentence2English": {
+      "start": 9.91,
+      "end": 12.62
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.09,
+      "end": 15.4
+    }
+  }
+}

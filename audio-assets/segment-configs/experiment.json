@@ -1,0 +1,30 @@
+{
+  "word": "experiment",
+  "audioFile": "audio-assets/audio/experiment.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 1.3
+    },
+    "chineseWord": {
+      "start": 1.9,
+      "end": 2.76
+    },
+    "exampleSentence1English": {
+      "start": 3.21,
+      "end": 6.59
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.11,
+      "end": 10.12
+    },
+    "exampleSentence2English": {
+      "start": 10.72,
+      "end": 14
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.54,
+      "end": 17.01
+    }
+  }
+}

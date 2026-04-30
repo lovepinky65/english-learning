@@ -1,0 +1,30 @@
+{
+  "word": "engineer",
+  "audioFile": "audio-assets/audio/engineer.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.21,
+      "end": 1.13
+    },
+    "chineseWord": {
+      "start": 1.68,
+      "end": 2.8
+    },
+    "exampleSentence1English": {
+      "start": 3.32,
+      "end": 5.56
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.12,
+      "end": 8.37
+    },
+    "exampleSentence2English": {
+      "start": 8.8,
+      "end": 11.5
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.03,
+      "end": 15.47
+    }
+  }
+}

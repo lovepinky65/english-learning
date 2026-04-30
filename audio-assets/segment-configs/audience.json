@@ -4,27 +4,27 @@
   "fields": {
     "englishWord": {
       "start": 0.28,
-      "end": 0.56
+      "end": 1.21
     },
     "chineseWord": {
       "start": 1.96,
-      "end": 3.54
+      "end": 3.72
     },
     "exampleSentence1English": {
-      "start": 4.6,
-      "end": 6.42
+      "start": 4.27,
+      "end": 6.68
     },
     "exampleSentence1Chinese": {
       "start": 7.62,
-      "end": 8.61
+      "end": 9.13
     },
     "exampleSentence2English": {
       "start": 9.61,
-      "end": 11.55
+      "end": 12.47
     },
     "exampleSentence2Chinese": {
       "start": 13.49,
-      "end": 15.72
+      "end": 15.9
     }
   }
 }

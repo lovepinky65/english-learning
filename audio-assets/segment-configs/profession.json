@@ -1,0 +1,30 @@
+{
+  "word": "profession",
+  "audioFile": "audio-assets/audio/profession.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 1.29
+    },
+    "chineseWord": {
+      "start": 1.74,
+      "end": 2.53
+    },
+    "exampleSentence1English": {
+      "start": 3.06,
+      "end": 5.78
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.27,
+      "end": 9.16
+    },
+    "exampleSentence2English": {
+      "start": 9.73,
+      "end": 13.46
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.99,
+      "end": 17.08
+    }
+  }
+}

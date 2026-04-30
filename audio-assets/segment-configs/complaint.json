@@ -1,0 +1,31 @@
+{
+  "word": "complaint",
+  "change":true,
+  "audioFile": "audio-assets/audio/complaint.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.28
+    },
+    "chineseWord": {
+      "start": 3.22,
+      "end": 4.86
+    },
+    "exampleSentence1English": {
+      "start": 5.45,
+      "end": 8
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.1,
+      "end": 10.47
+    },
+    "exampleSentence2English": {
+      "start": 11.11,
+      "end": 13.61
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.33,
+      "end": 16.81
+    }
+  }
+}

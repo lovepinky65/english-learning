@@ -1,0 +1,30 @@
+{
+  "word": "warning",
+  "audioFile": "audio-assets/audio/warning.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 1.07
+    },
+    "chineseWord": {
+      "start": 1.57,
+      "end": 3.28
+    },
+    "exampleSentence1English": {
+      "start": 3.72,
+      "end": 6.58
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.12,
+      "end": 9.61
+    },
+    "exampleSentence2English": {
+      "start": 10.12,
+      "end": 12.04
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.52,
+      "end": 14.01
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "satisfaction",
+  "audioFile": "audio-assets/audio/satisfaction.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.31,
+      "end": 1.69
+    },
+    "chineseWord": {
+      "start": 2.05,
+      "end": 4.03
+    },
+    "exampleSentence1English": {
+      "start": 4.54,
+      "end": 7.68
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.23,
+      "end": 10.93
+    },
+    "exampleSentence2English": {
+      "start": 11.57,
+      "end": 15.51
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.1,
+      "end": 18.59
+    }
+  }
+}

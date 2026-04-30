@@ -1,0 +1,31 @@
+{
+  "word": "ability",
+  "change":true,
+  "audioFile": "audio-assets/audio/ability.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.28,
+      "end": 1.5
+    },
+    "chineseWord": {
+      "start": 2.0,
+      "end": 4.13
+    },
+    "exampleSentence1English": {
+      "start": 4.71,
+      "end": 7.27
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.76,
+      "end": 10.21
+    },
+    "exampleSentence2English": {
+      "start": 10.79,
+      "end": 13.87
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.33,
+      "end": 17.56
+    }
+  }
+}

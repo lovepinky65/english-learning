@@ -1,0 +1,31 @@
+{
+  "word": "gap",
+  "change":true,
+  "audioFile": "audio-assets/audio/gap.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 0.82
+    },
+    "chineseWord": {
+      "start": 1.54,
+      "end": 4
+    },
+    "exampleSentence1English": {
+      "start": 4.11,
+      "end": 6.97
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.46,
+      "end": 10.47
+    },
+    "exampleSentence2English": {
+      "start": 10.83,
+      "end": 14.3
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.89,
+      "end": 17.57
+    }
+  }
+}

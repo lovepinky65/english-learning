@@ -1,0 +1,31 @@
+{
+  "word": "comment",
+  "change":true,
+  "audioFile": "audio-assets/audio/comment.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.32,
+      "end": 0.93
+    },
+    "chineseWord": {
+      "start": 3.29,
+      "end": 4.1
+    },
+    "exampleSentence1English": {
+      "start": 4.72,
+      "end": 6.54
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.16,
+      "end": 9.4
+    },
+    "exampleSentence2English": {
+      "start": 9.5,
+      "end": 12.66
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.21,
+      "end": 15.95
+    }
+  }
+}

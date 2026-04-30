@@ -1,0 +1,30 @@
+{
+  "word": "conservation",
+  "audioFile": "audio-assets/audio/conservation.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 1.37
+    },
+    "chineseWord": {
+      "start": 2.21,
+      "end": 3.95
+    },
+    "exampleSentence1English": {
+      "start": 4.73,
+      "end": 8.24
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.79,
+      "end": 11.07
+    },
+    "exampleSentence2English": {
+      "start": 11.93,
+      "end": 15.71
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.5,
+      "end": 19.13
+    }
+  }
+}

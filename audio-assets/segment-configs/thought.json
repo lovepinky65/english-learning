@@ -1,0 +1,30 @@
+{
+  "word": "thought",
+  "audioFile": "audio-assets/audio/thought.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.36,
+      "end": 0.96
+    },
+    "chineseWord": {
+      "start": 1.96,
+      "end": 3.74
+    },
+    "exampleSentence1English": {
+      "start": 4.23,
+      "end": 7.02
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.67,
+      "end": 10.65
+    },
+    "exampleSentence2English": {
+      "start": 11.14,
+      "end": 13.53
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.14,
+      "end": 16.32
+    }
+  }
+}

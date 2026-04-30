@@ -1,0 +1,30 @@
+{
+  "word": "festival",
+  "audioFile": "audio-assets/audio/festival.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.08
+    },
+    "chineseWord": {
+      "start": 1.53,
+      "end": 3.1
+    },
+    "exampleSentence1English": {
+      "start": 3.66,
+      "end": 6.73
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.29,
+      "end": 9.24
+    },
+    "exampleSentence2English": {
+      "start": 9.83,
+      "end": 12.57
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.13,
+      "end": 15.65
+    }
+  }
+}

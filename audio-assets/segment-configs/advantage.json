@@ -1,0 +1,30 @@
+{
+  "word": "advantage",
+  "audioFile": "audio-assets/audio/advantage.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 1.56
+    },
+    "chineseWord": {
+      "start": 2.12,
+      "end": 3.97
+    },
+    "exampleSentence1English": {
+      "start": 4.56,
+      "end": 7.52
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.23,
+      "end": 10.42
+    },
+    "exampleSentence2English": {
+      "start": 11.01,
+      "end": 13.2
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.86,
+      "end": 15.45
+    }
+  }
+}

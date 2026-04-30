@@ -1,0 +1,30 @@
+{
+  "word": "wisdom",
+  "audioFile": "audio-assets/audio/wisdom.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.32,
+      "end": 1.17
+    },
+    "chineseWord": {
+      "start": 3.1,
+      "end": 3.96
+    },
+    "exampleSentence1English": {
+      "start": 5.59,
+      "end": 7.59
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.55,
+      "end": 12.33
+    },
+    "exampleSentence2English": {
+      "start": 14.21,
+      "end": 17.01
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.82,
+      "end": 22.34
+    }
+  }
+}

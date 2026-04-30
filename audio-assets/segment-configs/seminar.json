@@ -1,0 +1,30 @@
+{
+  "word": "seminar",
+  "audioFile": "audio-assets/audio/seminar.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.35,
+      "end": 1.03
+    },
+    "chineseWord": {
+      "start": 1.51,
+      "end": 3.5
+    },
+    "exampleSentence1English": {
+      "start": 3.9,
+      "end": 6.28
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.92,
+      "end": 9.75
+    },
+    "exampleSentence2English": {
+      "start": 10.24,
+      "end": 13.76
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.24,
+      "end": 17.32
+    }
+  }
+}

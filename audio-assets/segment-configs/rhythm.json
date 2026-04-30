@@ -1,0 +1,30 @@
+{
+  "word": "rhythm",
+  "audioFile": "audio-assets/audio/rhythm.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.19
+    },
+    "chineseWord": {
+      "start": 1.87,
+      "end": 3.85
+    },
+    "exampleSentence1English": {
+      "start": 4.2,
+      "end": 6.87
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.6,
+      "end": 9.62
+    },
+    "exampleSentence2English": {
+      "start": 10.03,
+      "end": 13.42
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.05,
+      "end": 17.92
+    }
+  }
+}

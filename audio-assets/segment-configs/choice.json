@@ -1,30 +1,31 @@
 {
   "word": "choice",
+  "change":true,
   "audioFile": "audio-assets/audio/choice.mp3",
   "fields": {
     "englishWord": {
       "start": 0.28,
-      "end": 0.89
+      "end": 1.09
     },
     "chineseWord": {
       "start": 1.53,
-      "end": 4.45
+      "end": 2.3
     },
     "exampleSentence1English": {
-      "start": 5.08,
-      "end": 5.5
+      "start": 2.5,
+      "end": 5.68
     },
     "exampleSentence1Chinese": {
       "start": 6.33,
-      "end": 8.94
+      "end": 9.13
     },
     "exampleSentence2English": {
       "start": 9.54,
-      "end": 11.55
+      "end": 12.5
     },
     "exampleSentence2Chinese": {
       "start": 13.03,
-      "end": 15.51
+      "end": 15.7
     }
   }
 }
