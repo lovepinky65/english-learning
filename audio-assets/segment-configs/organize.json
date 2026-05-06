@@ -1,0 +1,30 @@
+{
+  "word": "organize",
+  "audioFile": "audio-assets/audio/organize.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 1.27
+    },
+    "chineseWord": {
+      "start": 1.74,
+      "end": 2.46
+    },
+    "exampleSentence1English": {
+      "start": 3,
+      "end": 6.26
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.86,
+      "end": 10.48
+    },
+    "exampleSentence2English": {
+      "start": 11.12,
+      "end": 14.53
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.14,
+      "end": 18.42
+    }
+  }
+}

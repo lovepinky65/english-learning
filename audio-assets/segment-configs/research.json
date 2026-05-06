@@ -1,0 +1,30 @@
+{
+  "word": "research",
+  "audioFile": "audio-assets/audio/research.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 1.22
+    },
+    "chineseWord": {
+      "start": 2.63,
+      "end": 3.39
+    },
+    "exampleSentence1English": {
+      "start": 4.45,
+      "end": 8.39
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.64,
+      "end": 12.9
+    },
+    "exampleSentence2English": {
+      "start": 14.07,
+      "end": 18.51
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.64,
+      "end": 23.16
+    }
+  }
+}

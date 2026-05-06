@@ -1,0 +1,30 @@
+{
+  "word": "natural",
+  "audioFile": "audio-assets/audio/natural.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.28
+    },
+    "chineseWord": {
+      "start": 1.86,
+      "end": 2.86
+    },
+    "exampleSentence1English": {
+      "start": 3.51,
+      "end": 7.77
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.33,
+      "end": 13.29
+    },
+    "exampleSentence2English": {
+      "start": 13.98,
+      "end": 17.48
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.2,
+      "end": 21.88
+    }
+  }
+}

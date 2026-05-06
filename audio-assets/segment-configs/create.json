@@ -1,0 +1,30 @@
+{
+  "word": "create",
+  "audioFile": "audio-assets/audio/create.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.35,
+      "end": 0.94
+    },
+    "chineseWord": {
+      "start": 1.57,
+      "end": 2.37
+    },
+    "exampleSentence1English": {
+      "start": 2.92,
+      "end": 5.47
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.98,
+      "end": 8.52
+    },
+    "exampleSentence2English": {
+      "start": 8.91,
+      "end": 11.78
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.42,
+      "end": 15.55
+    }
+  }
+}

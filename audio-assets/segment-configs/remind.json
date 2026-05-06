@@ -1,0 +1,30 @@
+{
+  "word": "remind",
+  "audioFile": "audio-assets/audio/remind.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.04
+    },
+    "chineseWord": {
+      "start": 1.66,
+      "end": 2.4
+    },
+    "exampleSentence1English": {
+      "start": 2.96,
+      "end": 5.62
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.22,
+      "end": 8.7
+    },
+    "exampleSentence2English": {
+      "start": 9.19,
+      "end": 12.21
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.85,
+      "end": 14.97
+    }
+  }
+}

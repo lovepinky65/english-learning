@@ -1,0 +1,30 @@
+{
+  "word": "provide",
+  "audioFile": "audio-assets/audio/provide.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.28,
+      "end": 1.05
+    },
+    "chineseWord": {
+      "start": 1.53,
+      "end": 2.19
+    },
+    "exampleSentence1English": {
+      "start": 2.59,
+      "end": 5.66
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.2,
+      "end": 9.49
+    },
+    "exampleSentence2English": {
+      "start": 10,
+      "end": 12.9
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.37,
+      "end": 16.18
+    }
+  }
+}

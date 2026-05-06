@@ -1,0 +1,30 @@
+{
+  "word": "focus",
+  "audioFile": "audio-assets/audio/focus.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.35,
+      "end": 1.17
+    },
+    "chineseWord": {
+      "start": 1.68,
+      "end": 2.47
+    },
+    "exampleSentence1English": {
+      "start": 3.1,
+      "end": 6.47
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.31,
+      "end": 10.56
+    },
+    "exampleSentence2English": {
+      "start": 11.32,
+      "end": 14.07
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.78,
+      "end": 16.97
+    }
+  }
+}

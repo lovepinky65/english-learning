@@ -1,0 +1,30 @@
+{
+  "word": "persuade",
+  "audioFile": "audio-assets/audio/persuade.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.28,
+      "end": 1.21
+    },
+    "chineseWord": {
+      "start": 1.75,
+      "end": 2.6
+    },
+    "exampleSentence1English": {
+      "start": 3.19,
+      "end": 6.43
+    },
+    "exampleSentence1Chinese": {
+      "start": 7,
+      "end": 9.77
+    },
+    "exampleSentence2English": {
+      "start": 10.48,
+      "end": 13.69
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.25,
+      "end": 17.67
+    }
+  }
+}

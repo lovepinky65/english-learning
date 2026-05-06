@@ -1,0 +1,30 @@
+{
+  "word": "hesitate",
+  "audioFile": "audio-assets/audio/hesitate.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.4,
+      "end": 1.17
+    },
+    "chineseWord": {
+      "start": 2.08,
+      "end": 2.97
+    },
+    "exampleSentence1English": {
+      "start": 3.78,
+      "end": 7.3
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.18,
+      "end": 11.01
+    },
+    "exampleSentence2English": {
+      "start": 11.97,
+      "end": 14.63
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.47,
+      "end": 17.82
+    }
+  }
+}

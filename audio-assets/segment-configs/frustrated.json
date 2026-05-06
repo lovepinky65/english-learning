@@ -1,0 +1,30 @@
+{
+  "word": "frustrated",
+  "audioFile": "audio-assets/audio/frustrated.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.4,
+      "end": 1.42
+    },
+    "chineseWord": {
+      "start": 2.26,
+      "end": 3.12
+    },
+    "exampleSentence1English": {
+      "start": 4.1,
+      "end": 7.49
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.2,
+      "end": 11.37
+    },
+    "exampleSentence2English": {
+      "start": 12.05,
+      "end": 14.91
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.55,
+      "end": 18.9
+    }
+  }
+}

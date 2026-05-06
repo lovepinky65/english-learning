@@ -1,0 +1,30 @@
+{
+  "word": "deliver",
+  "audioFile": "audio-assets/audio/deliver.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.93
+    },
+    "chineseWord": {
+      "start": 1.48,
+      "end": 2.38
+    },
+    "exampleSentence1English": {
+      "start": 2.84,
+      "end": 5.77
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.3,
+      "end": 9.75
+    },
+    "exampleSentence2English": {
+      "start": 10.16,
+      "end": 13.21
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.7,
+      "end": 16.4
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "solution",
+  "audioFile": "audio-assets/audio/solution.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.18
+    },
+    "chineseWord": {
+      "start": 1.69,
+      "end": 2.95
+    },
+    "exampleSentence1English": {
+      "start": 3.47,
+      "end": 7.18
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.72,
+      "end": 11.73
+    },
+    "exampleSentence2English": {
+      "start": 12.3,
+      "end": 15.33
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.79,
+      "end": 18.95
+    }
+  }
+}

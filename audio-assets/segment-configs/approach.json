@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/approach.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 0.97
+      "start": 0.21,
+      "end": 1.24
     },
     "chineseWord": {
-      "start": 1.64,
-      "end": 2.47
+      "start": 1.6,
+      "end": 2.31
     },
     "exampleSentence1English": {
-      "start": 2.98,
-      "end": 6.08
+      "start": 2.77,
+      "end": 5.59
     },
     "exampleSentence1Chinese": {
-      "start": 6.65,
-      "end": 8.96
+      "start": 6.15,
+      "end": 9.27
     },
     "exampleSentence2English": {
-      "start": 9.58,
-      "end": 12.85
+      "start": 9.63,
+      "end": 12.91
     },
     "exampleSentence2Chinese": {
-      "start": 13.33,
-      "end": 16.66
+      "start": 13.39,
+      "end": 16.63
     }
   }
 }

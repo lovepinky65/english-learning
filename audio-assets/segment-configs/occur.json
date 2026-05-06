@@ -1,0 +1,30 @@
+{
+  "word": "occur",
+  "audioFile": "audio-assets/audio/occur.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 0.98
+    },
+    "chineseWord": {
+      "start": 1.68,
+      "end": 2.61
+    },
+    "exampleSentence1English": {
+      "start": 3.08,
+      "end": 5.95
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.4,
+      "end": 9.77
+    },
+    "exampleSentence2English": {
+      "start": 10.16,
+      "end": 12.68
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.13,
+      "end": 16.5
+    }
+  }
+}

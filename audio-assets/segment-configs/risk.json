@@ -1,0 +1,30 @@
+{
+  "word": "risk",
+  "audioFile": "audio-assets/audio/risk.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.07
+    },
+    "chineseWord": {
+      "start": 1.66,
+      "end": 2.46
+    },
+    "exampleSentence1English": {
+      "start": 2.97,
+      "end": 6.82
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.36,
+      "end": 10.89
+    },
+    "exampleSentence2English": {
+      "start": 11.37,
+      "end": 15.66
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.2,
+      "end": 20.22
+    }
+  }
+}

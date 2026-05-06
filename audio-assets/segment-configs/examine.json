@@ -1,0 +1,30 @@
+{
+  "word": "examine",
+  "audioFile": "audio-assets/audio/examine.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.36
+    },
+    "chineseWord": {
+      "start": 1.88,
+      "end": 2.73
+    },
+    "exampleSentence1English": {
+      "start": 3.35,
+      "end": 6.86
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.48,
+      "end": 10.09
+    },
+    "exampleSentence2English": {
+      "start": 10.78,
+      "end": 14.24
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.85,
+      "end": 17.12
+    }
+  }
+}

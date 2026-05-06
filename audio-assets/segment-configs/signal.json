@@ -1,0 +1,30 @@
+{
+  "word": "signal",
+  "audioFile": "audio-assets/audio/signal.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.42,
+      "end": 1.08
+    },
+    "chineseWord": {
+      "start": 1.62,
+      "end": 3.28
+    },
+    "exampleSentence1English": {
+      "start": 3.68,
+      "end": 6.93
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.41,
+      "end": 9.61
+    },
+    "exampleSentence2English": {
+      "start": 9.94,
+      "end": 12.78
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.28,
+      "end": 16.08
+    }
+  }
+}

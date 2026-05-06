@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/benefit.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.23,
-      "end": 0.99
+      "start": 0.22,
+      "end": 1.11
     },
     "chineseWord": {
-      "start": 1.71,
-      "end": 2.48
+      "start": 1.62,
+      "end": 2.43
     },
     "exampleSentence1English": {
-      "start": 2.91,
-      "end": 5.69
+      "start": 2.84,
+      "end": 5.99
     },
     "exampleSentence1Chinese": {
-      "start": 6.4,
-      "end": 8.76
+      "start": 6.54,
+      "end": 9.94
     },
     "exampleSentence2English": {
-      "start": 9.43,
-      "end": 12.86
+      "start": 10.35,
+      "end": 13.14
     },
     "exampleSentence2Chinese": {
-      "start": 13.41,
-      "end": 16.45
+      "start": 13.54,
+      "end": 16.49
     }
   }
 }

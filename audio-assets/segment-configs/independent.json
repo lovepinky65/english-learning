@@ -1,0 +1,30 @@
+{
+  "word": "independent",
+  "audioFile": "audio-assets/audio/independent.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 1.21
+    },
+    "chineseWord": {
+      "start": 1.84,
+      "end": 2.86
+    },
+    "exampleSentence1English": {
+      "start": 3.35,
+      "end": 6.34
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.98,
+      "end": 9.72
+    },
+    "exampleSentence2English": {
+      "start": 10.13,
+      "end": 14.06
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.71,
+      "end": 18.41
+    }
+  }
+}

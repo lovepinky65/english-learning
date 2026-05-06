@@ -1,0 +1,30 @@
+{
+  "word": "effort",
+  "audioFile": "audio-assets/audio/effort.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.85
+    },
+    "chineseWord": {
+      "start": 1.79,
+      "end": 2.68
+    },
+    "exampleSentence1English": {
+      "start": 3.58,
+      "end": 6.92
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.55,
+      "end": 11.43
+    },
+    "exampleSentence2English": {
+      "start": 11.98,
+      "end": 14.88
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.34,
+      "end": 19.02
+    }
+  }
+}

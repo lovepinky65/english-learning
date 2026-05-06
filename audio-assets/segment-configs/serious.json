@@ -1,0 +1,30 @@
+{
+  "word": "serious",
+  "audioFile": "audio-assets/audio/serious.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.5
+    },
+    "chineseWord": {
+      "start": 1.96,
+      "end": 2.97
+    },
+    "exampleSentence1English": {
+      "start": 3.41,
+      "end": 6.24
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.79,
+      "end": 9.33
+    },
+    "exampleSentence2English": {
+      "start": 9.71,
+      "end": 12
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.5,
+      "end": 14.72
+    }
+  }
+}

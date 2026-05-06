@@ -1,0 +1,30 @@
+{
+  "word": "popular",
+  "audioFile": "audio-assets/audio/popular.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.32,
+      "end": 1.14
+    },
+    "chineseWord": {
+      "start": 1.77,
+      "end": 3.06
+    },
+    "exampleSentence1English": {
+      "start": 3.87,
+      "end": 7.05
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.65,
+      "end": 11.45
+    },
+    "exampleSentence2English": {
+      "start": 12.34,
+      "end": 15.48
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.14,
+      "end": 19.71
+    }
+  }
+}

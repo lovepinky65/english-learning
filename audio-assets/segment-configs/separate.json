@@ -1,0 +1,30 @@
+{
+  "word": "separate",
+  "audioFile": "audio-assets/audio/separate.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.34,
+      "end": 1.01
+    },
+    "chineseWord": {
+      "start": 1.6,
+      "end": 2.41
+    },
+    "exampleSentence1English": {
+      "start": 3.2,
+      "end": 6.75
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.46,
+      "end": 11.32
+    },
+    "exampleSentence2English": {
+      "start": 11.93,
+      "end": 15.44
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.06,
+      "end": 19.01
+    }
+  }
+}

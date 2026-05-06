@@ -1,0 +1,30 @@
+{
+  "word": "framework",
+  "audioFile": "audio-assets/audio/framework.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.33,
+      "end": 1.04
+    },
+    "chineseWord": {
+      "start": 1.7,
+      "end": 2.53
+    },
+    "exampleSentence1English": {
+      "start": 2.98,
+      "end": 6.47
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.01,
+      "end": 10.34
+    },
+    "exampleSentence2English": {
+      "start": 10.99,
+      "end": 13.92
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.54,
+      "end": 17.72
+    }
+  }
+}

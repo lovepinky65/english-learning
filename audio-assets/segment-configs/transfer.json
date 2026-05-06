@@ -1,0 +1,30 @@
+{
+  "word": "transfer",
+  "audioFile": "audio-assets/audio/transfer.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.4,
+      "end": 1.31
+    },
+    "chineseWord": {
+      "start": 1.86,
+      "end": 2.89
+    },
+    "exampleSentence1English": {
+      "start": 3.44,
+      "end": 7.3
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.88,
+      "end": 10.74
+    },
+    "exampleSentence2English": {
+      "start": 11.31,
+      "end": 14.91
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.47,
+      "end": 18.72
+    }
+  }
+}

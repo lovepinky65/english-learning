@@ -1,0 +1,30 @@
+{
+  "word": "algorithm",
+  "audioFile": "audio-assets/audio/algorithm.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.2,
+      "end": 1.11
+    },
+    "chineseWord": {
+      "start": 1.55,
+      "end": 2.62
+    },
+    "exampleSentence1English": {
+      "start": 3.05,
+      "end": 7.19
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.72,
+      "end": 11.9
+    },
+    "exampleSentence2English": {
+      "start": 12.28,
+      "end": 15.64
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.04,
+      "end": 19.82
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "temperature",
+  "audioFile": "audio-assets/audio/temperature.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.06
+    },
+    "chineseWord": {
+      "start": 1.75,
+      "end": 2.6
+    },
+    "exampleSentence1English": {
+      "start": 3.38,
+      "end": 7.6
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.41,
+      "end": 11.96
+    },
+    "exampleSentence2English": {
+      "start": 12.81,
+      "end": 16.53
+    },
+    "exampleSentence2Chinese": {
+      "start": 17.36,
+      "end": 21.04
+    }
+  }
+}

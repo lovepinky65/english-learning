@@ -1,0 +1,30 @@
+{
+  "word": "measure",
+  "audioFile": "audio-assets/audio/measure.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.28,
+      "end": 0.96
+    },
+    "chineseWord": {
+      "start": 1.58,
+      "end": 2.42
+    },
+    "exampleSentence1English": {
+      "start": 2.88,
+      "end": 6.05
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.66,
+      "end": 9.96
+    },
+    "exampleSentence2English": {
+      "start": 10.44,
+      "end": 13.74
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.38,
+      "end": 18.32
+    }
+  }
+}

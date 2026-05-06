@@ -1,0 +1,30 @@
+{
+  "word": "involve",
+  "audioFile": "audio-assets/audio/involve.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 1.04
+    },
+    "chineseWord": {
+      "start": 1.69,
+      "end": 2.73
+    },
+    "exampleSentence1English": {
+      "start": 3.38,
+      "end": 6.99
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.56,
+      "end": 10.94
+    },
+    "exampleSentence2English": {
+      "start": 11.37,
+      "end": 14.75
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.34,
+      "end": 19.06
+    }
+  }
+}

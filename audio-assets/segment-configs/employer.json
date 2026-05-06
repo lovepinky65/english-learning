@@ -1,0 +1,30 @@
+{
+  "word": "employer",
+  "audioFile": "audio-assets/audio/employer.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 1.29
+    },
+    "chineseWord": {
+      "start": 1.67,
+      "end": 2.44
+    },
+    "exampleSentence1English": {
+      "start": 2.98,
+      "end": 5.25
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.79,
+      "end": 8.07
+    },
+    "exampleSentence2English": {
+      "start": 8.47,
+      "end": 10.85
+    },
+    "exampleSentence2Chinese": {
+      "start": 11.24,
+      "end": 13.58
+    }
+  }
+}

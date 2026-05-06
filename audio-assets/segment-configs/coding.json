@@ -1,0 +1,30 @@
+{
+  "word": "coding",
+  "audioFile": "audio-assets/audio/coding.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.31,
+      "end": 0.96
+    },
+    "chineseWord": {
+      "start": 1.52,
+      "end": 2.61
+    },
+    "exampleSentence1English": {
+      "start": 3.09,
+      "end": 6.41
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.87,
+      "end": 10.51
+    },
+    "exampleSentence2English": {
+      "start": 10.93,
+      "end": 13.72
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.2,
+      "end": 17.32
+    }
+  }
+}

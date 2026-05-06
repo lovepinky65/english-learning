@@ -1,0 +1,30 @@
+{
+  "word": "truth",
+  "audioFile": "audio-assets/audio/truth.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.96
+    },
+    "chineseWord": {
+      "start": 1.66,
+      "end": 3.47
+    },
+    "exampleSentence1English": {
+      "start": 4.02,
+      "end": 6.44
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.13,
+      "end": 9.09
+    },
+    "exampleSentence2English": {
+      "start": 9.85,
+      "end": 12.99
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.61,
+      "end": 17.2
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "experience",
+  "audioFile": "audio-assets/audio/experience.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 1.52
+    },
+    "chineseWord": {
+      "start": 1.97,
+      "end": 2.84
+    },
+    "exampleSentence1English": {
+      "start": 3.13,
+      "end": 7.26
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.73,
+      "end": 11.95
+    },
+    "exampleSentence2English": {
+      "start": 12.43,
+      "end": 16.43
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.86,
+      "end": 20.93
+    }
+  }
+}

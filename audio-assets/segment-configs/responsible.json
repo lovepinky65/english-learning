@@ -1,0 +1,30 @@
+{
+  "word": "responsible",
+  "audioFile": "audio-assets/audio/responsible.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.39
+    },
+    "chineseWord": {
+      "start": 1.92,
+      "end": 3.29
+    },
+    "exampleSentence1English": {
+      "start": 3.8,
+      "end": 7.98
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.45,
+      "end": 12.12
+    },
+    "exampleSentence2English": {
+      "start": 12.73,
+      "end": 15.85
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.47,
+      "end": 18.81
+    }
+  }
+}

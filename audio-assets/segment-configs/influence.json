@@ -1,0 +1,30 @@
+{
+  "word": "influence",
+  "audioFile": "audio-assets/audio/influence.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 1.32
+    },
+    "chineseWord": {
+      "start": 1.68,
+      "end": 2.5
+    },
+    "exampleSentence1English": {
+      "start": 3.06,
+      "end": 7.28
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.78,
+      "end": 11.11
+    },
+    "exampleSentence2English": {
+      "start": 11.59,
+      "end": 15.76
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.23,
+      "end": 19.83
+    }
+  }
+}

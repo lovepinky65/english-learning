@@ -1,0 +1,30 @@
+{
+  "word": "tradition",
+  "audioFile": "audio-assets/audio/tradition.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.33,
+      "end": 1.15
+    },
+    "chineseWord": {
+      "start": 1.77,
+      "end": 2.7
+    },
+    "exampleSentence1English": {
+      "start": 3.28,
+      "end": 7.75
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.27,
+      "end": 11.02
+    },
+    "exampleSentence2English": {
+      "start": 11.52,
+      "end": 16.28
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.63,
+      "end": 20.96
+    }
+  }
+}

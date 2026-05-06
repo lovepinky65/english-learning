@@ -1,0 +1,30 @@
+{
+  "word": "receive",
+  "audioFile": "audio-assets/audio/receive.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.36,
+      "end": 1.27
+    },
+    "chineseWord": {
+      "start": 2.1,
+      "end": 2.96
+    },
+    "exampleSentence1English": {
+      "start": 3.58,
+      "end": 6.65
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.45,
+      "end": 10.19
+    },
+    "exampleSentence2English": {
+      "start": 10.87,
+      "end": 13.44
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.12,
+      "end": 16.61
+    }
+  }
+}

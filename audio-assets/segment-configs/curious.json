@@ -1,0 +1,30 @@
+{
+  "word": "curious",
+  "audioFile": "audio-assets/audio/curious.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.38,
+      "end": 1.35
+    },
+    "chineseWord": {
+      "start": 1.79,
+      "end": 2.88
+    },
+    "exampleSentence1English": {
+      "start": 3.62,
+      "end": 6.58
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.37,
+      "end": 10.11
+    },
+    "exampleSentence2English": {
+      "start": 11.05,
+      "end": 13.92
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.98,
+      "end": 17.96
+    }
+  }
+}

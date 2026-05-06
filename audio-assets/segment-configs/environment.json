@@ -1,0 +1,30 @@
+{
+  "word": "environment",
+  "audioFile": "audio-assets/audio/environment.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.32
+    },
+    "chineseWord": {
+      "start": 1.97,
+      "end": 2.73
+    },
+    "exampleSentence1English": {
+      "start": 3.34,
+      "end": 7.67
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.31,
+      "end": 11.94
+    },
+    "exampleSentence2English": {
+      "start": 12.28,
+      "end": 16.73
+    },
+    "exampleSentence2Chinese": {
+      "start": 17.42,
+      "end": 20.91
+    }
+  }
+}

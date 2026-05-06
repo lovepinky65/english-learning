@@ -1,0 +1,30 @@
+{
+  "word": "forbid",
+  "audioFile": "audio-assets/audio/forbid.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.35,
+      "end": 1.13
+    },
+    "chineseWord": {
+      "start": 1.71,
+      "end": 2.49
+    },
+    "exampleSentence1English": {
+      "start": 3.28,
+      "end": 6.06
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.89,
+      "end": 9.57
+    },
+    "exampleSentence2English": {
+      "start": 10.28,
+      "end": 13.6
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.07,
+      "end": 16.94
+    }
+  }
+}

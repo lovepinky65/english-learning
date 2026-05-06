@@ -1,0 +1,30 @@
+{
+  "word": "harmful",
+  "audioFile": "audio-assets/audio/harmful.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.37,
+      "end": 0.96
+    },
+    "chineseWord": {
+      "start": 1.55,
+      "end": 2.8
+    },
+    "exampleSentence1English": {
+      "start": 3.22,
+      "end": 6.84
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.28,
+      "end": 11.16
+    },
+    "exampleSentence2English": {
+      "start": 11.69,
+      "end": 14.29
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.84,
+      "end": 17.71
+    }
+  }
+}

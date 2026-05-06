@@ -1,0 +1,30 @@
+{
+  "word": "permit",
+  "audioFile": "audio-assets/audio/permit.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 0.77
+    },
+    "chineseWord": {
+      "start": 1.18,
+      "end": 2
+    },
+    "exampleSentence1English": {
+      "start": 2.38,
+      "end": 5.11
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.61,
+      "end": 8.22
+    },
+    "exampleSentence2English": {
+      "start": 8.64,
+      "end": 11
+    },
+    "exampleSentence2Chinese": {
+      "start": 11.48,
+      "end": 13.74
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "patient",
+  "audioFile": "audio-assets/audio/patient.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.32,
+      "end": 0.95
+    },
+    "chineseWord": {
+      "start": 1.55,
+      "end": 2.94
+    },
+    "exampleSentence1English": {
+      "start": 3.69,
+      "end": 6.34
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.96,
+      "end": 9.82
+    },
+    "exampleSentence2English": {
+      "start": 10.55,
+      "end": 13.53
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.17,
+      "end": 18.01
+    }
+  }
+}

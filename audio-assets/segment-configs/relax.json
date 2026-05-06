@@ -1,0 +1,30 @@
+{
+  "word": "relax",
+  "audioFile": "audio-assets/audio/relax.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.24
+    },
+    "chineseWord": {
+      "start": 2.03,
+      "end": 2.99
+    },
+    "exampleSentence1English": {
+      "start": 3.92,
+      "end": 8.2
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.35,
+      "end": 13.66
+    },
+    "exampleSentence2English": {
+      "start": 14.57,
+      "end": 18.03
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.1,
+      "end": 22.51
+    }
+  }
+}

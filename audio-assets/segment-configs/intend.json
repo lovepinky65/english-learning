@@ -1,0 +1,30 @@
+{
+  "word": "intend",
+  "audioFile": "audio-assets/audio/intend.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 1.26
+    },
+    "chineseWord": {
+      "start": 1.58,
+      "end": 2.38
+    },
+    "exampleSentence1English": {
+      "start": 2.7,
+      "end": 6.25
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.67,
+      "end": 10.41
+    },
+    "exampleSentence2English": {
+      "start": 10.83,
+      "end": 13.58
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.98,
+      "end": 15.98
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "injure",
+  "audioFile": "audio-assets/audio/injure.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 1.04
+    },
+    "chineseWord": {
+      "start": 1.55,
+      "end": 2.63
+    },
+    "exampleSentence1English": {
+      "start": 3.16,
+      "end": 6.31
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.77,
+      "end": 9.52
+    },
+    "exampleSentence2English": {
+      "start": 10.07,
+      "end": 12.44
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.09,
+      "end": 15.1
+    }
+  }
+}

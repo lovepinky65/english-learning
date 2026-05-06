@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/admire.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.23,
-      "end": 1.23
+      "start": 0.24,
+      "end": 1.33
     },
     "chineseWord": {
-      "start": 1.91,
-      "end": 2.74
+      "start": 1.89,
+      "end": 2.79
     },
     "exampleSentence1English": {
-      "start": 3.43,
-      "end": 5.44
+      "start": 3.25,
+      "end": 6.96
     },
     "exampleSentence1Chinese": {
-      "start": 5.44,
-      "end": 7.18
+      "start": 7.41,
+      "end": 10.85
     },
     "exampleSentence2English": {
-      "start": 7.93,
-      "end": 9.78
+      "start": 11.28,
+      "end": 14.37
     },
     "exampleSentence2Chinese": {
-      "start": 9.93,
-      "end": 11.59
+      "start": 14.97,
+      "end": 18.18
     }
   }
 }
