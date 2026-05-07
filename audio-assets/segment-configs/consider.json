@@ -1,0 +1,30 @@
+{
+  "word": "consider",
+  "audioFile": "audio-assets/audio/consider.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.09
+    },
+    "chineseWord": {
+      "start": 1.69,
+      "end": 2.37
+    },
+    "exampleSentence1English": {
+      "start": 3.15,
+      "end": 6.62
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.4,
+      "end": 11.25
+    },
+    "exampleSentence2English": {
+      "start": 12.02,
+      "end": 14.92
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.63,
+      "end": 19.27
+    }
+  }
+}

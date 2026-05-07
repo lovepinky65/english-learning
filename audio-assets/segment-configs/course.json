@@ -1,29 +1,30 @@
 {
   "word": "course",
+  "change": true,
   "audioFile": "audio-assets/audio/course.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
+      "start": 0,
       "end": 1.02
     },
     "chineseWord": {
       "start": 1.43,
-      "end": 2.32
+      "end": 3.9
     },
     "exampleSentence1English": {
-      "start": 2.91,
-      "end": 4.85
+      "start": 4,
+      "end": 7
     },
     "exampleSentence1Chinese": {
-      "start": 5.46,
-      "end": 7.79
+      "start": 7.1,
+      "end": 9.4
     },
     "exampleSentence2English": {
-      "start": 8.21,
-      "end": 10.59
+      "start": 9.5,
+      "end": 15
     },
     "exampleSentence2Chinese": {
-      "start": 11,
+      "start": 15,
       "end": 19.46
     }
   }

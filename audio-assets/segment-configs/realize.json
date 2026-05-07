@@ -1,0 +1,30 @@
+{
+  "word": "realize",
+  "audioFile": "audio-assets/audio/realize.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 1.32
+    },
+    "chineseWord": {
+      "start": 1.72,
+      "end": 2.57
+    },
+    "exampleSentence1English": {
+      "start": 3.05,
+      "end": 6.58
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.09,
+      "end": 9.83
+    },
+    "exampleSentence2English": {
+      "start": 10.29,
+      "end": 14.08
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.57,
+      "end": 17.77
+    }
+  }
+}

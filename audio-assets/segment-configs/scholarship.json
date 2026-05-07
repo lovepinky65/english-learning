@@ -1,9 +1,10 @@
 {
   "word": "scholarship",
+  "change": true,
   "audioFile": "audio-assets/audio/scholarship.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.51,
+      "start": 0,
       "end": 1.24
     },
     "chineseWord": {

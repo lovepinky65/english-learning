@@ -1,0 +1,30 @@
+{
+  "word": "produce",
+  "audioFile": "audio-assets/audio/produce.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.12
+    },
+    "chineseWord": {
+      "start": 1.59,
+      "end": 2.3
+    },
+    "exampleSentence1English": {
+      "start": 2.98,
+      "end": 6.68
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.81,
+      "end": 9.33
+    },
+    "exampleSentence2English": {
+      "start": 9.98,
+      "end": 14.44
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.23,
+      "end": 20.14
+    }
+  }
+}

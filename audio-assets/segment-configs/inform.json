@@ -1,0 +1,30 @@
+{
+  "word": "inform",
+  "audioFile": "audio-assets/audio/inform.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 1.09
+    },
+    "chineseWord": {
+      "start": 1.58,
+      "end": 2.37
+    },
+    "exampleSentence1English": {
+      "start": 2.78,
+      "end": 5.31
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.82,
+      "end": 8.67
+    },
+    "exampleSentence2English": {
+      "start": 9.07,
+      "end": 11.53
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.36,
+      "end": 15.68
+    }
+  }
+}

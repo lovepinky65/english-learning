@@ -1,0 +1,30 @@
+{
+  "word": "conversation",
+  "audioFile": "audio-assets/audio/conversation.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.27,
+      "end": 1.4
+    },
+    "chineseWord": {
+      "start": 1.89,
+      "end": 3.62
+    },
+    "exampleSentence1English": {
+      "start": 4.15,
+      "end": 7.01
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.57,
+      "end": 10.66
+    },
+    "exampleSentence2English": {
+      "start": 11.21,
+      "end": 14.09
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.56,
+      "end": 16.7
+    }
+  }
+}

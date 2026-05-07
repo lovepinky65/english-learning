@@ -1,0 +1,30 @@
+{
+  "word": "delay",
+  "audioFile": "audio-assets/audio/delay.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.09
+    },
+    "chineseWord": {
+      "start": 1.58,
+      "end": 2.74
+    },
+    "exampleSentence1English": {
+      "start": 3.27,
+      "end": 7.12
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.65,
+      "end": 11.61
+    },
+    "exampleSentence2English": {
+      "start": 12.2,
+      "end": 15.84
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.36,
+      "end": 19.23
+    }
+  }
+}

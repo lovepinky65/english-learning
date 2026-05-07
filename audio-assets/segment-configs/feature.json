@@ -1,0 +1,30 @@
+{
+  "word": "feature",
+  "audioFile": "audio-assets/audio/feature.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.21,
+      "end": 0.82
+    },
+    "chineseWord": {
+      "start": 1.24,
+      "end": 2.05
+    },
+    "exampleSentence1English": {
+      "start": 2.63,
+      "end": 6.87
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.37,
+      "end": 11.39
+    },
+    "exampleSentence2English": {
+      "start": 11.86,
+      "end": 14.98
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.38,
+      "end": 18.42
+    }
+  }
+}

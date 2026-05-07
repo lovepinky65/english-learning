@@ -1,0 +1,30 @@
+{
+  "word": "regard",
+  "audioFile": "audio-assets/audio/regard.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.33,
+      "end": 1.16
+    },
+    "chineseWord": {
+      "start": 1.85,
+      "end": 2.92
+    },
+    "exampleSentence1English": {
+      "start": 3.51,
+      "end": 6.93
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.67,
+      "end": 10.73
+    },
+    "exampleSentence2English": {
+      "start": 11.28,
+      "end": 14.55
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.24,
+      "end": 18.22
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "prevent",
+  "audioFile": "audio-assets/audio/prevent.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.27,
+      "end": 0.98
+    },
+    "chineseWord": {
+      "start": 1.49,
+      "end": 2.46
+    },
+    "exampleSentence1English": {
+      "start": 2.76,
+      "end": 5.92
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.23,
+      "end": 9.35
+    },
+    "exampleSentence2English": {
+      "start": 9.66,
+      "end": 12.69
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.17,
+      "end": 16.21
+    }
+  }
+}

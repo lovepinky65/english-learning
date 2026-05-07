@@ -1,0 +1,30 @@
+{
+  "word": "angle",
+  "audioFile": "audio-assets/audio/angle.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.21,
+      "end": 0.9
+    },
+    "chineseWord": {
+      "start": 1.4,
+      "end": 3.32
+    },
+    "exampleSentence1English": {
+      "start": 4,
+      "end": 6.76
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.29,
+      "end": 9.67
+    },
+    "exampleSentence2English": {
+      "start": 10.24,
+      "end": 13.24
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.03,
+      "end": 17.28
+    }
+  }
+}
