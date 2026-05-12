@@ -1,0 +1,30 @@
+{
+  "word": "analytics",
+  "audioFile": "audio-assets/audio/analytics.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.36
+    },
+    "chineseWord": {
+      "start": 1.7,
+      "end": 2.89
+    },
+    "exampleSentence1English": {
+      "start": 3.38,
+      "end": 9.64
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.08,
+      "end": 16.94
+    },
+    "exampleSentence2English": {
+      "start": 17.39,
+      "end": 22.51
+    },
+    "exampleSentence2Chinese": {
+      "start": 22.91,
+      "end": 27.81
+    }
+  }
+}

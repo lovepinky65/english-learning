@@ -1,0 +1,30 @@
+{
+  "word": "canyon",
+  "audioFile": "audio-assets/audio/canyon.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.38,
+      "end": 1.15
+    },
+    "chineseWord": {
+      "start": 2.07,
+      "end": 3.21
+    },
+    "exampleSentence1English": {
+      "start": 3.87,
+      "end": 8.28
+    },
+    "exampleSentence1Chinese": {
+      "start": 9,
+      "end": 13.42
+    },
+    "exampleSentence2English": {
+      "start": 14.17,
+      "end": 19.59
+    },
+    "exampleSentence2Chinese": {
+      "start": 20.32,
+      "end": 25.07
+    }
+  }
+}

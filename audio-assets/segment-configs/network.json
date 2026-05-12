@@ -1,0 +1,30 @@
+{
+  "word": "network",
+  "audioFile": "audio-assets/audio/network.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 0.9
+    },
+    "chineseWord": {
+      "start": 1.68,
+      "end": 2.49
+    },
+    "exampleSentence1English": {
+      "start": 3.16,
+      "end": 9.19
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.81,
+      "end": 16.75
+    },
+    "exampleSentence2English": {
+      "start": 17.43,
+      "end": 22.37
+    },
+    "exampleSentence2Chinese": {
+      "start": 23.3,
+      "end": 28.16
+    }
+  }
+}

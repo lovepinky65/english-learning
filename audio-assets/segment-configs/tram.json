@@ -1,0 +1,30 @@
+{
+  "word": "tram",
+  "audioFile": "audio-assets/audio/tram.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.34,
+      "end": 1.02
+    },
+    "chineseWord": {
+      "start": 1.47,
+      "end": 2.38
+    },
+    "exampleSentence1English": {
+      "start": 2.85,
+      "end": 6.65
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.39,
+      "end": 10.88
+    },
+    "exampleSentence2English": {
+      "start": 11.41,
+      "end": 15.55
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.27,
+      "end": 20.16
+    }
+  }
+}

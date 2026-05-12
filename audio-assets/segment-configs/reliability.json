@@ -1,0 +1,30 @@
+{
+  "word": "reliability",
+  "audioFile": "audio-assets/audio/reliability.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.62
+    },
+    "chineseWord": {
+      "start": 2.4,
+      "end": 3.48
+    },
+    "exampleSentence1English": {
+      "start": 4.02,
+      "end": 10.72
+    },
+    "exampleSentence1Chinese": {
+      "start": 11.47,
+      "end": 18
+    },
+    "exampleSentence2English": {
+      "start": 18.69,
+      "end": 25.28
+    },
+    "exampleSentence2Chinese": {
+      "start": 25.78,
+      "end": 31.58
+    }
+  }
+}

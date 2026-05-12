@@ -1,0 +1,30 @@
+{
+  "word": "window_seat",
+  "audioFile": "audio-assets/audio/window_seat.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.27,
+      "end": 1.27
+    },
+    "chineseWord": {
+      "start": 1.97,
+      "end": 3.11
+    },
+    "exampleSentence1English": {
+      "start": 3.61,
+      "end": 8.87
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.66,
+      "end": 14.49
+    },
+    "exampleSentence2English": {
+      "start": 15.04,
+      "end": 19.48
+    },
+    "exampleSentence2Chinese": {
+      "start": 20.09,
+      "end": 23.91
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "codec",
+  "audioFile": "audio-assets/audio/codec.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.34,
+      "end": 0.88
+    },
+    "chineseWord": {
+      "start": 1.46,
+      "end": 2.66
+    },
+    "exampleSentence1English": {
+      "start": 3.12,
+      "end": 10.38
+    },
+    "exampleSentence1Chinese": {
+      "start": 11.02,
+      "end": 18.68
+    },
+    "exampleSentence2English": {
+      "start": 19.15,
+      "end": 24.85
+    },
+    "exampleSentence2Chinese": {
+      "start": 25.49,
+      "end": 32.07
+    }
+  }
+}

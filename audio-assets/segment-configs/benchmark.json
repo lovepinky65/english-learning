@@ -1,0 +1,30 @@
+{
+  "word": "benchmark",
+  "audioFile": "audio-assets/audio/benchmark.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 0.99
+    },
+    "chineseWord": {
+      "start": 1.55,
+      "end": 3.32
+    },
+    "exampleSentence1English": {
+      "start": 3.72,
+      "end": 10.45
+    },
+    "exampleSentence1Chinese": {
+      "start": 11.06,
+      "end": 17.67
+    },
+    "exampleSentence2English": {
+      "start": 18.08,
+      "end": 23.69
+    },
+    "exampleSentence2Chinese": {
+      "start": 24.74,
+      "end": 32.09
+    }
+  }
+}

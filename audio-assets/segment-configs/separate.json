@@ -1,5 +1,6 @@
 {
   "word": "separate",
+  "change": true,
   "audioFile": "audio-assets/audio/separate.mp3",
   "fields": {
     "englishWord": {
@@ -11,7 +12,7 @@
       "end": 2.41
     },
     "exampleSentence1English": {
-      "start": 3.2,
+      "start": 2.6,
       "end": 6.75
     },
     "exampleSentence1Chinese": {

@@ -1,0 +1,30 @@
+{
+  "word": "broadband",
+  "audioFile": "audio-assets/audio/broadband.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.21,
+      "end": 1.03
+    },
+    "chineseWord": {
+      "start": 1.56,
+      "end": 2.29
+    },
+    "exampleSentence1English": {
+      "start": 3.22,
+      "end": 10.23
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.94,
+      "end": 16.47
+    },
+    "exampleSentence2English": {
+      "start": 17.06,
+      "end": 23.22
+    },
+    "exampleSentence2Chinese": {
+      "start": 23.86,
+      "end": 29.58
+    }
+  }
+}

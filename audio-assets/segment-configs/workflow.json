@@ -1,0 +1,30 @@
+{
+  "word": "workflow",
+  "audioFile": "audio-assets/audio/workflow.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 1.28
+    },
+    "chineseWord": {
+      "start": 1.71,
+      "end": 3.09
+    },
+    "exampleSentence1English": {
+      "start": 3.42,
+      "end": 10.59
+    },
+    "exampleSentence1Chinese": {
+      "start": 11.45,
+      "end": 17.93
+    },
+    "exampleSentence2English": {
+      "start": 18.43,
+      "end": 24.62
+    },
+    "exampleSentence2Chinese": {
+      "start": 25.47,
+      "end": 30.49
+    }
+  }
+}

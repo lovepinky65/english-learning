@@ -1,0 +1,30 @@
+{
+  "word": "legroom",
+  "audioFile": "audio-assets/audio/legroom.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.18,
+      "end": 1.28
+    },
+    "chineseWord": {
+      "start": 2.74,
+      "end": 4.18
+    },
+    "exampleSentence1English": {
+      "start": 5.09,
+      "end": 9.08
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.44,
+      "end": 14.91
+    },
+    "exampleSentence2English": {
+      "start": 15.7,
+      "end": 19.31
+    },
+    "exampleSentence2Chinese": {
+      "start": 20.56,
+      "end": 25.18
+    }
+  }
+}

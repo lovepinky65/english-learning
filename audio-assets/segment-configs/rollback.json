@@ -1,0 +1,30 @@
+{
+  "word": "rollback",
+  "audioFile": "audio-assets/audio/rollback.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.37,
+      "end": 1.09
+    },
+    "chineseWord": {
+      "start": 2.14,
+      "end": 2.83
+    },
+    "exampleSentence1English": {
+      "start": 3.68,
+      "end": 9.3
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.33,
+      "end": 15.26
+    },
+    "exampleSentence2English": {
+      "start": 16.13,
+      "end": 21.83
+    },
+    "exampleSentence2Chinese": {
+      "start": 22.95,
+      "end": 29.08
+    }
+  }
+}

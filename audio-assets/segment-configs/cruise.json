@@ -1,0 +1,30 @@
+{
+  "word": "cruise",
+  "audioFile": "audio-assets/audio/cruise.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.36,
+      "end": 1.14
+    },
+    "chineseWord": {
+      "start": 1.8,
+      "end": 2.94
+    },
+    "exampleSentence1English": {
+      "start": 3.48,
+      "end": 8.11
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.77,
+      "end": 13.33
+    },
+    "exampleSentence2English": {
+      "start": 13.96,
+      "end": 17.78
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.44,
+      "end": 23.01
+    }
+  }
+}

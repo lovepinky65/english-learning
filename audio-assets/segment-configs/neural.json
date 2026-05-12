@@ -1,0 +1,30 @@
+{
+  "word": "neural",
+  "audioFile": "audio-assets/audio/neural.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 2.01
+    },
+    "chineseWord": {
+      "start": 2.34,
+      "end": 9.18
+    },
+    "exampleSentence1English": {
+      "start": 9.7,
+      "end": 14.44
+    },
+    "exampleSentence1Chinese": {
+      "start": 14.72,
+      "end": 15.51
+    },
+    "exampleSentence2English": {
+      "start": 15.98,
+      "end": 22.82
+    },
+    "exampleSentence2Chinese": {
+      "start": 23.37,
+      "end": 30.25
+    }
+  }
+}

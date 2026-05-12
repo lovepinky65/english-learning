@@ -1,0 +1,30 @@
+{
+  "word": "interface",
+  "audioFile": "audio-assets/audio/interface.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.21,
+      "end": 1.26
+    },
+    "chineseWord": {
+      "start": 1.67,
+      "end": 2.37
+    },
+    "exampleSentence1English": {
+      "start": 2.99,
+      "end": 9.73
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.39,
+      "end": 16.52
+    },
+    "exampleSentence2English": {
+      "start": 17.11,
+      "end": 24.22
+    },
+    "exampleSentence2Chinese": {
+      "start": 24.83,
+      "end": 30.53
+    }
+  }
+}

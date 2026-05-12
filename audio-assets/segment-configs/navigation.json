@@ -1,0 +1,30 @@
+{
+  "word": "navigation",
+  "audioFile": "audio-assets/audio/navigation.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.21,
+      "end": 1.29
+    },
+    "chineseWord": {
+      "start": 1.76,
+      "end": 2.72
+    },
+    "exampleSentence1English": {
+      "start": 3.21,
+      "end": 6.95
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.39,
+      "end": 11.43
+    },
+    "exampleSentence2English": {
+      "start": 11.85,
+      "end": 16.27
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.66,
+      "end": 20.62
+    }
+  }
+}

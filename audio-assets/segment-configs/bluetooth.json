@@ -1,0 +1,30 @@
+{
+  "word": "bluetooth",
+  "audioFile": "audio-assets/audio/bluetooth.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.85
+    },
+    "chineseWord": {
+      "start": 1.5,
+      "end": 2.41
+    },
+    "exampleSentence1English": {
+      "start": 3.04,
+      "end": 10.03
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.75,
+      "end": 17.43
+    },
+    "exampleSentence2English": {
+      "start": 18.16,
+      "end": 24.05
+    },
+    "exampleSentence2Chinese": {
+      "start": 24.84,
+      "end": 30.26
+    }
+  }
+}

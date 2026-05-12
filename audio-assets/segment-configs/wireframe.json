@@ -1,0 +1,30 @@
+{
+  "word": "wireframe",
+  "audioFile": "audio-assets/audio/wireframe.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.2
+    },
+    "chineseWord": {
+      "start": 1.82,
+      "end": 3.08
+    },
+    "exampleSentence1English": {
+      "start": 3.5,
+      "end": 7.34
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.37,
+      "end": 9.22
+    },
+    "exampleSentence2English": {
+      "start": 9.29,
+      "end": 10.11
+    },
+    "exampleSentence2Chinese": {
+      "start": 10.63,
+      "end": 17.74
+    }
+  }
+}

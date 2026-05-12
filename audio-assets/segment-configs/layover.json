@@ -1,0 +1,30 @@
+{
+  "word": "layover",
+  "audioFile": "audio-assets/audio/layover.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.17
+    },
+    "chineseWord": {
+      "start": 1.9,
+      "end": 3.44
+    },
+    "exampleSentence1English": {
+      "start": 3.89,
+      "end": 8.19
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.78,
+      "end": 12.99
+    },
+    "exampleSentence2English": {
+      "start": 13.53,
+      "end": 17.56
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.11,
+      "end": 22.38
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "biotech",
+  "audioFile": "audio-assets/audio/biotech.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.41,
+      "end": 1.21
+    },
+    "chineseWord": {
+      "start": 1.87,
+      "end": 3.04
+    },
+    "exampleSentence1English": {
+      "start": 3.38,
+      "end": 11.18
+    },
+    "exampleSentence1Chinese": {
+      "start": 11.92,
+      "end": 18.43
+    },
+    "exampleSentence2English": {
+      "start": 18.91,
+      "end": 25.3
+    },
+    "exampleSentence2Chinese": {
+      "start": 25.85,
+      "end": 32.15
+    }
+  }
+}

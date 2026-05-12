@@ -1,0 +1,30 @@
+{
+  "word": "embedding",
+  "audioFile": "audio-assets/audio/embedding.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.21,
+      "end": 1.07
+    },
+    "chineseWord": {
+      "start": 1.55,
+      "end": 2.91
+    },
+    "exampleSentence1English": {
+      "start": 3.46,
+      "end": 9.49
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.41,
+      "end": 21.65
+    },
+    "exampleSentence2English": {
+      "start": 22.1,
+      "end": 23.87
+    },
+    "exampleSentence2Chinese": {
+      "start": 24.55,
+      "end": 31.49
+    }
+  }
+}

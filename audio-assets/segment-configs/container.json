@@ -1,0 +1,30 @@
+{
+  "word": "container",
+  "audioFile": "audio-assets/audio/container.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.28,
+      "end": 1.47
+    },
+    "chineseWord": {
+      "start": 2.15,
+      "end": 3.1
+    },
+    "exampleSentence1English": {
+      "start": 3.6,
+      "end": 9.31
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.77,
+      "end": 16.04
+    },
+    "exampleSentence2English": {
+      "start": 16.56,
+      "end": 22.55
+    },
+    "exampleSentence2Chinese": {
+      "start": 23.09,
+      "end": 28.07
+    }
+  }
+}

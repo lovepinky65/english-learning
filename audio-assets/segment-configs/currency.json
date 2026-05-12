@@ -1,0 +1,30 @@
+{
+  "word": "currency",
+  "audioFile": "audio-assets/audio/currency.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.32,
+      "end": 1.08
+    },
+    "chineseWord": {
+      "start": 1.66,
+      "end": 2.35
+    },
+    "exampleSentence1English": {
+      "start": 2.97,
+      "end": 7.55
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.3,
+      "end": 12.84
+    },
+    "exampleSentence2English": {
+      "start": 13.39,
+      "end": 17.64
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.22,
+      "end": 21.74
+    }
+  }
+}

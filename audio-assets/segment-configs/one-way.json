@@ -1,0 +1,30 @@
+{
+  "word": "one-way",
+  "audioFile": "audio-assets/audio/one-way.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.28,
+      "end": 1.32
+    },
+    "chineseWord": {
+      "start": 1.78,
+      "end": 2.85
+    },
+    "exampleSentence1English": {
+      "start": 3.51,
+      "end": 7.88
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.81,
+      "end": 13.52
+    },
+    "exampleSentence2English": {
+      "start": 14.27,
+      "end": 17.73
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.61,
+      "end": 22.96
+    }
+  }
+}
