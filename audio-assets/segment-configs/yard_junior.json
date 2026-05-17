@@ -1,0 +1,30 @@
+{
+  "word": "yard_junior",
+  "audioFile": "audio-assets/audio/yard_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 1.1
+    },
+    "chineseWord": {
+      "start": 1.97,
+      "end": 2.92
+    },
+    "exampleSentence1English": {
+      "start": 3.8,
+      "end": 6.07
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.06,
+      "end": 9.94
+    },
+    "exampleSentence2English": {
+      "start": 10.86,
+      "end": 13.5
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.49,
+      "end": 17.2
+    }
+  }
+}

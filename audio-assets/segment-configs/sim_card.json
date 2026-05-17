@@ -1,0 +1,30 @@
+{
+  "word": "sim_card",
+  "audioFile": "audio-assets/audio/sim_card.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 1.05
+    },
+    "chineseWord": {
+      "start": 1.69,
+      "end": 2.32
+    },
+    "exampleSentence1English": {
+      "start": 2.74,
+      "end": 7.49
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.9,
+      "end": 13.17
+    },
+    "exampleSentence2English": {
+      "start": 13.59,
+      "end": 17.21
+    },
+    "exampleSentence2Chinese": {
+      "start": 17.77,
+      "end": 21.17
+    }
+  }
+}

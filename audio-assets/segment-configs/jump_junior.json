@@ -1,0 +1,30 @@
+{
+  "word": "jump_junior",
+  "audioFile": "audio-assets/audio/jump_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.34,
+      "end": 0.85
+    },
+    "chineseWord": {
+      "start": 1.75,
+      "end": 2.4
+    },
+    "exampleSentence1English": {
+      "start": 3.27,
+      "end": 6.64
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.12,
+      "end": 10.04
+    },
+    "exampleSentence2English": {
+      "start": 10.47,
+      "end": 12.79
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.31,
+      "end": 15.93
+    }
+  }
+}

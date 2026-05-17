@@ -1,0 +1,30 @@
+{
+  "word": "duck_junior",
+  "audioFile": "audio-assets/audio/duck_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.46,
+      "end": 0.97
+    },
+    "chineseWord": {
+      "start": 1.72,
+      "end": 2.18
+    },
+    "exampleSentence1English": {
+      "start": 2.77,
+      "end": 3.68
+    },
+    "exampleSentence1Chinese": {
+      "start": 4.09,
+      "end": 11.91
+    },
+    "exampleSentence2English": {
+      "start": 12.36,
+      "end": 15.36
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.9,
+      "end": 19.03
+    }
+  }
+}

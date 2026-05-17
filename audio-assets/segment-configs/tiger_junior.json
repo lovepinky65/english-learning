@@ -1,0 +1,30 @@
+{
+  "word": "tiger_junior",
+  "audioFile": "audio-assets/audio/tiger_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 0.98
+    },
+    "chineseWord": {
+      "start": 1.44,
+      "end": 2.05
+    },
+    "exampleSentence1English": {
+      "start": 2.8,
+      "end": 6.46
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.96,
+      "end": 11.11
+    },
+    "exampleSentence2English": {
+      "start": 11.86,
+      "end": 15.71
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.2,
+      "end": 21.51
+    }
+  }
+}

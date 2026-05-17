@@ -1,0 +1,30 @@
+{
+  "word": "push_junior",
+  "audioFile": "audio-assets/audio/push_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.89
+    },
+    "chineseWord": {
+      "start": 1.5,
+      "end": 2.1
+    },
+    "exampleSentence1English": {
+      "start": 2.68,
+      "end": 5.15
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.92,
+      "end": 8.85
+    },
+    "exampleSentence2English": {
+      "start": 9.37,
+      "end": 11.89
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.46,
+      "end": 14.58
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "toothpaste_junior",
+  "audioFile": "audio-assets/audio/toothpaste_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.01
+    },
+    "chineseWord": {
+      "start": 1.95,
+      "end": 2.79
+    },
+    "exampleSentence1English": {
+      "start": 3.32,
+      "end": 5.33
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.03,
+      "end": 8.44
+    },
+    "exampleSentence2English": {
+      "start": 9.03,
+      "end": 12.45
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.06,
+      "end": 16.02
+    }
+  }
+}

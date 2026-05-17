@@ -1,0 +1,30 @@
+{
+  "word": "mango_junior",
+  "audioFile": "audio-assets/audio/mango_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.2,
+      "end": 1.15
+    },
+    "chineseWord": {
+      "start": 1.6,
+      "end": 2.72
+    },
+    "exampleSentence1English": {
+      "start": 3.18,
+      "end": 7.11
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.68,
+      "end": 11.49
+    },
+    "exampleSentence2English": {
+      "start": 11.89,
+      "end": 15.47
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.89,
+      "end": 19.73
+    }
+  }
+}

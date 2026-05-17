@@ -1,0 +1,30 @@
+{
+  "word": "engine_technology",
+  "audioFile": "audio-assets/audio/engine_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.19,
+      "end": 0.83
+    },
+    "chineseWord": {
+      "start": 1.33,
+      "end": 2.37
+    },
+    "exampleSentence1English": {
+      "start": 3.06,
+      "end": 7.56
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.33,
+      "end": 12.37
+    },
+    "exampleSentence2English": {
+      "start": 13.06,
+      "end": 17.52
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.59,
+      "end": 23.5
+    }
+  }
+}

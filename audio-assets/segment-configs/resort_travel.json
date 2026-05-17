@@ -1,0 +1,30 @@
+{
+  "word": "resort",
+  "audioFile": "audio-assets/audio/resort_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 0.98
+    },
+    "chineseWord": {
+      "start": 1.92,
+      "end": 3.1
+    },
+    "exampleSentence1English": {
+      "start": 3.76,
+      "end": 9
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.1,
+      "end": 11.1
+    },
+    "exampleSentence2English": {
+      "start": 11.24,
+      "end": 16.41
+    },
+    "exampleSentence2Chinese": {
+      "start": 17.57,
+      "end": 24.47
+    }
+  }
+}

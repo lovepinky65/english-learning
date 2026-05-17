@@ -1,0 +1,30 @@
+{
+  "word": "token",
+  "audioFile": "audio-assets/audio/token_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.33,
+      "end": 0.87
+    },
+    "chineseWord": {
+      "start": 1.43,
+      "end": 2.25
+    },
+    "exampleSentence1English": {
+      "start": 2.78,
+      "end": 10.1
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.72,
+      "end": 18.43
+    },
+    "exampleSentence2English": {
+      "start": 18.89,
+      "end": 25.26
+    },
+    "exampleSentence2Chinese": {
+      "start": 26.02,
+      "end": 31.24
+    }
+  }
+}

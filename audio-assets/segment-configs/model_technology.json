@@ -1,0 +1,30 @@
+{
+  "word": "model_technology",
+  "audioFile": "audio-assets/audio/model_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.21,
+      "end": 1
+    },
+    "chineseWord": {
+      "start": 1.78,
+      "end": 2.71
+    },
+    "exampleSentence1English": {
+      "start": 3.28,
+      "end": 8.57
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.08,
+      "end": 11.28
+    },
+    "exampleSentence2English": {
+      "start": 11.53,
+      "end": 14.64
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.13,
+      "end": 19.19
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "ticket_junior",
+  "audioFile": "audio-assets/audio/ticket_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.31,
+      "end": 0.85
+    },
+    "chineseWord": {
+      "start": 1.58,
+      "end": 2.34
+    },
+    "exampleSentence1English": {
+      "start": 2.8,
+      "end": 5.69
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.14,
+      "end": 8.47
+    },
+    "exampleSentence2English": {
+      "start": 9.16,
+      "end": 11.48
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.18,
+      "end": 14.98
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "aware",
+  "audioFile": "audio-assets/audio/aware_high_school.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.21,
+      "end": 0.95
+    },
+    "chineseWord": {
+      "start": 1.56,
+      "end": 2.49
+    },
+    "exampleSentence1English": {
+      "start": 3.03,
+      "end": 6.27
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.92,
+      "end": 9.79
+    },
+    "exampleSentence2English": {
+      "start": 10.27,
+      "end": 13.63
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.22,
+      "end": 17.4
+    }
+  }
+}

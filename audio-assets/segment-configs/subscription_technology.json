@@ -1,0 +1,30 @@
+{
+  "word": "subscription",
+  "audioFile": "audio-assets/audio/subscription_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.27,
+      "end": 1.42
+    },
+    "chineseWord": {
+      "start": 3.09,
+      "end": 4.09
+    },
+    "exampleSentence1English": {
+      "start": 5.39,
+      "end": 12.03
+    },
+    "exampleSentence1Chinese": {
+      "start": 14.36,
+      "end": 20.51
+    },
+    "exampleSentence2English": {
+      "start": 22.66,
+      "end": 28.58
+    },
+    "exampleSentence2Chinese": {
+      "start": 31.2,
+      "end": 36.53
+    }
+  }
+}

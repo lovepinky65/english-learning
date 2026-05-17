@@ -1,0 +1,30 @@
+{
+  "word": "park_junior",
+  "audioFile": "audio-assets/audio/park_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.28,
+      "end": 0.74
+    },
+    "chineseWord": {
+      "start": 1.31,
+      "end": 2.23
+    },
+    "exampleSentence1English": {
+      "start": 2.63,
+      "end": 5.62
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.12,
+      "end": 8.64
+    },
+    "exampleSentence2English": {
+      "start": 9.08,
+      "end": 11.71
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.14,
+      "end": 14.56
+    }
+  }
+}

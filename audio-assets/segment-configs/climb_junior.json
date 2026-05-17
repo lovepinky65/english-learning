@@ -1,0 +1,30 @@
+{
+  "word": "climb_junior",
+  "audioFile": "audio-assets/audio/climb_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.35,
+      "end": 0.86
+    },
+    "chineseWord": {
+      "start": 1.56,
+      "end": 2.21
+    },
+    "exampleSentence1English": {
+      "start": 2.63,
+      "end": 5.79
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.29,
+      "end": 9.26
+    },
+    "exampleSentence2English": {
+      "start": 9.68,
+      "end": 13.28
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.75,
+      "end": 17.11
+    }
+  }
+}

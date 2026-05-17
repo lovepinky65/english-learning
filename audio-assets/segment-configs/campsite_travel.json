@@ -1,0 +1,30 @@
+{
+  "word": "campsite_travel",
+  "audioFile": "audio-assets/audio/campsite_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.31,
+      "end": 1.03
+    },
+    "chineseWord": {
+      "start": 1.6,
+      "end": 2.55
+    },
+    "exampleSentence1English": {
+      "start": 2.95,
+      "end": 7.68
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.13,
+      "end": 12.48
+    },
+    "exampleSentence2English": {
+      "start": 12.95,
+      "end": 17.44
+    },
+    "exampleSentence2Chinese": {
+      "start": 17.91,
+      "end": 21.98
+    }
+  }
+}

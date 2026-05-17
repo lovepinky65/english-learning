@@ -1,0 +1,30 @@
+{
+  "word": "middleware",
+  "audioFile": "audio-assets/audio/middleware_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.21,
+      "end": 1.29
+    },
+    "chineseWord": {
+      "start": 1.9,
+      "end": 2.95
+    },
+    "exampleSentence1English": {
+      "start": 3.9,
+      "end": 10.91
+    },
+    "exampleSentence1Chinese": {
+      "start": 11.79,
+      "end": 19.89
+    },
+    "exampleSentence2English": {
+      "start": 21.01,
+      "end": 27.25
+    },
+    "exampleSentence2Chinese": {
+      "start": 28.42,
+      "end": 35.16
+    }
+  }
+}

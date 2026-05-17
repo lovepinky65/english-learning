@@ -1,0 +1,30 @@
+{
+  "word": "cook_junior",
+  "audioFile": "audio-assets/audio/cook_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.32,
+      "end": 0.88
+    },
+    "chineseWord": {
+      "start": 1.39,
+      "end": 2.16
+    },
+    "exampleSentence1English": {
+      "start": 2.65,
+      "end": 5.1
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.72,
+      "end": 8.1
+    },
+    "exampleSentence2English": {
+      "start": 8.55,
+      "end": 11.04
+    },
+    "exampleSentence2Chinese": {
+      "start": 11.52,
+      "end": 15.11
+    }
+  }
+}

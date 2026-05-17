@@ -1,0 +1,30 @@
+{
+  "word": "service",
+  "audioFile": "audio-assets/audio/service_high_school.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.32,
+      "end": 1.22
+    },
+    "chineseWord": {
+      "start": 1.7,
+      "end": 3.37
+    },
+    "exampleSentence1English": {
+      "start": 3.86,
+      "end": 6.72
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.14,
+      "end": 9.6
+    },
+    "exampleSentence2English": {
+      "start": 10.16,
+      "end": 13
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.41,
+      "end": 16.1
+    }
+  }
+}

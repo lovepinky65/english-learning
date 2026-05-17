@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/street_food.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.33,
-      "end": 1.51
+      "start": 0.25,
+      "end": 1.19
     },
     "chineseWord": {
-      "start": 2.07,
+      "start": 2.13,
       "end": 3.58
     },
     "exampleSentence1English": {
-      "start": 4.12,
-      "end": 8.68
+      "start": 4.15,
+      "end": 8.49
     },
     "exampleSentence1Chinese": {
-      "start": 9.32,
-      "end": 13.88
+      "start": 9.14,
+      "end": 14.22
     },
     "exampleSentence2English": {
-      "start": 14.71,
-      "end": 18.45
+      "start": 14.89,
+      "end": 18.6
     },
     "exampleSentence2Chinese": {
-      "start": 19.31,
-      "end": 23.68
+      "start": 19.33,
+      "end": 23.96
     }
   }
 }

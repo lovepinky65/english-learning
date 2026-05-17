@@ -1,0 +1,30 @@
+{
+  "word": "economy_class",
+  "audioFile": "audio-assets/audio/economy_class_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 1.63
+    },
+    "chineseWord": {
+      "start": 2.38,
+      "end": 3.55
+    },
+    "exampleSentence1English": {
+      "start": 4.26,
+      "end": 9.22
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.02,
+      "end": 13.95
+    },
+    "exampleSentence2English": {
+      "start": 14.59,
+      "end": 19.29
+    },
+    "exampleSentence2Chinese": {
+      "start": 20.47,
+      "end": 25.49
+    }
+  }
+}

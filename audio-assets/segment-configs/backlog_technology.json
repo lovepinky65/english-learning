@@ -1,0 +1,30 @@
+{
+  "word": "backlog",
+  "audioFile": "audio-assets/audio/backlog_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 0.97
+    },
+    "chineseWord": {
+      "start": 1.47,
+      "end": 2.77
+    },
+    "exampleSentence1English": {
+      "start": 3.16,
+      "end": 10.98
+    },
+    "exampleSentence1Chinese": {
+      "start": 11.63,
+      "end": 19.52
+    },
+    "exampleSentence2English": {
+      "start": 19.95,
+      "end": 26.18
+    },
+    "exampleSentence2Chinese": {
+      "start": 26.89,
+      "end": 34.14
+    }
+  }
+}

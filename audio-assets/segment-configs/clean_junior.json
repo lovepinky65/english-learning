@@ -1,0 +1,30 @@
+{
+  "word": "clean_junior",
+  "audioFile": "audio-assets/audio/clean_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.37,
+      "end": 1.16
+    },
+    "chineseWord": {
+      "start": 1.92,
+      "end": 2.83
+    },
+    "exampleSentence1English": {
+      "start": 3.54,
+      "end": 5.45
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.22,
+      "end": 8.5
+    },
+    "exampleSentence2English": {
+      "start": 9.28,
+      "end": 12.16
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.97,
+      "end": 16.28
+    }
+  }
+}

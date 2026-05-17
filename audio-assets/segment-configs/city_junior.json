@@ -1,0 +1,30 @@
+{
+  "word": "city_junior",
+  "audioFile": "audio-assets/audio/city_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.44,
+      "end": 0.99
+    },
+    "chineseWord": {
+      "start": 1.46,
+      "end": 2.42
+    },
+    "exampleSentence1English": {
+      "start": 3.24,
+      "end": 7
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.45,
+      "end": 12.13
+    },
+    "exampleSentence2English": {
+      "start": 12.58,
+      "end": 15.65
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.02,
+      "end": 19.56
+    }
+  }
+}

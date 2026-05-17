@@ -1,0 +1,30 @@
+{
+  "word": "bridge_junior",
+  "audioFile": "audio-assets/audio/bridge_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.27,
+      "end": 1.15
+    },
+    "chineseWord": {
+      "start": 1.55,
+      "end": 2.3
+    },
+    "exampleSentence1English": {
+      "start": 2.75,
+      "end": 5.37
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.93,
+      "end": 8.98
+    },
+    "exampleSentence2English": {
+      "start": 9.49,
+      "end": 11.7
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.29,
+      "end": 14.9
+    }
+  }
+}

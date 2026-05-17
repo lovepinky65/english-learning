@@ -1,0 +1,30 @@
+{
+  "word": "game_junior",
+  "audioFile": "audio-assets/audio/game_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.85
+    },
+    "chineseWord": {
+      "start": 1.35,
+      "end": 2.09
+    },
+    "exampleSentence1English": {
+      "start": 2.6,
+      "end": 4.49
+    },
+    "exampleSentence1Chinese": {
+      "start": 4.9,
+      "end": 7.35
+    },
+    "exampleSentence2English": {
+      "start": 7.82,
+      "end": 9.53
+    },
+    "exampleSentence2Chinese": {
+      "start": 10.08,
+      "end": 11.81
+    }
+  }
+}

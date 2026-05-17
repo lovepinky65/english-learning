@@ -1,0 +1,30 @@
+{
+  "word": "shark_junior",
+  "audioFile": "audio-assets/audio/shark_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 0.87
+    },
+    "chineseWord": {
+      "start": 1.76,
+      "end": 2.8
+    },
+    "exampleSentence1English": {
+      "start": 3.56,
+      "end": 6.91
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.81,
+      "end": 11.59
+    },
+    "exampleSentence2English": {
+      "start": 12.58,
+      "end": 16
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.95,
+      "end": 20.94
+    }
+  }
+}

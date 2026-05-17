@@ -1,0 +1,30 @@
+{
+  "word": "customs",
+  "audioFile": "audio-assets/audio/customs_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.28,
+      "end": 1.29
+    },
+    "chineseWord": {
+      "start": 1.83,
+      "end": 2.76
+    },
+    "exampleSentence1English": {
+      "start": 3.33,
+      "end": 7.34
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.99,
+      "end": 11.68
+    },
+    "exampleSentence2English": {
+      "start": 12.63,
+      "end": 16.84
+    },
+    "exampleSentence2Chinese": {
+      "start": 17.54,
+      "end": 22.11
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "plant_junior",
+  "audioFile": "audio-assets/audio/plant_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.39,
+      "end": 0.95
+    },
+    "chineseWord": {
+      "start": 1.59,
+      "end": 2.57
+    },
+    "exampleSentence1English": {
+      "start": 3.01,
+      "end": 6.32
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.74,
+      "end": 9.25
+    },
+    "exampleSentence2English": {
+      "start": 9.77,
+      "end": 12.17
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.64,
+      "end": 14.81
+    }
+  }
+}

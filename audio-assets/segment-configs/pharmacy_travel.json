@@ -1,0 +1,30 @@
+{
+  "word": "pharmacy_travel",
+  "audioFile": "audio-assets/audio/pharmacy_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.15
+    },
+    "chineseWord": {
+      "start": 1.69,
+      "end": 4.15
+    },
+    "exampleSentence1English": {
+      "start": 4.77,
+      "end": 9.3
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.99,
+      "end": 14.38
+    },
+    "exampleSentence2English": {
+      "start": 15.24,
+      "end": 18.39
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.1,
+      "end": 22.55
+    }
+  }
+}

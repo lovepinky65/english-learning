@@ -1,0 +1,30 @@
+{
+  "word": "repository",
+  "audioFile": "audio-assets/audio/repository_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.37
+    },
+    "chineseWord": {
+      "start": 2.73,
+      "end": 4.15
+    },
+    "exampleSentence1English": {
+      "start": 5.18,
+      "end": 12.18
+    },
+    "exampleSentence1Chinese": {
+      "start": 12.92,
+      "end": 20.47
+    },
+    "exampleSentence2English": {
+      "start": 21.79,
+      "end": 28.4
+    },
+    "exampleSentence2Chinese": {
+      "start": 29.41,
+      "end": 37.31
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "sore_throat",
+  "audioFile": "audio-assets/audio/sore_throat.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.33,
+      "end": 1.25
+    },
+    "chineseWord": {
+      "start": 1.79,
+      "end": 2.79
+    },
+    "exampleSentence1English": {
+      "start": 3.19,
+      "end": 7.95
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.46,
+      "end": 13.28
+    },
+    "exampleSentence2English": {
+      "start": 13.92,
+      "end": 17.73
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.18,
+      "end": 22.82
+    }
+  }
+}

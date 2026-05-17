@@ -1,0 +1,30 @@
+{
+  "word": "bake_junior",
+  "audioFile": "audio-assets/audio/bake_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.28,
+      "end": 0.85
+    },
+    "chineseWord": {
+      "start": 2.49,
+      "end": 3.29
+    },
+    "exampleSentence1English": {
+      "start": 4.33,
+      "end": 7.06
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.71,
+      "end": 10.86
+    },
+    "exampleSentence2English": {
+      "start": 11.53,
+      "end": 14.28
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.86,
+      "end": 18.01
+    }
+  }
+}

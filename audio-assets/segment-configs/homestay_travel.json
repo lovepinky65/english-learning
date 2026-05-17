@@ -1,0 +1,30 @@
+{
+  "word": "homestay_travel",
+  "audioFile": "audio-assets/audio/homestay_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.31,
+      "end": 1.1
+    },
+    "chineseWord": {
+      "start": 1.71,
+      "end": 2.68
+    },
+    "exampleSentence1English": {
+      "start": 3.74,
+      "end": 7.83
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.99,
+      "end": 12.86
+    },
+    "exampleSentence2English": {
+      "start": 14.18,
+      "end": 18.12
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.52,
+      "end": 24.88
+    }
+  }
+}

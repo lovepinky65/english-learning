@@ -1,0 +1,30 @@
+{
+  "word": "encryption",
+  "audioFile": "audio-assets/audio/encryption_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.1
+    },
+    "chineseWord": {
+      "start": 1.78,
+      "end": 2.59
+    },
+    "exampleSentence1English": {
+      "start": 3.09,
+      "end": 10.03
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.95,
+      "end": 16.99
+    },
+    "exampleSentence2English": {
+      "start": 17.48,
+      "end": 23
+    },
+    "exampleSentence2Chinese": {
+      "start": 23.67,
+      "end": 30.52
+    }
+  }
+}

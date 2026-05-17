@@ -1,0 +1,30 @@
+{
+  "word": "car_junior",
+  "audioFile": "audio-assets/audio/car_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 0.94
+    },
+    "chineseWord": {
+      "start": 1.33,
+      "end": 2.2
+    },
+    "exampleSentence1English": {
+      "start": 3.11,
+      "end": 5.9
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.48,
+      "end": 9.28
+    },
+    "exampleSentence2English": {
+      "start": 10.08,
+      "end": 13.47
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.83,
+      "end": 17.05
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "cloud",
+  "audioFile": "audio-assets/audio/cloud_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.31,
+      "end": 0.93
+    },
+    "chineseWord": {
+      "start": 1.5,
+      "end": 2.33
+    },
+    "exampleSentence1English": {
+      "start": 2.76,
+      "end": 8.52
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.99,
+      "end": 13.85
+    },
+    "exampleSentence2English": {
+      "start": 14.26,
+      "end": 20.77
+    },
+    "exampleSentence2Chinese": {
+      "start": 21.36,
+      "end": 28.36
+    }
+  }
+}

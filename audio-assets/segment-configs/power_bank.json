@@ -1,0 +1,30 @@
+{
+  "word": "power_bank",
+  "audioFile": "audio-assets/audio/power_bank.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.37,
+      "end": 1.25
+    },
+    "chineseWord": {
+      "start": 1.78,
+      "end": 3.28
+    },
+    "exampleSentence1English": {
+      "start": 3.88,
+      "end": 8.39
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.15,
+      "end": 15.11
+    },
+    "exampleSentence2English": {
+      "start": 15.99,
+      "end": 19.92
+    },
+    "exampleSentence2Chinese": {
+      "start": 20.7,
+      "end": 24.92
+    }
+  }
+}

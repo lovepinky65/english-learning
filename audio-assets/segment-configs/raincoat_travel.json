@@ -1,0 +1,30 @@
+{
+  "word": "raincoat_travel",
+  "audioFile": "audio-assets/audio/raincoat_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.27,
+      "end": 1.17
+    },
+    "chineseWord": {
+      "start": 1.72,
+      "end": 2.51
+    },
+    "exampleSentence1English": {
+      "start": 2.94,
+      "end": 8.13
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.77,
+      "end": 13.63
+    },
+    "exampleSentence2English": {
+      "start": 14.04,
+      "end": 18.91
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.57,
+      "end": 24.53
+    }
+  }
+}

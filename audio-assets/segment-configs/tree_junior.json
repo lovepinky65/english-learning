@@ -1,0 +1,30 @@
+{
+  "word": "tree_junior",
+  "audioFile": "audio-assets/audio/tree_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 0.96
+    },
+    "chineseWord": {
+      "start": 1.92,
+      "end": 2.53
+    },
+    "exampleSentence1English": {
+      "start": 3.46,
+      "end": 6.79
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.77,
+      "end": 12.06
+    },
+    "exampleSentence2English": {
+      "start": 12.98,
+      "end": 15.29
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.25,
+      "end": 19.65
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "stone_junior",
+  "audioFile": "audio-assets/audio/stone_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 1.05
+    },
+    "chineseWord": {
+      "start": 1.93,
+      "end": 2.92
+    },
+    "exampleSentence1English": {
+      "start": 3.82,
+      "end": 6.78
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.91,
+      "end": 11.96
+    },
+    "exampleSentence2English": {
+      "start": 12.91,
+      "end": 15.51
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.61,
+      "end": 19.57
+    }
+  }
+}

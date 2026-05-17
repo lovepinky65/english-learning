@@ -1,0 +1,30 @@
+{
+  "word": "thick_junior",
+  "audioFile": "audio-assets/audio/thick_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.38,
+      "end": 0.8
+    },
+    "chineseWord": {
+      "start": 1.61,
+      "end": 2.28
+    },
+    "exampleSentence1English": {
+      "start": 2.8,
+      "end": 5.68
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.24,
+      "end": 9.61
+    },
+    "exampleSentence2English": {
+      "start": 10.1,
+      "end": 13.68
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.16,
+      "end": 17.06
+    }
+  }
+}

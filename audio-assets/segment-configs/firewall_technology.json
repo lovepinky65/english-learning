@@ -1,0 +1,30 @@
+{
+  "word": "firewall",
+  "audioFile": "audio-assets/audio/firewall_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.26
+    },
+    "chineseWord": {
+      "start": 2.22,
+      "end": 3.65
+    },
+    "exampleSentence1English": {
+      "start": 4.77,
+      "end": 10.52
+    },
+    "exampleSentence1Chinese": {
+      "start": 11.76,
+      "end": 17.49
+    },
+    "exampleSentence2English": {
+      "start": 18.51,
+      "end": 25
+    },
+    "exampleSentence2Chinese": {
+      "start": 26.32,
+      "end": 30.77
+    }
+  }
+}

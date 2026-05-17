@@ -1,0 +1,30 @@
+{
+  "word": "arrival",
+  "audioFile": "audio-assets/audio/arrival_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 1.22
+    },
+    "chineseWord": {
+      "start": 1.6,
+      "end": 2.43
+    },
+    "exampleSentence1English": {
+      "start": 2.83,
+      "end": 7.11
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.65,
+      "end": 11.42
+    },
+    "exampleSentence2English": {
+      "start": 11.94,
+      "end": 16
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.54,
+      "end": 20.4
+    }
+  }
+}

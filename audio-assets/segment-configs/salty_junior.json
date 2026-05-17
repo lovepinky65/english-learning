@@ -1,0 +1,30 @@
+{
+  "word": "salty_junior",
+  "audioFile": "audio-assets/audio/salty_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.36,
+      "end": 0.94
+    },
+    "chineseWord": {
+      "start": 1.56,
+      "end": 2.3
+    },
+    "exampleSentence1English": {
+      "start": 2.98,
+      "end": 5.04
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.9,
+      "end": 8.34
+    },
+    "exampleSentence2English": {
+      "start": 8.98,
+      "end": 12.02
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.72,
+      "end": 15.71
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "theater_junior",
+  "audioFile": "audio-assets/audio/theater_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.33,
+      "end": 1.05
+    },
+    "chineseWord": {
+      "start": 1.61,
+      "end": 2.37
+    },
+    "exampleSentence1English": {
+      "start": 2.87,
+      "end": 6.57
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.03,
+      "end": 10.75
+    },
+    "exampleSentence2English": {
+      "start": 11.23,
+      "end": 14.08
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.5,
+      "end": 17.28
+    }
+  }
+}

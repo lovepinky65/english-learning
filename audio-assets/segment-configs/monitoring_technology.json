@@ -1,0 +1,30 @@
+{
+  "word": "monitoring",
+  "audioFile": "audio-assets/audio/monitoring_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 6.17
+    },
+    "chineseWord": {
+      "start": 6.69,
+      "end": 12.68
+    },
+    "exampleSentence1English": {
+      "start": 13.25,
+      "end": 14.87
+    },
+    "exampleSentence1Chinese": {
+      "start": 15,
+      "end": 18.72
+    },
+    "exampleSentence2English": {
+      "start": 19.36,
+      "end": 20.89
+    },
+    "exampleSentence2Chinese": {
+      "start": 21.04,
+      "end": 25.19
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "comfortable_travel",
+  "audioFile": "audio-assets/audio/comfortable_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.4,
+      "end": 1.39
+    },
+    "chineseWord": {
+      "start": 1.97,
+      "end": 2.94
+    },
+    "exampleSentence1English": {
+      "start": 3.6,
+      "end": 8.74
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.48,
+      "end": 14.04
+    },
+    "exampleSentence2English": {
+      "start": 14.65,
+      "end": 18.73
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.57,
+      "end": 23.51
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "fence_junior",
+  "audioFile": "audio-assets/audio/fence_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.32,
+      "end": 1.05
+    },
+    "chineseWord": {
+      "start": 1.44,
+      "end": 2.41
+    },
+    "exampleSentence1English": {
+      "start": 2.73,
+      "end": 5.58
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.94,
+      "end": 9.7
+    },
+    "exampleSentence2English": {
+      "start": 10.1,
+      "end": 12.83
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.25,
+      "end": 15.81
+    }
+  }
+}

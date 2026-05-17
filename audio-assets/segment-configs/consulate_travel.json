@@ -1,0 +1,30 @@
+{
+  "word": "consulate_travel",
+  "audioFile": "audio-assets/audio/consulate_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.38,
+      "end": 1.17
+    },
+    "chineseWord": {
+      "start": 1.77,
+      "end": 2.96
+    },
+    "exampleSentence1English": {
+      "start": 3.67,
+      "end": 6.92
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.66,
+      "end": 11.17
+    },
+    "exampleSentence2English": {
+      "start": 11.81,
+      "end": 16.26
+    },
+    "exampleSentence2Chinese": {
+      "start": 17.4,
+      "end": 22
+    }
+  }
+}

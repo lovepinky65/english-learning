@@ -1,0 +1,30 @@
+{
+  "word": "query",
+  "audioFile": "audio-assets/audio/query_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 0.95
+    },
+    "chineseWord": {
+      "start": 1.52,
+      "end": 7.32
+    },
+    "exampleSentence1English": {
+      "start": 7.75,
+      "end": 9.29
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.91,
+      "end": 16.42
+    },
+    "exampleSentence2English": {
+      "start": 17.09,
+      "end": 23.88
+    },
+    "exampleSentence2Chinese": {
+      "start": 24.73,
+      "end": 31.14
+    }
+  }
+}

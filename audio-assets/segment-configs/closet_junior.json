@@ -1,0 +1,30 @@
+{
+  "word": "closet_junior",
+  "audioFile": "audio-assets/audio/closet_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.39,
+      "end": 1.06
+    },
+    "chineseWord": {
+      "start": 1.7,
+      "end": 2.69
+    },
+    "exampleSentence1English": {
+      "start": 3.13,
+      "end": 5.89
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.5,
+      "end": 9.47
+    },
+    "exampleSentence2English": {
+      "start": 10.13,
+      "end": 13.29
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.94,
+      "end": 17.33
+    }
+  }
+}

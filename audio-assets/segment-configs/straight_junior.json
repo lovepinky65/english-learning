@@ -1,0 +1,30 @@
+{
+  "word": "straight_junior",
+  "audioFile": "audio-assets/audio/straight_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.05
+    },
+    "chineseWord": {
+      "start": 1.7,
+      "end": 3.65
+    },
+    "exampleSentence1English": {
+      "start": 4.14,
+      "end": 7.11
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.69,
+      "end": 10.5
+    },
+    "exampleSentence2English": {
+      "start": 11.07,
+      "end": 13.72
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.36,
+      "end": 16.43
+    }
+  }
+}

@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/overhead_bin.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.21,
+      "start": 0.2,
       "end": 1.39
     },
     "chineseWord": {
-      "start": 1.96,
-      "end": 3.31
+      "start": 1.94,
+      "end": 3.37
     },
     "exampleSentence1English": {
-      "start": 3.73,
-      "end": 7.43
+      "start": 3.79,
+      "end": 7.89
     },
     "exampleSentence1Chinese": {
-      "start": 8.06,
-      "end": 12.57
+      "start": 8.4,
+      "end": 13.02
     },
     "exampleSentence2English": {
-      "start": 13.1,
-      "end": 16.82
+      "start": 13.47,
+      "end": 17.71
     },
     "exampleSentence2Chinese": {
-      "start": 17.73,
-      "end": 21.71
+      "start": 18.27,
+      "end": 22.49
     }
   }
 }

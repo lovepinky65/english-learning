@@ -1,0 +1,30 @@
+{
+  "word": "sweater_junior",
+  "audioFile": "audio-assets/audio/sweater_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.13
+    },
+    "chineseWord": {
+      "start": 1.81,
+      "end": 2.57
+    },
+    "exampleSentence1English": {
+      "start": 3.61,
+      "end": 6.29
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.04,
+      "end": 10
+    },
+    "exampleSentence2English": {
+      "start": 11.17,
+      "end": 15.06
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.98,
+      "end": 19.36
+    }
+  }
+}

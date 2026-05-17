@@ -1,0 +1,30 @@
+{
+  "word": "exchange_rate",
+  "audioFile": "audio-assets/audio/exchange_rate.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 1.51
+    },
+    "chineseWord": {
+      "start": 1.99,
+      "end": 2.91
+    },
+    "exampleSentence1English": {
+      "start": 3.34,
+      "end": 8.74
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.29,
+      "end": 13.83
+    },
+    "exampleSentence2English": {
+      "start": 14.23,
+      "end": 18.6
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.39,
+      "end": 23.69
+    }
+  }
+}

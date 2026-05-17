@@ -1,0 +1,30 @@
+{
+  "word": "wolf_junior",
+  "audioFile": "audio-assets/audio/wolf_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.27,
+      "end": 0.93
+    },
+    "chineseWord": {
+      "start": 1.62,
+      "end": 2.24
+    },
+    "exampleSentence1English": {
+      "start": 2.92,
+      "end": 4.9
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.35,
+      "end": 9.41
+    },
+    "exampleSentence2English": {
+      "start": 9.83,
+      "end": 17.47
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.14,
+      "end": 21.81
+    }
+  }
+}

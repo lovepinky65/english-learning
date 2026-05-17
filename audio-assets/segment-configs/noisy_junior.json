@@ -1,0 +1,30 @@
+{
+  "word": "noisy_junior",
+  "audioFile": "audio-assets/audio/noisy_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.26
+    },
+    "chineseWord": {
+      "start": 1.8,
+      "end": 2.92
+    },
+    "exampleSentence1English": {
+      "start": 3.37,
+      "end": 6.8
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.29,
+      "end": 10.9
+    },
+    "exampleSentence2English": {
+      "start": 11.34,
+      "end": 14.49
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.92,
+      "end": 18.58
+    }
+  }
+}

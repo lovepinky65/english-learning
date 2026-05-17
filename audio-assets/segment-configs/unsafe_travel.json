@@ -1,0 +1,30 @@
+{
+  "word": "unsafe_travel",
+  "audioFile": "audio-assets/audio/unsafe_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 1
+    },
+    "chineseWord": {
+      "start": 1.62,
+      "end": 2.59
+    },
+    "exampleSentence1English": {
+      "start": 3.31,
+      "end": 7.24
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.02,
+      "end": 12.39
+    },
+    "exampleSentence2English": {
+      "start": 13.3,
+      "end": 17.24
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.01,
+      "end": 22.27
+    }
+  }
+}

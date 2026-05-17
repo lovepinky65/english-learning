@@ -1,0 +1,30 @@
+{
+  "word": "gateway",
+  "audioFile": "audio-assets/audio/gateway_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.26,
+      "end": 0.98
+    },
+    "chineseWord": {
+      "start": 1.46,
+      "end": 2.1
+    },
+    "exampleSentence1English": {
+      "start": 2.54,
+      "end": 8.68
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.24,
+      "end": 15.54
+    },
+    "exampleSentence2English": {
+      "start": 15.99,
+      "end": 22.44
+    },
+    "exampleSentence2Chinese": {
+      "start": 22.85,
+      "end": 29.84
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "cough_travel",
+  "audioFile": "audio-assets/audio/cough_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 0.85
+    },
+    "chineseWord": {
+      "start": 1.59,
+      "end": 2.07
+    },
+    "exampleSentence1English": {
+      "start": 3.06,
+      "end": 3.84
+    },
+    "exampleSentence1Chinese": {
+      "start": 4.58,
+      "end": 14.41
+    },
+    "exampleSentence2English": {
+      "start": 15.24,
+      "end": 18.99
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.7,
+      "end": 23.56
+    }
+  }
+}

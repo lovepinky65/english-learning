@@ -1,0 +1,30 @@
+{
+  "word": "zipper_junior",
+  "audioFile": "audio-assets/audio/zipper_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 0.99
+    },
+    "chineseWord": {
+      "start": 1.51,
+      "end": 2.31
+    },
+    "exampleSentence1English": {
+      "start": 2.78,
+      "end": 5.33
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.84,
+      "end": 7.85
+    },
+    "exampleSentence2English": {
+      "start": 8.43,
+      "end": 10.72
+    },
+    "exampleSentence2Chinese": {
+      "start": 11.19,
+      "end": 14.11
+    }
+  }
+}

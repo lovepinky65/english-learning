@@ -1,0 +1,30 @@
+{
+  "word": "prediction",
+  "audioFile": "audio-assets/audio/prediction_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.16
+    },
+    "chineseWord": {
+      "start": 1.64,
+      "end": 2.41
+    },
+    "exampleSentence1English": {
+      "start": 3.1,
+      "end": 10.42
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.85,
+      "end": 17.99
+    },
+    "exampleSentence2English": {
+      "start": 18.76,
+      "end": 25.56
+    },
+    "exampleSentence2Chinese": {
+      "start": 25.95,
+      "end": 31.71
+    }
+  }
+}

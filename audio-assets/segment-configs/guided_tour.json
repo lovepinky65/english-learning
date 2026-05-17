@@ -1,0 +1,30 @@
+{
+  "word": "guided_tour",
+  "audioFile": "audio-assets/audio/guided_tour.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.43
+    },
+    "chineseWord": {
+      "start": 1.91,
+      "end": 3.31
+    },
+    "exampleSentence1English": {
+      "start": 3.85,
+      "end": 7.74
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.29,
+      "end": 12.4
+    },
+    "exampleSentence2English": {
+      "start": 13.13,
+      "end": 17.39
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.04,
+      "end": 22.79
+    }
+  }
+}

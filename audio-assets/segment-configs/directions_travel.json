@@ -1,0 +1,30 @@
+{
+  "word": "directions_travel",
+  "audioFile": "audio-assets/audio/directions_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.24
+    },
+    "chineseWord": {
+      "start": 1.74,
+      "end": 2.98
+    },
+    "exampleSentence1English": {
+      "start": 3.46,
+      "end": 7.13
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.84,
+      "end": 12.73
+    },
+    "exampleSentence2English": {
+      "start": 13.44,
+      "end": 17.74
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.66,
+      "end": 23.02
+    }
+  }
+}

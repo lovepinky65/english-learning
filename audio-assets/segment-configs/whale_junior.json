@@ -1,0 +1,30 @@
+{
+  "word": "whale_junior",
+  "audioFile": "audio-assets/audio/whale_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.17,
+      "end": 1.15
+    },
+    "chineseWord": {
+      "start": 1.43,
+      "end": 4.62
+    },
+    "exampleSentence1English": {
+      "start": 4.96,
+      "end": 5.9
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.3,
+      "end": 9.69
+    },
+    "exampleSentence2English": {
+      "start": 10.11,
+      "end": 13.67
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.08,
+      "end": 17.54
+    }
+  }
+}

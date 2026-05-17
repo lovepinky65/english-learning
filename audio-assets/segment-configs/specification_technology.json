@@ -1,0 +1,30 @@
+{
+  "word": "specification",
+  "audioFile": "audio-assets/audio/specification_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 1.46
+    },
+    "chineseWord": {
+      "start": 2.14,
+      "end": 3.62
+    },
+    "exampleSentence1English": {
+      "start": 4.17,
+      "end": 11.06
+    },
+    "exampleSentence1Chinese": {
+      "start": 11.56,
+      "end": 18.69
+    },
+    "exampleSentence2English": {
+      "start": 19.08,
+      "end": 25.85
+    },
+    "exampleSentence2Chinese": {
+      "start": 26.33,
+      "end": 33.68
+    }
+  }
+}

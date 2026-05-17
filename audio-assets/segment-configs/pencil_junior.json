@@ -1,0 +1,30 @@
+{
+  "word": "pencil_junior",
+  "audioFile": "audio-assets/audio/pencil_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.32,
+      "end": 1.03
+    },
+    "chineseWord": {
+      "start": 1.59,
+      "end": 2.33
+    },
+    "exampleSentence1English": {
+      "start": 3.04,
+      "end": 5.35
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.21,
+      "end": 9.04
+    },
+    "exampleSentence2English": {
+      "start": 9.58,
+      "end": 11.56
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.33,
+      "end": 14.47
+    }
+  }
+}

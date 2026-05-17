@@ -1,0 +1,30 @@
+{
+  "word": "pepper_junior",
+  "audioFile": "audio-assets/audio/pepper_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.33,
+      "end": 0.96
+    },
+    "chineseWord": {
+      "start": 1.51,
+      "end": 3.12
+    },
+    "exampleSentence1English": {
+      "start": 3.59,
+      "end": 5.76
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.37,
+      "end": 9.5
+    },
+    "exampleSentence2English": {
+      "start": 9.97,
+      "end": 12.31
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.95,
+      "end": 15.64
+    }
+  }
+}

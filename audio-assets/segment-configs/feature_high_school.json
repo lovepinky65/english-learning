@@ -1,0 +1,30 @@
+{
+  "word": "feature",
+  "audioFile": "audio-assets/audio/feature_high_school.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1
+    },
+    "chineseWord": {
+      "start": 1.39,
+      "end": 2.06
+    },
+    "exampleSentence1English": {
+      "start": 2.47,
+      "end": 6.47
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.93,
+      "end": 11.42
+    },
+    "exampleSentence2English": {
+      "start": 11.93,
+      "end": 15.4
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.81,
+      "end": 18.77
+    }
+  }
+}

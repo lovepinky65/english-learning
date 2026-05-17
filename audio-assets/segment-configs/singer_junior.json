@@ -1,0 +1,30 @@
+{
+  "word": "singer_junior",
+  "audioFile": "audio-assets/audio/singer_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.38,
+      "end": 1.13
+    },
+    "chineseWord": {
+      "start": 1.48,
+      "end": 2.26
+    },
+    "exampleSentence1English": {
+      "start": 3.04,
+      "end": 6.69
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.26,
+      "end": 10.63
+    },
+    "exampleSentence2English": {
+      "start": 11.2,
+      "end": 14
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.58,
+      "end": 17.67
+    }
+  }
+}

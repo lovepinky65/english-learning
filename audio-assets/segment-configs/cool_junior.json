@@ -1,0 +1,30 @@
+{
+  "word": "cool_junior",
+  "audioFile": "audio-assets/audio/cool_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 1.03
+    },
+    "chineseWord": {
+      "start": 1.73,
+      "end": 2.63
+    },
+    "exampleSentence1English": {
+      "start": 3.69,
+      "end": 6.97
+    },
+    "exampleSentence1Chinese": {
+      "start": 8,
+      "end": 11.56
+    },
+    "exampleSentence2English": {
+      "start": 12.53,
+      "end": 15.83
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.72,
+      "end": 19.91
+    }
+  }
+}

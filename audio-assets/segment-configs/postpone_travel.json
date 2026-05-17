@@ -1,0 +1,30 @@
+{
+  "word": "postpone",
+  "audioFile": "audio-assets/audio/postpone_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.21,
+      "end": 1.31
+    },
+    "chineseWord": {
+      "start": 2.16,
+      "end": 3.12
+    },
+    "exampleSentence1English": {
+      "start": 4.27,
+      "end": 8
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.25,
+      "end": 13.25
+    },
+    "exampleSentence2English": {
+      "start": 14.41,
+      "end": 19.02
+    },
+    "exampleSentence2Chinese": {
+      "start": 20.38,
+      "end": 25.45
+    }
+  }
+}

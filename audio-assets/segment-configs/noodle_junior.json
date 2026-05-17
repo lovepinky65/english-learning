@@ -1,0 +1,30 @@
+{
+  "word": "noodle_junior",
+  "audioFile": "audio-assets/audio/noodle_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 0.91
+    },
+    "chineseWord": {
+      "start": 1.36,
+      "end": 2.23
+    },
+    "exampleSentence1English": {
+      "start": 2.74,
+      "end": 6.01
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.52,
+      "end": 9.09
+    },
+    "exampleSentence2English": {
+      "start": 9.54,
+      "end": 12.18
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.58,
+      "end": 15.38
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "rent_travel",
+  "audioFile": "audio-assets/audio/rent_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.29,
+      "end": 0.84
+    },
+    "chineseWord": {
+      "start": 1.62,
+      "end": 2.33
+    },
+    "exampleSentence1English": {
+      "start": 2.96,
+      "end": 8.55
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.21,
+      "end": 14.8
+    },
+    "exampleSentence2English": {
+      "start": 15.36,
+      "end": 20.12
+    },
+    "exampleSentence2Chinese": {
+      "start": 20.77,
+      "end": 25.55
+    }
+  }
+}

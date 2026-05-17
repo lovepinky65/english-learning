@@ -1,0 +1,30 @@
+{
+  "word": "happy_junior",
+  "audioFile": "audio-assets/audio/happy_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 0.91
+    },
+    "chineseWord": {
+      "start": 1.41,
+      "end": 2.37
+    },
+    "exampleSentence1English": {
+      "start": 3.12,
+      "end": 5.96
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.83,
+      "end": 9.93
+    },
+    "exampleSentence2English": {
+      "start": 10.37,
+      "end": 12.86
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.59,
+      "end": 16.54
+    }
+  }
+}

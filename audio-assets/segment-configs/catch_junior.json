@@ -1,0 +1,30 @@
+{
+  "word": "catch_junior",
+  "audioFile": "audio-assets/audio/catch_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.28,
+      "end": 0.85
+    },
+    "chineseWord": {
+      "start": 1.45,
+      "end": 2.11
+    },
+    "exampleSentence1English": {
+      "start": 2.69,
+      "end": 5.24
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.77,
+      "end": 9.22
+    },
+    "exampleSentence2English": {
+      "start": 9.68,
+      "end": 11.39
+    },
+    "exampleSentence2Chinese": {
+      "start": 11.87,
+      "end": 14.26
+    }
+  }
+}

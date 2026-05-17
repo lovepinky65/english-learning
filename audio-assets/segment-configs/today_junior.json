@@ -1,0 +1,30 @@
+{
+  "word": "today_junior",
+  "audioFile": "audio-assets/audio/today_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.1
+    },
+    "chineseWord": {
+      "start": 2.44,
+      "end": 3.33
+    },
+    "exampleSentence1English": {
+      "start": 4.12,
+      "end": 6.1
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.4,
+      "end": 9.44
+    },
+    "exampleSentence2English": {
+      "start": 10.3,
+      "end": 12.45
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.72,
+      "end": 15.64
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "group_tour",
+  "audioFile": "audio-assets/audio/group_tour.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.41,
+      "end": 1.43
+    },
+    "chineseWord": {
+      "start": 2.09,
+      "end": 3.48
+    },
+    "exampleSentence1English": {
+      "start": 4.46,
+      "end": 10.67
+    },
+    "exampleSentence1Chinese": {
+      "start": 11.41,
+      "end": 16.78
+    },
+    "exampleSentence2English": {
+      "start": 17.73,
+      "end": 23.62
+    },
+    "exampleSentence2Chinese": {
+      "start": 24.28,
+      "end": 29.69
+    }
+  }
+}

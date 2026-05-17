@@ -1,0 +1,30 @@
+{
+  "word": "dog_junior",
+  "audioFile": "audio-assets/audio/dog_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 0.84
+    },
+    "chineseWord": {
+      "start": 1.4,
+      "end": 2.08
+    },
+    "exampleSentence1English": {
+      "start": 2.41,
+      "end": 5.85
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.28,
+      "end": 9.33
+    },
+    "exampleSentence2English": {
+      "start": 9.79,
+      "end": 12.77
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.6,
+      "end": 17.25
+    }
+  }
+}

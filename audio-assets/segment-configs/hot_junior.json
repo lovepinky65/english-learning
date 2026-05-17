@@ -1,0 +1,30 @@
+{
+  "word": "hot_junior",
+  "audioFile": "audio-assets/audio/hot_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.3,
+      "end": 0.78
+    },
+    "chineseWord": {
+      "start": 1.47,
+      "end": 2.27
+    },
+    "exampleSentence1English": {
+      "start": 2.85,
+      "end": 5.87
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.35,
+      "end": 8.56
+    },
+    "exampleSentence2English": {
+      "start": 8.98,
+      "end": 12.26
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.61,
+      "end": 14.99
+    }
+  }
+}

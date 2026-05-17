@@ -1,0 +1,30 @@
+{
+  "word": "actuator",
+  "audioFile": "audio-assets/audio/actuator_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.2,
+      "end": 1.05
+    },
+    "chineseWord": {
+      "start": 1.65,
+      "end": 2.69
+    },
+    "exampleSentence1English": {
+      "start": 3.3,
+      "end": 10
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.64,
+      "end": 18.69
+    },
+    "exampleSentence2English": {
+      "start": 19.2,
+      "end": 23.84
+    },
+    "exampleSentence2Chinese": {
+      "start": 24.4,
+      "end": 30.37
+    }
+  }
+}

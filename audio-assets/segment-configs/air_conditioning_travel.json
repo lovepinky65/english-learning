@@ -1,0 +1,30 @@
+{
+  "word": "air_conditioning",
+  "audioFile": "audio-assets/audio/air_conditioning_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.4
+    },
+    "chineseWord": {
+      "start": 2.19,
+      "end": 3.07
+    },
+    "exampleSentence1English": {
+      "start": 3.69,
+      "end": 8.22
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.72,
+      "end": 13.57
+    },
+    "exampleSentence2English": {
+      "start": 14.29,
+      "end": 18.47
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.23,
+      "end": 23.23
+    }
+  }
+}

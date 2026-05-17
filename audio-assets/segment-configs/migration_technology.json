@@ -1,0 +1,30 @@
+{
+  "word": "migration",
+  "audioFile": "audio-assets/audio/migration_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.22,
+      "end": 1.26
+    },
+    "chineseWord": {
+      "start": 1.58,
+      "end": 2.43
+    },
+    "exampleSentence1English": {
+      "start": 2.97,
+      "end": 6.42
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.46,
+      "end": 9.32
+    },
+    "exampleSentence2English": {
+      "start": 9.89,
+      "end": 13.41
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.55,
+      "end": 16.14
+    }
+  }
+}

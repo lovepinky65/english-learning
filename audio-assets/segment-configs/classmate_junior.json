@@ -1,0 +1,30 @@
+{
+  "word": "classmate_junior",
+  "audioFile": "audio-assets/audio/classmate_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.32,
+      "end": 1.05
+    },
+    "chineseWord": {
+      "start": 1.64,
+      "end": 2.49
+    },
+    "exampleSentence1English": {
+      "start": 2.98,
+      "end": 5.63
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.34,
+      "end": 9.63
+    },
+    "exampleSentence2English": {
+      "start": 10.45,
+      "end": 12.69
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.52,
+      "end": 15.8
+    }
+  }
+}
