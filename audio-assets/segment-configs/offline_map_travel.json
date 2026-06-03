@@ -1,0 +1,30 @@
+{
+  "word": "offline_map_travel",
+  "audioFile": "audio-assets/audio/offline_map_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.23,
+      "end": 1.5
+    },
+    "chineseWord": {
+      "start": 2.08,
+      "end": 3.49
+    },
+    "exampleSentence1English": {
+      "start": 3.93,
+      "end": 8.89
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.4,
+      "end": 13.75
+    },
+    "exampleSentence2English": {
+      "start": 14.34,
+      "end": 19.52
+    },
+    "exampleSentence2Chinese": {
+      "start": 20.09,
+      "end": 24.97
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "ticket_counter_travel",
+  "audioFile": "audio-assets/audio/ticket_counter_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.33,
+      "end": 1.53
+    },
+    "chineseWord": {
+      "start": 2.06,
+      "end": 3.3
+    },
+    "exampleSentence1English": {
+      "start": 3.71,
+      "end": 8.61
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.16,
+      "end": 13.31
+    },
+    "exampleSentence2English": {
+      "start": 13.68,
+      "end": 18.99
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.61,
+      "end": 24.68
+    }
+  }
+}

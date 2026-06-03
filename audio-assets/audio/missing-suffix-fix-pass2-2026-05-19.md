@@ -1,0 +1,61 @@
+# Rename Report - 2026-05-19
+
+- [UNRESOLVED] air_conditioning_.mp3: no matching config found
+- [UNRESOLVED] aisle_seat_.mp3: no matching config found
+- [UNRESOLVED] audio_guide.mp3: no matching config found
+- [UNRESOLVED] boarding_pass_.mp3: no matching config found
+- [UNRESOLVED] business_class_.mp3: no matching config found
+- [UNRESOLVED] car_rental.mp3: no matching config found
+- [UNRESOLVED] check_availability.mp3: no matching config found
+- [UNRESOLVED] city_pass.mp3: no matching config found
+- [UNRESOLVED] credit_card.mp3: no matching config found
+- [UNRESOLVED] day_trip.mp3: no matching config found
+- [UNRESOLVED] debit_card_.mp3: no matching config found
+- [UNRESOLVED] economy_class_.mp3: no matching config found
+- [UNRESOLVED] exchange_rate.mp3: no matching config found
+- [UNRESOLVED] first_aid.mp3: no matching config found
+- [UNRESOLVED] flight_attendant_.mp3: no matching config found
+- [UNRESOLVED] front_desk_.mp3: no matching config found
+- [UNRESOLVED] fully_booked.mp3: no matching config found
+- [UNRESOLVED] get_around.mp3: no matching config found
+- [UNRESOLVED] gift_shop_.mp3: no matching config found
+- [UNRESOLVED] group_tour.mp3: no matching config found
+- [UNRESOLVED] guided_tour.mp3: no matching config found
+- [UNRESOLVED] help_desk.mp3: no matching config found
+- [UNRESOLVED] jet_lag.mp3: no matching config found
+- [UNRESOLVED] key_card.mp3: no matching config found
+- [UNRESOLVED] line_up.mp3: no matching config found
+- [UNRESOLVED] lost_and_found.mp3: no matching config found
+- [UNRESOLVED] low_battery.mp3: no matching config found
+- [UNRESOLVED] make_a_reservation.mp3: no matching config found
+- [UNRESOLVED] map_app.mp3: no matching config found
+- [UNRESOLVED] market_stall.mp3: no matching config found
+- [UNRESOLVED] miss_a_flight.mp3: no matching config found
+- [UNRESOLVED] offline_map.mp3: no matching config found
+- [UNRESOLVED] old_town_.mp3: no matching config found
+- [UNRESOLVED] on_time_.mp3: no matching config found
+- [UNRESOLVED] overhead_bin_.mp3: no matching config found
+- [UNRESOLVED] platform_screen_door.mp3: no matching config found
+- [UNRESOLVED] power_bank.mp3: no matching config found
+- [UNRESOLVED] rental_car.mp3: no matching config found
+- [UNRESOLVED] room_service_.mp3: no matching config found
+- [UNRESOLVED] rush_hour_.mp3: no matching config found
+- [UNRESOLVED] sim_card.mp3: no matching config found
+- [UNRESOLVED] sore_throat.mp3: no matching config found
+- [UNRESOLVED] street_food_.mp3: no matching config found
+- [UNRESOLVED] ticket_counter.mp3: no matching config found
+- [UNRESOLVED] traffic_light.mp3: no matching config found
+- [UNRESOLVED] train_pass.mp3: no matching config found
+- [UNRESOLVED] translate_app.mp3: no matching config found
+- [UNRESOLVED] travel_buddy.mp3: no matching config found
+- [UNRESOLVED] walking_tour.mp3: no matching config found
+- [UNRESOLVED] weather_forecast.mp3: no matching config found
+- [UNRESOLVED] window_seat_.mp3: no matching config found
+
+## Statistics
+- beforeMissing: 51
+- renamed: 0
+- unresolved: 51
+- collision: 0
+- ambiguity: 0
+- afterMissing: 51

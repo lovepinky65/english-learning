@@ -1,0 +1,30 @@
+{
+  "word": "platform_screen_door_travel",
+  "audioFile": "audio-assets/audio/platform_screen_door_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.25,
+      "end": 1.96
+    },
+    "chineseWord": {
+      "start": 2.44,
+      "end": 3.61
+    },
+    "exampleSentence1English": {
+      "start": 4.13,
+      "end": 11.73
+    },
+    "exampleSentence1Chinese": {
+      "start": 12.2,
+      "end": 15.66
+    },
+    "exampleSentence2English": {
+      "start": 16.44,
+      "end": 22.07
+    },
+    "exampleSentence2Chinese": {
+      "start": 22.68,
+      "end": 27.77
+    }
+  }
+}

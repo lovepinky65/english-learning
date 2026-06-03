@@ -1,0 +1,30 @@
+{
+  "word": "jet_lag_travel",
+  "audioFile": "audio-assets/audio/jet_lag_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.32,
+      "end": 1.18
+    },
+    "chineseWord": {
+      "start": 1.9,
+      "end": 3.43
+    },
+    "exampleSentence1English": {
+      "start": 4.04,
+      "end": 9.85
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.79,
+      "end": 16.2
+    },
+    "exampleSentence2English": {
+      "start": 17.02,
+      "end": 22.05
+    },
+    "exampleSentence2Chinese": {
+      "start": 22.82,
+      "end": 28.22
+    }
+  }
+}

@@ -1,17 +1,18 @@
 {
   "word": "condition",
+  "change": true,
   "audioFile": "audio-assets/audio/condition_high_school.mp3",
   "fields": {
     "englishWord": {
       "start": 0.24,
-      "end": 1.07
+      "end": 1
     },
     "chineseWord": {
-      "start": 1.51,
-      "end": 3.4
+      "start": 1.1,
+      "end": 3.3
     },
     "exampleSentence1English": {
-      "start": 3.95,
+      "start": 3.5,
       "end": 6.24
     },
     "exampleSentence1Chinese": {

@@ -1,5 +1,6 @@
 {
   "word": "programmer",
+  "change": true,
   "audioFile": "audio-assets/audio/programmer_technology.mp3",
   "fields": {
     "englishWord": {
@@ -12,19 +13,19 @@
     },
     "exampleSentence1English": {
       "start": 3.54,
-      "end": 6.6
+      "end": 9.8
     },
     "exampleSentence1Chinese": {
-      "start": 6.95,
-      "end": 11.11
+      "start": 10,
+      "end": 17.11
     },
     "exampleSentence2English": {
-      "start": 11.44,
-      "end": 15.14
+      "start": 17.44,
+      "end": 24
     },
     "exampleSentence2Chinese": {
-      "start": 15.56,
-      "end": 20.32
+      "start": 24.44,
+      "end": 32.32
     }
   }
 }

@@ -1,9 +1,10 @@
 {
   "word": "excuse",
+  "change": true,
   "audioFile": "audio-assets/audio/excuse_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.49,
+      "start": 0,
       "end": 1.48
     },
     "chineseWord": {

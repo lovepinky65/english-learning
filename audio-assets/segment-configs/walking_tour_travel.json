@@ -1,0 +1,30 @@
+{
+  "word": "walking_tour_travel",
+  "audioFile": "audio-assets/audio/walking_tour_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.39,
+      "end": 1.59
+    },
+    "chineseWord": {
+      "start": 2.13,
+      "end": 3.42
+    },
+    "exampleSentence1English": {
+      "start": 4.15,
+      "end": 8.24
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.88,
+      "end": 14.18
+    },
+    "exampleSentence2English": {
+      "start": 14.84,
+      "end": 18.71
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.36,
+      "end": 24.06
+    }
+  }
+}
