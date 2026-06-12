@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/park_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.28,
-      "end": 0.74
+      "start": 0,
+      "end": 0.925
     },
     "chineseWord": {
-      "start": 1.31,
-      "end": 2.23
+      "start": 1.125,
+      "end": 2.33
     },
     "exampleSentence1English": {
-      "start": 2.63,
-      "end": 5.62
+      "start": 2.53,
+      "end": 5.77
     },
     "exampleSentence1Chinese": {
-      "start": 6.12,
-      "end": 8.64
+      "start": 5.97,
+      "end": 8.76
     },
     "exampleSentence2English": {
-      "start": 9.08,
-      "end": 11.71
+      "start": 8.96,
+      "end": 11.825
     },
     "exampleSentence2Chinese": {
-      "start": 12.14,
-      "end": 14.56
+      "start": 12.025,
+      "end": 14.64
     }
   }
 }

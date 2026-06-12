@@ -1,30 +1,30 @@
 {
-  "word": "query",
+  "word": "query_technology",
   "audioFile": "audio-assets/audio/query_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.3,
-      "end": 0.95
+      "start": 0,
+      "end": 1.135
     },
     "chineseWord": {
-      "start": 1.52,
-      "end": 7.32
+      "start": 1.335,
+      "end": 7.435
     },
     "exampleSentence1English": {
-      "start": 7.75,
-      "end": 9.29
+      "start": 7.635,
+      "end": 9.5
     },
     "exampleSentence1Chinese": {
-      "start": 9.91,
-      "end": 16.42
+      "start": 9.7,
+      "end": 16.655
     },
     "exampleSentence2English": {
-      "start": 17.09,
-      "end": 23.88
+      "start": 16.855,
+      "end": 24.205
     },
     "exampleSentence2Chinese": {
-      "start": 24.73,
-      "end": 31.14
+      "start": 24.405,
+      "end": 31.34
     }
   }
 }

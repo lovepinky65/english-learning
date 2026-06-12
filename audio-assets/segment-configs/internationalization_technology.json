@@ -1,30 +1,30 @@
 {
-  "word": "internationalization",
+  "word": "internationalization_technology",
   "audioFile": "audio-assets/audio/internationalization_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.24,
-      "end": 3.98
+      "start": 0,
+      "end": 4.085
     },
     "chineseWord": {
-      "start": 4.39,
-      "end": 6.33
+      "start": 4.285,
+      "end": 6.415
     },
     "exampleSentence1English": {
-      "start": 6.7,
-      "end": 7.85
+      "start": 6.615,
+      "end": 8.09
     },
     "exampleSentence1Chinese": {
-      "start": 8.53,
-      "end": 14.76
+      "start": 8.29,
+      "end": 14.84
     },
     "exampleSentence2English": {
-      "start": 14.97,
-      "end": 15.96
+      "start": 14.89,
+      "end": 16.24
     },
     "exampleSentence2Chinese": {
-      "start": 16.72,
-      "end": 24.21
+      "start": 16.44,
+      "end": 24.36
     }
   }
 }

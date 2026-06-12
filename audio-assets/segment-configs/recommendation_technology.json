@@ -1,30 +1,30 @@
 {
-  "word": "recommendation",
+  "word": "recommendation_technology",
   "audioFile": "audio-assets/audio/recommendation_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.23,
-      "end": 1.31
+      "start": 0,
+      "end": 1.58
     },
     "chineseWord": {
-      "start": 2.05,
-      "end": 3.14
+      "start": 1.78,
+      "end": 3.37
     },
     "exampleSentence1English": {
-      "start": 3.8,
-      "end": 10.25
+      "start": 3.57,
+      "end": 10.665
     },
     "exampleSentence1Chinese": {
-      "start": 11.28,
-      "end": 16.75
+      "start": 10.865,
+      "end": 17.055
     },
     "exampleSentence2English": {
-      "start": 17.56,
-      "end": 24.02
+      "start": 17.255,
+      "end": 24.46
     },
     "exampleSentence2Chinese": {
-      "start": 25.1,
-      "end": 31.59
+      "start": 24.66,
+      "end": 31.76
     }
   }
 }

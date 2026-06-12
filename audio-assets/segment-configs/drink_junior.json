@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/drink_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.32,
-      "end": 0.83
+      "start": 0,
+      "end": 1.07
     },
     "chineseWord": {
-      "start": 1.51,
-      "end": 2.04
+      "start": 1.27,
+      "end": 2.155
     },
     "exampleSentence1English": {
-      "start": 2.47,
-      "end": 4.7
+      "start": 2.355,
+      "end": 4.88
     },
     "exampleSentence1Chinese": {
-      "start": 5.26,
-      "end": 7.25
+      "start": 5.08,
+      "end": 7.46
     },
     "exampleSentence2English": {
-      "start": 7.87,
-      "end": 9.72
+      "start": 7.66,
+      "end": 9.925
     },
     "exampleSentence2Chinese": {
-      "start": 10.33,
-      "end": 12.02
+      "start": 10.125,
+      "end": 12.2
     }
   }
 }

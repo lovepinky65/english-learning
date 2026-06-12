@@ -1,30 +1,30 @@
 {
-  "word": "cooperation",
+  "word": "cooperation_high_school",
   "audioFile": "audio-assets/audio/cooperation_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.31,
-      "end": 1.38
+      "start": 0,
+      "end": 1.595
     },
     "chineseWord": {
-      "start": 2.01,
-      "end": 2.82
+      "start": 1.795,
+      "end": 2.94
     },
     "exampleSentence1English": {
-      "start": 3.26,
-      "end": 6.79
+      "start": 3.14,
+      "end": 6.97
     },
     "exampleSentence1Chinese": {
-      "start": 7.35,
-      "end": 10.38
+      "start": 7.17,
+      "end": 10.5
     },
     "exampleSentence2English": {
-      "start": 10.82,
-      "end": 14.56
+      "start": 10.7,
+      "end": 14.695
     },
     "exampleSentence2Chinese": {
-      "start": 15.03,
-      "end": 18.21
+      "start": 14.895,
+      "end": 18.41
     }
   }
 }

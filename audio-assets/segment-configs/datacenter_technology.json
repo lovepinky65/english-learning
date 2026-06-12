@@ -1,30 +1,30 @@
 {
-  "word": "datacenter",
+  "word": "datacenter_technology",
   "audioFile": "audio-assets/audio/datacenter_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 6.14
+      "start": 0,
+      "end": 6.365
     },
     "chineseWord": {
-      "start": 6.79,
-      "end": 8.97
+      "start": 6.565,
+      "end": 9.05
     },
     "exampleSentence1English": {
-      "start": 9.21,
-      "end": 11.94
+      "start": 9.13,
+      "end": 12.07
     },
     "exampleSentence1Chinese": {
-      "start": 12.4,
-      "end": 19.82
+      "start": 12.27,
+      "end": 20.01
     },
     "exampleSentence2English": {
-      "start": 20.4,
-      "end": 22.55
+      "start": 20.21,
+      "end": 22.63
     },
     "exampleSentence2Chinese": {
-      "start": 22.73,
-      "end": 27.51
+      "start": 22.65,
+      "end": 27.71
     }
   }
 }

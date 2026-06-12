@@ -1,30 +1,30 @@
 {
-  "word": "training",
+  "word": "training_high_school",
   "audioFile": "audio-assets/audio/training_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.38,
-      "end": 1.11
+      "start": 0,
+      "end": 1.25
     },
     "chineseWord": {
-      "start": 1.59,
-      "end": 3.62
+      "start": 1.45,
+      "end": 3.8
     },
     "exampleSentence1English": {
-      "start": 4.18,
-      "end": 7.11
+      "start": 4,
+      "end": 7.28
     },
     "exampleSentence1Chinese": {
-      "start": 7.65,
-      "end": 9.76
+      "start": 7.48,
+      "end": 10.025
     },
     "exampleSentence2English": {
-      "start": 10.49,
-      "end": 13.02
+      "start": 10.225,
+      "end": 13.265
     },
     "exampleSentence2Chinese": {
-      "start": 13.71,
-      "end": 16.98
+      "start": 13.465,
+      "end": 17.16
     }
   }
 }

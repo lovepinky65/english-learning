@@ -1,30 +1,30 @@
 {
-  "word": "benchmark",
+  "word": "benchmark_technology",
   "audioFile": "audio-assets/audio/benchmark_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.22,
-      "end": 0.99
+      "start": 0,
+      "end": 1.17
     },
     "chineseWord": {
-      "start": 1.55,
-      "end": 3.32
+      "start": 1.37,
+      "end": 3.42
     },
     "exampleSentence1English": {
-      "start": 3.72,
-      "end": 10.45
+      "start": 3.62,
+      "end": 10.655
     },
     "exampleSentence1Chinese": {
-      "start": 11.06,
-      "end": 17.67
+      "start": 10.855,
+      "end": 17.775
     },
     "exampleSentence2English": {
-      "start": 18.08,
-      "end": 23.69
+      "start": 17.975,
+      "end": 24.115
     },
     "exampleSentence2Chinese": {
-      "start": 24.74,
-      "end": 32.09
+      "start": 24.315,
+      "end": 32.2
     }
   }
 }

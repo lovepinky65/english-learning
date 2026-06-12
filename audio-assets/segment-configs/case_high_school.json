@@ -1,30 +1,30 @@
 {
-  "word": "case",
+  "word": "case_high_school",
   "audioFile": "audio-assets/audio/case_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.33,
-      "end": 1.12
+      "start": 0,
+      "end": 1.305
     },
     "chineseWord": {
-      "start": 1.69,
-      "end": 4.7
+      "start": 1.505,
+      "end": 4.905
     },
     "exampleSentence1English": {
-      "start": 5.31,
-      "end": 8.22
+      "start": 5.105,
+      "end": 8.48
     },
     "exampleSentence1Chinese": {
-      "start": 8.94,
-      "end": 12.18
+      "start": 8.68,
+      "end": 12.455
     },
     "exampleSentence2English": {
-      "start": 12.93,
-      "end": 15.41
+      "start": 12.655,
+      "end": 15.585
     },
     "exampleSentence2Chinese": {
-      "start": 15.96,
-      "end": 18.22
+      "start": 15.785,
+      "end": 18.4
     }
   }
 }

@@ -1,30 +1,30 @@
 {
-  "word": "checklist",
+  "word": "checklist_technology",
   "audioFile": "audio-assets/audio/checklist_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.25
+      "start": 0,
+      "end": 1.405
     },
     "chineseWord": {
-      "start": 1.76,
-      "end": 3.2
+      "start": 1.605,
+      "end": 3.435
     },
     "exampleSentence1English": {
-      "start": 3.87,
-      "end": 11.38
+      "start": 3.635,
+      "end": 11.51
     },
     "exampleSentence1Chinese": {
-      "start": 11.84,
-      "end": 18.91
+      "start": 11.71,
+      "end": 19.105
     },
     "exampleSentence2English": {
-      "start": 19.5,
-      "end": 27.08
+      "start": 19.305,
+      "end": 27.245
     },
     "exampleSentence2Chinese": {
-      "start": 27.61,
-      "end": 35.72
+      "start": 27.445,
+      "end": 35.92
     }
   }
 }

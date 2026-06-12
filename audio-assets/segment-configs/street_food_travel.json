@@ -1,30 +1,30 @@
 {
-  "word": "street_food",
+  "word": "street_food_travel",
   "audioFile": "audio-assets/audio/street_food_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.33,
-      "end": 1.51
+      "start": 0,
+      "end": 1.69
     },
     "chineseWord": {
-      "start": 2.07,
-      "end": 3.58
+      "start": 1.89,
+      "end": 3.75
     },
     "exampleSentence1English": {
-      "start": 4.12,
-      "end": 8.68
+      "start": 3.95,
+      "end": 8.9
     },
     "exampleSentence1Chinese": {
-      "start": 9.32,
-      "end": 13.88
+      "start": 9.1,
+      "end": 14.195
     },
     "exampleSentence2English": {
-      "start": 14.71,
-      "end": 18.45
+      "start": 14.395,
+      "end": 18.78
     },
     "exampleSentence2Chinese": {
-      "start": 19.31,
-      "end": 23.68
+      "start": 18.98,
+      "end": 23.8
     }
   }
 }

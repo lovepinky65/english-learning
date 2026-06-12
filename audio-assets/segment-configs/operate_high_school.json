@@ -1,30 +1,30 @@
 {
-  "word": "operate",
+  "word": "operate_high_school",
   "audioFile": "audio-assets/audio/operate_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.03
+      "start": 0,
+      "end": 1.45
     },
     "chineseWord": {
-      "start": 2.07,
-      "end": 2.83
+      "start": 1.65,
+      "end": 3.19
     },
     "exampleSentence1English": {
-      "start": 3.75,
-      "end": 6.81
+      "start": 3.39,
+      "end": 7.145
     },
     "exampleSentence1Chinese": {
-      "start": 7.68,
-      "end": 10.48
+      "start": 7.345,
+      "end": 10.755
     },
     "exampleSentence2English": {
-      "start": 11.23,
-      "end": 13.98
+      "start": 10.955,
+      "end": 14.26
     },
     "exampleSentence2Chinese": {
-      "start": 14.74,
-      "end": 17.38
+      "start": 14.46,
+      "end": 17.58
     }
   }
 }

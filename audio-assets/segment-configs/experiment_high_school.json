@@ -1,30 +1,30 @@
 {
-  "word": "experiment",
+  "word": "experiment_high_school",
   "audioFile": "audio-assets/audio/experiment_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.23,
-      "end": 1.3
+      "start": 0,
+      "end": 1.5
     },
     "chineseWord": {
-      "start": 1.9,
-      "end": 2.76
+      "start": 1.7,
+      "end": 2.885
     },
     "exampleSentence1English": {
-      "start": 3.21,
-      "end": 6.59
+      "start": 3.085,
+      "end": 6.75
     },
     "exampleSentence1Chinese": {
-      "start": 7.11,
-      "end": 10.12
+      "start": 6.95,
+      "end": 10.32
     },
     "exampleSentence2English": {
-      "start": 10.72,
-      "end": 14
+      "start": 10.52,
+      "end": 14.17
     },
     "exampleSentence2Chinese": {
-      "start": 14.54,
-      "end": 17.01
+      "start": 14.37,
+      "end": 17.08
     }
   }
 }

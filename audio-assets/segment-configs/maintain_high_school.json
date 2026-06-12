@@ -1,30 +1,30 @@
 {
-  "word": "maintain",
+  "word": "maintain_high_school",
   "audioFile": "audio-assets/audio/maintain_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.27,
-      "end": 1.32
+      "start": 0,
+      "end": 1.515
     },
     "chineseWord": {
-      "start": 1.91,
-      "end": 2.91
+      "start": 1.715,
+      "end": 3.07
     },
     "exampleSentence1English": {
-      "start": 3.43,
-      "end": 7.01
+      "start": 3.27,
+      "end": 7.155
     },
     "exampleSentence1Chinese": {
-      "start": 7.5,
-      "end": 10.86
+      "start": 7.355,
+      "end": 11.04
     },
     "exampleSentence2English": {
-      "start": 11.42,
-      "end": 14.16
+      "start": 11.24,
+      "end": 14.38
     },
     "exampleSentence2Chinese": {
-      "start": 14.8,
-      "end": 17.46
+      "start": 14.58,
+      "end": 17.48
     }
   }
 }

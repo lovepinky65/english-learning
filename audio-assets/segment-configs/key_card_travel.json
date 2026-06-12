@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/key_card_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.32,
-      "end": 1.23
+      "start": 0,
+      "end": 1.53
     },
     "chineseWord": {
-      "start": 2.03,
-      "end": 2.82
+      "start": 1.73,
+      "end": 3.075
     },
     "exampleSentence1English": {
-      "start": 3.53,
-      "end": 8.28
+      "start": 3.275,
+      "end": 8.475
     },
     "exampleSentence1Chinese": {
-      "start": 8.87,
-      "end": 13.14
+      "start": 8.675,
+      "end": 13.305
     },
     "exampleSentence2English": {
-      "start": 13.67,
-      "end": 17.48
+      "start": 13.505,
+      "end": 17.89
     },
     "exampleSentence2Chinese": {
-      "start": 18.5,
-      "end": 23
+      "start": 18.09,
+      "end": 23.12
     }
   }
 }

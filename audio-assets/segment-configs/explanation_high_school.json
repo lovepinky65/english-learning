@@ -1,30 +1,30 @@
 {
-  "word": "explanation",
+  "word": "explanation_high_school",
   "audioFile": "audio-assets/audio/explanation_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.22,
-      "end": 1.36
+      "start": 0,
+      "end": 1.615
     },
     "chineseWord": {
-      "start": 2.07,
-      "end": 2.77
+      "start": 1.815,
+      "end": 3.035
     },
     "exampleSentence1English": {
-      "start": 3.5,
-      "end": 5.95
+      "start": 3.235,
+      "end": 6.08
     },
     "exampleSentence1Chinese": {
-      "start": 6.41,
-      "end": 8.67
+      "start": 6.28,
+      "end": 8.86
     },
     "exampleSentence2English": {
-      "start": 9.25,
-      "end": 12.04
+      "start": 9.06,
+      "end": 12.27
     },
     "exampleSentence2Chinese": {
-      "start": 12.7,
-      "end": 14.92
+      "start": 12.47,
+      "end": 15.12
     }
   }
 }

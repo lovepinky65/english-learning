@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/wake_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.24,
-      "end": 0.75
+      "start": 0,
+      "end": 0.945
     },
     "chineseWord": {
-      "start": 1.34,
-      "end": 3.26
+      "start": 1.145,
+      "end": 3.42
     },
     "exampleSentence1English": {
-      "start": 3.78,
-      "end": 5.96
+      "start": 3.62,
+      "end": 6.11
     },
     "exampleSentence1Chinese": {
-      "start": 6.46,
-      "end": 9.17
+      "start": 6.31,
+      "end": 9.29
     },
     "exampleSentence2English": {
-      "start": 9.61,
-      "end": 12.15
+      "start": 9.49,
+      "end": 12.31
     },
     "exampleSentence2Chinese": {
-      "start": 12.67,
-      "end": 15.13
+      "start": 12.51,
+      "end": 15.33
     }
   }
 }

@@ -1,30 +1,30 @@
 {
-  "word": "examine",
+  "word": "examine_high_school",
   "audioFile": "audio-assets/audio/examine_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.3,
-      "end": 1.36
+      "start": 0,
+      "end": 1.52
     },
     "chineseWord": {
-      "start": 1.88,
-      "end": 2.73
+      "start": 1.72,
+      "end": 2.94
     },
     "exampleSentence1English": {
-      "start": 3.35,
-      "end": 6.86
+      "start": 3.14,
+      "end": 7.07
     },
     "exampleSentence1Chinese": {
-      "start": 7.48,
-      "end": 10.09
+      "start": 7.27,
+      "end": 10.335
     },
     "exampleSentence2English": {
-      "start": 10.78,
-      "end": 14.24
+      "start": 10.535,
+      "end": 14.445
     },
     "exampleSentence2Chinese": {
-      "start": 14.85,
-      "end": 17.12
+      "start": 14.645,
+      "end": 17.28
     }
   }
 }

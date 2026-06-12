@@ -1,30 +1,30 @@
 {
-  "word": "honest",
+  "word": "honest_high_school",
   "audioFile": "audio-assets/audio/honest_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.22,
-      "end": 0.81
+      "start": 0,
+      "end": 1.03
     },
     "chineseWord": {
-      "start": 1.45,
-      "end": 2.51
+      "start": 1.23,
+      "end": 2.695
     },
     "exampleSentence1English": {
-      "start": 3.08,
-      "end": 5.2
+      "start": 2.895,
+      "end": 5.425
     },
     "exampleSentence1Chinese": {
-      "start": 5.85,
-      "end": 8.46
+      "start": 5.625,
+      "end": 8.625
     },
     "exampleSentence2English": {
-      "start": 8.99,
-      "end": 11.82
+      "start": 8.825,
+      "end": 12.005
     },
     "exampleSentence2Chinese": {
-      "start": 12.39,
-      "end": 15.2
+      "start": 12.205,
+      "end": 15.32
     }
   }
 }

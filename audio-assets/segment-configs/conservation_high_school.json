@@ -1,30 +1,30 @@
 {
-  "word": "conservation",
+  "word": "conservation_high_school",
   "audioFile": "audio-assets/audio/conservation_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.29,
-      "end": 1.37
+      "start": 0,
+      "end": 1.69
     },
     "chineseWord": {
-      "start": 2.21,
-      "end": 3.95
+      "start": 1.89,
+      "end": 4.24
     },
     "exampleSentence1English": {
-      "start": 4.73,
-      "end": 8.24
+      "start": 4.44,
+      "end": 8.415
     },
     "exampleSentence1Chinese": {
-      "start": 8.79,
-      "end": 11.07
+      "start": 8.615,
+      "end": 11.4
     },
     "exampleSentence2English": {
-      "start": 11.93,
-      "end": 15.71
+      "start": 11.6,
+      "end": 16.005
     },
     "exampleSentence2Chinese": {
-      "start": 16.5,
-      "end": 19.13
+      "start": 16.205,
+      "end": 19.33
     }
   }
 }

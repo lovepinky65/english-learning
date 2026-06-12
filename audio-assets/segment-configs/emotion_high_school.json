@@ -1,30 +1,30 @@
 {
-  "word": "emotion",
+  "word": "emotion_high_school",
   "audioFile": "audio-assets/audio/emotion_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.24
+      "start": 0,
+      "end": 1.395
     },
     "chineseWord": {
-      "start": 1.75,
-      "end": 2.58
+      "start": 1.595,
+      "end": 2.775
     },
     "exampleSentence1English": {
-      "start": 3.17,
-      "end": 5.22
+      "start": 2.975,
+      "end": 5.38
     },
     "exampleSentence1Chinese": {
-      "start": 5.74,
-      "end": 7.63
+      "start": 5.58,
+      "end": 7.805
     },
     "exampleSentence2English": {
-      "start": 8.18,
-      "end": 10.86
+      "start": 8.005,
+      "end": 10.985
     },
     "exampleSentence2Chinese": {
-      "start": 11.31,
-      "end": 13.83
+      "start": 11.185,
+      "end": 13.96
     }
   }
 }

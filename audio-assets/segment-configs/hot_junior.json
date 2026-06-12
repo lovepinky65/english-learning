@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/hot_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.3,
-      "end": 0.78
+      "start": 0,
+      "end": 1.025
     },
     "chineseWord": {
-      "start": 1.47,
-      "end": 2.27
+      "start": 1.225,
+      "end": 2.46
     },
     "exampleSentence1English": {
-      "start": 2.85,
-      "end": 5.87
+      "start": 2.66,
+      "end": 6.01
     },
     "exampleSentence1Chinese": {
-      "start": 6.35,
-      "end": 8.56
+      "start": 6.21,
+      "end": 8.67
     },
     "exampleSentence2English": {
-      "start": 8.98,
-      "end": 12.26
+      "start": 8.87,
+      "end": 12.34
     },
     "exampleSentence2Chinese": {
-      "start": 12.61,
-      "end": 14.99
+      "start": 12.53,
+      "end": 15.12
     }
   }
 }

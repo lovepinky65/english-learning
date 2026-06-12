@@ -1,30 +1,30 @@
 {
-  "word": "invent",
+  "word": "invent_high_school",
   "audioFile": "audio-assets/audio/invent_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.21,
-      "end": 1.15
+      "start": 0,
+      "end": 2.605
     },
     "chineseWord": {
-      "start": 4.26,
-      "end": 5.09
+      "start": 2.805,
+      "end": 6.425
     },
     "exampleSentence1English": {
-      "start": 7.96,
-      "end": 11.7
+      "start": 6.625,
+      "end": 13.26
     },
     "exampleSentence1Chinese": {
-      "start": 15.02,
-      "end": 18.2
+      "start": 13.46,
+      "end": 19.635
     },
     "exampleSentence2English": {
-      "start": 21.27,
-      "end": 25.43
+      "start": 19.835,
+      "end": 26.95
     },
     "exampleSentence2Chinese": {
-      "start": 28.67,
-      "end": 31.95
+      "start": 27.15,
+      "end": 32.15
     }
   }
 }

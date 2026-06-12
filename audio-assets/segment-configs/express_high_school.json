@@ -1,30 +1,30 @@
 {
-  "word": "express",
+  "word": "express_high_school",
   "audioFile": "audio-assets/audio/express_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.23,
-      "end": 1.35
+      "start": 0,
+      "end": 1.525
     },
     "chineseWord": {
-      "start": 1.9,
-      "end": 2.82
+      "start": 1.725,
+      "end": 3.06
     },
     "exampleSentence1English": {
-      "start": 3.5,
-      "end": 7.67
+      "start": 3.26,
+      "end": 8.015
     },
     "exampleSentence1Chinese": {
-      "start": 8.56,
-      "end": 12.72
+      "start": 8.215,
+      "end": 12.89
     },
     "exampleSentence2English": {
-      "start": 13.26,
-      "end": 16.49
+      "start": 13.09,
+      "end": 16.775
     },
     "exampleSentence2Chinese": {
-      "start": 17.26,
-      "end": 20.7
+      "start": 16.975,
+      "end": 20.9
     }
   }
 }

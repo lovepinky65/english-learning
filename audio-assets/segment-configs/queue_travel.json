@@ -1,0 +1,30 @@
+{
+  "word": "queue_travel",
+  "audioFile": "audio-assets/audio/queue_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0,
+      "end": 0.905
+    },
+    "chineseWord": {
+      "start": 1.105,
+      "end": 2.56
+    },
+    "exampleSentence1English": {
+      "start": 2.71,
+      "end": 7.285
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.485,
+      "end": 11.05
+    },
+    "exampleSentence2English": {
+      "start": 11.22,
+      "end": 15.125
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.325,
+      "end": 18.84
+    }
+  }
+}

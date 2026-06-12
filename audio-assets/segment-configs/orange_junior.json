@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/orange_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.39,
-      "end": 0.99
+      "start": 0,
+      "end": 1.36
     },
     "chineseWord": {
-      "start": 1.93,
-      "end": 2.71
+      "start": 1.56,
+      "end": 3.005
     },
     "exampleSentence1English": {
-      "start": 3.5,
-      "end": 6.09
+      "start": 3.205,
+      "end": 6.365
     },
     "exampleSentence1Chinese": {
-      "start": 6.84,
-      "end": 10.48
+      "start": 6.565,
+      "end": 10.72
     },
     "exampleSentence2English": {
-      "start": 11.16,
-      "end": 13.64
+      "start": 10.92,
+      "end": 13.865
     },
     "exampleSentence2Chinese": {
-      "start": 14.29,
-      "end": 17.95
+      "start": 14.065,
+      "end": 18.15
     }
   }
 }

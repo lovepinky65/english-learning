@@ -1,30 +1,30 @@
 {
-  "word": "prediction",
+  "word": "prediction_technology",
   "audioFile": "audio-assets/audio/prediction_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.16
+      "start": 0,
+      "end": 1.3
     },
     "chineseWord": {
-      "start": 1.64,
-      "end": 2.41
+      "start": 1.5,
+      "end": 2.655
     },
     "exampleSentence1English": {
-      "start": 3.1,
-      "end": 10.42
+      "start": 2.855,
+      "end": 10.535
     },
     "exampleSentence1Chinese": {
-      "start": 10.85,
-      "end": 17.99
+      "start": 10.735,
+      "end": 18.275
     },
     "exampleSentence2English": {
-      "start": 18.76,
-      "end": 25.56
+      "start": 18.475,
+      "end": 25.655
     },
     "exampleSentence2Chinese": {
-      "start": 25.95,
-      "end": 31.71
+      "start": 25.855,
+      "end": 31.88
     }
   }
 }

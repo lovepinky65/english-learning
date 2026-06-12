@@ -1,30 +1,30 @@
 {
-  "word": "delivery",
+  "word": "delivery_high_school",
   "audioFile": "audio-assets/audio/delivery_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.14
+      "start": 0,
+      "end": 1.275
     },
     "chineseWord": {
-      "start": 1.61,
-      "end": 3.32
+      "start": 1.475,
+      "end": 3.475
     },
     "exampleSentence1English": {
-      "start": 3.83,
-      "end": 6.92
+      "start": 3.675,
+      "end": 7.07
     },
     "exampleSentence1Chinese": {
-      "start": 7.42,
-      "end": 9.72
+      "start": 7.27,
+      "end": 9.815
     },
     "exampleSentence2English": {
-      "start": 10.11,
-      "end": 14.2
+      "start": 10.015,
+      "end": 14.305
     },
     "exampleSentence2Chinese": {
-      "start": 14.61,
-      "end": 19.07
+      "start": 14.505,
+      "end": 19.16
     }
   }
 }

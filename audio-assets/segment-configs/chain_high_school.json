@@ -1,30 +1,30 @@
 {
-  "word": "chain",
+  "word": "chain_high_school",
   "audioFile": "audio-assets/audio/chain_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.3,
-      "end": 1.11
+      "start": 0,
+      "end": 2.24
     },
     "chineseWord": {
-      "start": 1.68,
-      "end": 3.31
+      "start": 2.44,
+      "end": 3.935
     },
     "exampleSentence1English": {
-      "start": 4,
-      "end": 6.43
+      "start": 4.135,
+      "end": 7.025
     },
     "exampleSentence1Chinese": {
-      "start": 7.19,
-      "end": 9.71
+      "start": 7.225,
+      "end": 10.555
     },
     "exampleSentence2English": {
-      "start": 10.41,
-      "end": 13.09
+      "start": 10.755,
+      "end": 13.91
     },
     "exampleSentence2Chinese": {
-      "start": 13.83,
-      "end": 16.43
+      "start": 14.11,
+      "end": 17.4
     }
   }
 }

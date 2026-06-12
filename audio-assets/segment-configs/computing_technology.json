@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/computing_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.29,
-      "end": 1.19
+      "start": 0,
+      "end": 1.34
     },
     "chineseWord": {
-      "start": 1.69,
-      "end": 2.54
+      "start": 1.54,
+      "end": 2.795
     },
     "exampleSentence1English": {
-      "start": 3.25,
-      "end": 7.63
+      "start": 2.995,
+      "end": 7.825
     },
     "exampleSentence1Chinese": {
-      "start": 8.22,
-      "end": 12.39
+      "start": 8.025,
+      "end": 12.545
     },
     "exampleSentence2English": {
-      "start": 12.9,
-      "end": 18.64
+      "start": 12.745,
+      "end": 18.845
     },
     "exampleSentence2Chinese": {
-      "start": 19.25,
-      "end": 24.68
+      "start": 19.045,
+      "end": 24.84
     }
   }
 }

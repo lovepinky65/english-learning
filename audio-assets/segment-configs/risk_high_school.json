@@ -1,30 +1,30 @@
 {
-  "word": "risk",
+  "word": "risk_high_school",
   "audioFile": "audio-assets/audio/risk_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.07
+      "start": 0,
+      "end": 1.265
     },
     "chineseWord": {
-      "start": 1.66,
-      "end": 2.46
+      "start": 1.465,
+      "end": 2.615
     },
     "exampleSentence1English": {
-      "start": 2.97,
-      "end": 6.82
+      "start": 2.815,
+      "end": 6.99
     },
     "exampleSentence1Chinese": {
-      "start": 7.36,
-      "end": 10.89
+      "start": 7.19,
+      "end": 11.03
     },
     "exampleSentence2English": {
-      "start": 11.37,
-      "end": 15.66
+      "start": 11.23,
+      "end": 15.83
     },
     "exampleSentence2Chinese": {
-      "start": 16.2,
-      "end": 20.22
+      "start": 16.03,
+      "end": 20.32
     }
   }
 }

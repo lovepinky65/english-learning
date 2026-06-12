@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/stadium_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.34,
-      "end": 1.13
+      "start": 0,
+      "end": 1.285
     },
     "chineseWord": {
-      "start": 1.64,
-      "end": 2.76
+      "start": 1.485,
+      "end": 2.88
     },
     "exampleSentence1English": {
-      "start": 3.2,
-      "end": 5.83
+      "start": 3.08,
+      "end": 5.91
     },
     "exampleSentence1Chinese": {
-      "start": 6.15,
-      "end": 9.58
+      "start": 6.07,
+      "end": 9.66
     },
     "exampleSentence2English": {
-      "start": 9.9,
-      "end": 12.39
+      "start": 9.82,
+      "end": 12.475
     },
     "exampleSentence2Chinese": {
-      "start": 12.76,
-      "end": 15.7
+      "start": 12.675,
+      "end": 15.76
     }
   }
 }

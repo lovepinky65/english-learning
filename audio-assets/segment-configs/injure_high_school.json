@@ -1,30 +1,30 @@
 {
-  "word": "injure",
+  "word": "injure_high_school",
   "audioFile": "audio-assets/audio/injure_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.24,
-      "end": 1.04
+      "start": 0,
+      "end": 1.195
     },
     "chineseWord": {
-      "start": 1.55,
-      "end": 2.63
+      "start": 1.395,
+      "end": 2.795
     },
     "exampleSentence1English": {
-      "start": 3.16,
-      "end": 6.31
+      "start": 2.995,
+      "end": 6.44
     },
     "exampleSentence1Chinese": {
-      "start": 6.77,
-      "end": 9.52
+      "start": 6.64,
+      "end": 9.695
     },
     "exampleSentence2English": {
-      "start": 10.07,
-      "end": 12.44
+      "start": 9.895,
+      "end": 12.665
     },
     "exampleSentence2Chinese": {
-      "start": 13.09,
-      "end": 15.1
+      "start": 12.865,
+      "end": 15.24
     }
   }
 }

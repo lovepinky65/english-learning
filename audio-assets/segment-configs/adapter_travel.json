@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/adapter_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.15,
-      "end": 1.03
+      "start": 0,
+      "end": 1.72
     },
     "chineseWord": {
-      "start": 2.61,
-      "end": 3.71
+      "start": 1.92,
+      "end": 4.095
     },
     "exampleSentence1English": {
-      "start": 4.68,
-      "end": 8.75
+      "start": 4.295,
+      "end": 9.335
     },
     "exampleSentence1Chinese": {
-      "start": 10.12,
-      "end": 14.88
+      "start": 9.535,
+      "end": 15.19
     },
     "exampleSentence2English": {
-      "start": 15.7,
-      "end": 19.76
+      "start": 15.39,
+      "end": 20.24
     },
     "exampleSentence2Chinese": {
-      "start": 20.92,
-      "end": 25.77
+      "start": 20.44,
+      "end": 25.96
     }
   }
 }

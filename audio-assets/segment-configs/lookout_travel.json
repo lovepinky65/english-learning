@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/lookout_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 0.93
+      "start": 0,
+      "end": 1.4
     },
     "chineseWord": {
-      "start": 2.07,
-      "end": 3.18
+      "start": 1.6,
+      "end": 3.55
     },
     "exampleSentence1English": {
-      "start": 4.12,
-      "end": 8.98
+      "start": 3.75,
+      "end": 9.425
     },
     "exampleSentence1Chinese": {
-      "start": 10.07,
-      "end": 15.7
+      "start": 9.625,
+      "end": 16.065
     },
     "exampleSentence2English": {
-      "start": 16.63,
-      "end": 20.55
+      "start": 16.265,
+      "end": 20.97
     },
     "exampleSentence2Chinese": {
-      "start": 21.59,
-      "end": 26.46
+      "start": 21.17,
+      "end": 26.48
     }
   }
 }

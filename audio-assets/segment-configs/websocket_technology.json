@@ -1,30 +1,30 @@
 {
-  "word": "websocket",
+  "word": "websocket_technology",
   "audioFile": "audio-assets/audio/websocket_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.31,
-      "end": 1.34
+      "start": 0,
+      "end": 1.51
     },
     "chineseWord": {
-      "start": 1.88,
-      "end": 3.5
+      "start": 1.71,
+      "end": 3.66
     },
     "exampleSentence1English": {
-      "start": 4.02,
-      "end": 9.9
+      "start": 3.86,
+      "end": 10.005
     },
     "exampleSentence1Chinese": {
-      "start": 10.31,
-      "end": 16.62
+      "start": 10.205,
+      "end": 16.71
     },
     "exampleSentence2English": {
-      "start": 17,
-      "end": 22.24
+      "start": 16.91,
+      "end": 22.455
     },
     "exampleSentence2Chinese": {
-      "start": 22.87,
-      "end": 29.21
+      "start": 22.655,
+      "end": 29.32
     }
   }
 }

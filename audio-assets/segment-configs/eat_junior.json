@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/eat_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.21,
-      "end": 0.65
+      "start": 0,
+      "end": 0.865
     },
     "chineseWord": {
-      "start": 1.28,
-      "end": 1.96
+      "start": 1.065,
+      "end": 2.05
     },
     "exampleSentence1English": {
-      "start": 2.34,
-      "end": 4.68
+      "start": 2.25,
+      "end": 4.81
     },
     "exampleSentence1Chinese": {
-      "start": 5.14,
-      "end": 7.5
+      "start": 5.01,
+      "end": 7.59
     },
     "exampleSentence2English": {
-      "start": 7.88,
-      "end": 11.04
+      "start": 7.79,
+      "end": 11.18
     },
     "exampleSentence2Chinese": {
-      "start": 11.52,
-      "end": 14.85
+      "start": 11.38,
+      "end": 14.96
     }
   }
 }

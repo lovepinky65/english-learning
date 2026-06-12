@@ -1,30 +1,30 @@
 {
-  "word": "framework",
+  "word": "framework_technology",
   "audioFile": "audio-assets/audio/framework_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.32,
-      "end": 0.96
+      "start": 0,
+      "end": 1.265
     },
     "chineseWord": {
-      "start": 1.77,
-      "end": 2.51
+      "start": 1.465,
+      "end": 2.74
     },
     "exampleSentence1English": {
-      "start": 3.17,
-      "end": 8.18
+      "start": 2.94,
+      "end": 8.48
     },
     "exampleSentence1Chinese": {
-      "start": 8.98,
-      "end": 14.35
+      "start": 8.68,
+      "end": 14.63
     },
     "exampleSentence2English": {
-      "start": 15.11,
-      "end": 20.03
+      "start": 14.83,
+      "end": 20.3
     },
     "exampleSentence2Chinese": {
-      "start": 20.77,
-      "end": 25.25
+      "start": 20.5,
+      "end": 25.36
     }
   }
 }

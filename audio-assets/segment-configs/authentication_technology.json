@@ -1,30 +1,30 @@
 {
-  "word": "authentication",
+  "word": "authentication_technology",
   "audioFile": "audio-assets/audio/authentication_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.23,
-      "end": 6.21
+      "start": 0,
+      "end": 6.43
     },
     "chineseWord": {
-      "start": 6.85,
-      "end": 10.33
+      "start": 6.63,
+      "end": 10.41
     },
     "exampleSentence1English": {
-      "start": 10.56,
-      "end": 13.45
+      "start": 10.48,
+      "end": 13.57
     },
     "exampleSentence1Chinese": {
-      "start": 13.89,
-      "end": 19.77
+      "start": 13.77,
+      "end": 19.99
     },
     "exampleSentence2English": {
-      "start": 20.41,
-      "end": 24.02
+      "start": 20.19,
+      "end": 24.1
     },
     "exampleSentence2Chinese": {
-      "start": 24.24,
-      "end": 26.79
+      "start": 24.16,
+      "end": 26.99
     }
   }
 }

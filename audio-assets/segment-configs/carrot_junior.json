@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/carrot_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.34,
-      "end": 0.93
+      "start": 0,
+      "end": 1.07
     },
     "chineseWord": {
-      "start": 1.41,
-      "end": 2.29
+      "start": 1.27,
+      "end": 2.37
     },
     "exampleSentence1English": {
-      "start": 2.61,
-      "end": 6.66
+      "start": 2.53,
+      "end": 6.8
     },
     "exampleSentence1Chinese": {
-      "start": 7.14,
-      "end": 11.29
+      "start": 7,
+      "end": 11.37
     },
     "exampleSentence2English": {
-      "start": 11.6,
-      "end": 14.5
+      "start": 11.52,
+      "end": 14.58
     },
     "exampleSentence2Chinese": {
-      "start": 14.82,
-      "end": 18.01
+      "start": 14.74,
+      "end": 18.04
     }
   }
 }

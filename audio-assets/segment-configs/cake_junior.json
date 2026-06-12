@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/cake_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.27,
-      "end": 0.79
+      "start": 0,
+      "end": 0.87
     },
     "chineseWord": {
-      "start": 1.14,
-      "end": 1.99
+      "start": 1.06,
+      "end": 2.07
     },
     "exampleSentence1English": {
-      "start": 2.28,
-      "end": 5.22
+      "start": 2.2,
+      "end": 5.3
     },
     "exampleSentence1Chinese": {
-      "start": 5.55,
-      "end": 8.61
+      "start": 5.47,
+      "end": 8.76
     },
     "exampleSentence2English": {
-      "start": 9.11,
-      "end": 12.25
+      "start": 8.96,
+      "end": 12.335
     },
     "exampleSentence2Chinese": {
-      "start": 12.62,
-      "end": 16.1
+      "start": 12.535,
+      "end": 16.2
     }
   }
 }

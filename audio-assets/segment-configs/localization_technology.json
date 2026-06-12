@@ -1,30 +1,30 @@
 {
-  "word": "localization",
+  "word": "localization_technology",
   "audioFile": "audio-assets/audio/localization_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.29,
-      "end": 3.69
+      "start": 0,
+      "end": 3.77
     },
     "chineseWord": {
-      "start": 3.94,
-      "end": 6.78
+      "start": 3.86,
+      "end": 7.495
     },
     "exampleSentence1English": {
-      "start": 8.41,
-      "end": 13.77
+      "start": 7.695,
+      "end": 14.12
     },
     "exampleSentence1Chinese": {
-      "start": 14.67,
-      "end": 20.74
+      "start": 14.32,
+      "end": 21.23
     },
     "exampleSentence2English": {
-      "start": 21.92,
-      "end": 26.64
+      "start": 21.43,
+      "end": 26.72
     },
     "exampleSentence2Chinese": {
-      "start": 26.95,
-      "end": 29.27
+      "start": 26.87,
+      "end": 29.47
     }
   }
 }

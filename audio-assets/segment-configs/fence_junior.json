@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/fence_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.32,
-      "end": 1.05
+      "start": 0,
+      "end": 1.145
     },
     "chineseWord": {
-      "start": 1.44,
-      "end": 2.41
+      "start": 1.345,
+      "end": 2.49
     },
     "exampleSentence1English": {
-      "start": 2.73,
-      "end": 5.58
+      "start": 2.65,
+      "end": 5.66
     },
     "exampleSentence1Chinese": {
-      "start": 5.94,
-      "end": 9.7
+      "start": 5.86,
+      "end": 9.8
     },
     "exampleSentence2English": {
-      "start": 10.1,
-      "end": 12.83
+      "start": 10,
+      "end": 12.94
     },
     "exampleSentence2Chinese": {
-      "start": 13.25,
-      "end": 15.81
+      "start": 13.14,
+      "end": 15.92
     }
   }
 }

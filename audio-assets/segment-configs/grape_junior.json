@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/grape_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.31,
-      "end": 0.83
+      "start": 0,
+      "end": 1.105
     },
     "chineseWord": {
-      "start": 1.58,
-      "end": 2.38
+      "start": 1.305,
+      "end": 2.63
     },
     "exampleSentence1English": {
-      "start": 3.08,
-      "end": 6.71
+      "start": 2.83,
+      "end": 6.93
     },
     "exampleSentence1Chinese": {
-      "start": 7.35,
-      "end": 11.03
+      "start": 7.13,
+      "end": 11.17
     },
     "exampleSentence2English": {
-      "start": 11.51,
-      "end": 14.95
+      "start": 11.37,
+      "end": 15.145
     },
     "exampleSentence2Chinese": {
-      "start": 15.54,
-      "end": 19.61
+      "start": 15.345,
+      "end": 19.72
     }
   }
 }

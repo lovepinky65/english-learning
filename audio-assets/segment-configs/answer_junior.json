@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/answer_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 0.96
+      "start": 0,
+      "end": 1.15
     },
     "chineseWord": {
-      "start": 1.54,
-      "end": 3.35
+      "start": 1.35,
+      "end": 3.45
     },
     "exampleSentence1English": {
-      "start": 3.75,
-      "end": 5.73
+      "start": 3.65,
+      "end": 5.865
     },
     "exampleSentence1Chinese": {
-      "start": 6.2,
-      "end": 8.16
+      "start": 6.065,
+      "end": 8.31
     },
     "exampleSentence2English": {
-      "start": 8.66,
-      "end": 10.78
+      "start": 8.51,
+      "end": 10.96
     },
     "exampleSentence2Chinese": {
-      "start": 11.34,
-      "end": 14
+      "start": 11.16,
+      "end": 14.2
     }
   }
 }

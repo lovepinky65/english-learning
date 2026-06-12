@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/landing_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.21,
-      "end": 0.94
+      "start": 0,
+      "end": 1.08
     },
     "chineseWord": {
-      "start": 1.42,
-      "end": 2.22
+      "start": 1.28,
+      "end": 2.335
     },
     "exampleSentence1English": {
-      "start": 2.65,
-      "end": 6.85
+      "start": 2.535,
+      "end": 6.955
     },
     "exampleSentence1Chinese": {
-      "start": 7.26,
-      "end": 12.43
+      "start": 7.155,
+      "end": 12.515
     },
     "exampleSentence2English": {
-      "start": 12.8,
-      "end": 16.05
+      "start": 12.715,
+      "end": 16.15
     },
     "exampleSentence2Chinese": {
-      "start": 16.45,
-      "end": 19.72
+      "start": 16.35,
+      "end": 19.8
     }
   }
 }

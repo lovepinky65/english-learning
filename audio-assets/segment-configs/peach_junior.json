@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/peach_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.27,
-      "end": 0.7
+      "start": 0,
+      "end": 0.97
     },
     "chineseWord": {
-      "start": 1.44,
-      "end": 2.25
+      "start": 1.17,
+      "end": 2.52
     },
     "exampleSentence1English": {
-      "start": 2.99,
-      "end": 6.53
+      "start": 2.72,
+      "end": 6.68
     },
     "exampleSentence1Chinese": {
-      "start": 7.03,
-      "end": 10.7
+      "start": 6.88,
+      "end": 10.835
     },
     "exampleSentence2English": {
-      "start": 11.17,
-      "end": 13.6
+      "start": 11.035,
+      "end": 13.805
     },
     "exampleSentence2Chinese": {
-      "start": 14.21,
-      "end": 16.62
+      "start": 14.005,
+      "end": 16.76
     }
   }
 }

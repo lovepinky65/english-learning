@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/straight_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.3,
-      "end": 1.05
+      "start": 0,
+      "end": 1.275
     },
     "chineseWord": {
-      "start": 1.7,
-      "end": 3.65
+      "start": 1.475,
+      "end": 3.795
     },
     "exampleSentence1English": {
-      "start": 4.14,
-      "end": 7.11
+      "start": 3.995,
+      "end": 7.3
     },
     "exampleSentence1Chinese": {
-      "start": 7.69,
-      "end": 10.5
+      "start": 7.5,
+      "end": 10.685
     },
     "exampleSentence2English": {
-      "start": 11.07,
-      "end": 13.72
+      "start": 10.885,
+      "end": 13.94
     },
     "exampleSentence2Chinese": {
-      "start": 14.36,
-      "end": 16.43
+      "start": 14.14,
+      "end": 16.6
     }
   }
 }

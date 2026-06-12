@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/mango_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.2,
-      "end": 1.15
+      "start": 0,
+      "end": 1.275
     },
     "chineseWord": {
-      "start": 1.6,
-      "end": 2.72
+      "start": 1.475,
+      "end": 2.85
     },
     "exampleSentence1English": {
-      "start": 3.18,
-      "end": 7.11
+      "start": 3.05,
+      "end": 7.295
     },
     "exampleSentence1Chinese": {
-      "start": 7.68,
-      "end": 11.49
+      "start": 7.495,
+      "end": 11.59
     },
     "exampleSentence2English": {
-      "start": 11.89,
-      "end": 15.47
+      "start": 11.79,
+      "end": 15.58
     },
     "exampleSentence2Chinese": {
-      "start": 15.89,
-      "end": 19.73
+      "start": 15.78,
+      "end": 19.93
     }
   }
 }

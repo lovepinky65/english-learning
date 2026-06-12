@@ -1,30 +1,30 @@
 {
-  "word": "latency",
+  "word": "latency_technology",
   "audioFile": "audio-assets/audio/latency_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.24,
-      "end": 1.16
+      "start": 0,
+      "end": 1.325
     },
     "chineseWord": {
-      "start": 1.69,
-      "end": 2.77
+      "start": 1.525,
+      "end": 2.87
     },
     "exampleSentence1English": {
-      "start": 3.17,
-      "end": 10.03
+      "start": 3.07,
+      "end": 10.215
     },
     "exampleSentence1Chinese": {
-      "start": 10.6,
-      "end": 17.39
+      "start": 10.415,
+      "end": 17.49
     },
     "exampleSentence2English": {
-      "start": 17.79,
-      "end": 23.93
+      "start": 17.69,
+      "end": 24.125
     },
     "exampleSentence2Chinese": {
-      "start": 24.52,
-      "end": 30.67
+      "start": 24.325,
+      "end": 30.8
     }
   }
 }

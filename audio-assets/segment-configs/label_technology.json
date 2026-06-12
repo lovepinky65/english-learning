@@ -1,30 +1,30 @@
 {
-  "word": "label",
+  "word": "label_technology",
   "audioFile": "audio-assets/audio/label_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 0.92
+      "start": 0,
+      "end": 1.08
     },
     "chineseWord": {
-      "start": 1.44,
-      "end": 2.34
+      "start": 1.28,
+      "end": 2.435
     },
     "exampleSentence1English": {
-      "start": 2.73,
-      "end": 8.69
+      "start": 2.635,
+      "end": 8.98
     },
     "exampleSentence1Chinese": {
-      "start": 9.47,
-      "end": 15.51
+      "start": 9.18,
+      "end": 15.655
     },
     "exampleSentence2English": {
-      "start": 16,
-      "end": 22.04
+      "start": 15.855,
+      "end": 22.365
     },
     "exampleSentence2Chinese": {
-      "start": 22.89,
-      "end": 29.55
+      "start": 22.565,
+      "end": 29.72
     }
   }
 }

@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/helmet_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.29,
-      "end": 0.81
+      "start": 0,
+      "end": 0.965
     },
     "chineseWord": {
-      "start": 1.32,
-      "end": 2.27
+      "start": 1.165,
+      "end": 2.45
     },
     "exampleSentence1English": {
-      "start": 2.83,
-      "end": 5.94
+      "start": 2.65,
+      "end": 6.085
     },
     "exampleSentence1Chinese": {
-      "start": 6.43,
-      "end": 9.83
+      "start": 6.285,
+      "end": 10.055
     },
     "exampleSentence2English": {
-      "start": 10.48,
-      "end": 13.01
+      "start": 10.255,
+      "end": 13.28
     },
     "exampleSentence2Chinese": {
-      "start": 13.75,
-      "end": 17.34
+      "start": 13.48,
+      "end": 17.54
     }
   }
 }

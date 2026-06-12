@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/kick_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.3,
-      "end": 0.72
+      "start": 0,
+      "end": 0.935
     },
     "chineseWord": {
-      "start": 1.35,
-      "end": 1.92
+      "start": 1.135,
+      "end": 2.105
     },
     "exampleSentence1English": {
-      "start": 2.49,
-      "end": 5.17
+      "start": 2.305,
+      "end": 5.36
     },
     "exampleSentence1Chinese": {
-      "start": 5.75,
-      "end": 8.25
+      "start": 5.56,
+      "end": 8.395
     },
     "exampleSentence2English": {
-      "start": 8.74,
-      "end": 11.54
+      "start": 8.595,
+      "end": 11.7
     },
     "exampleSentence2Chinese": {
-      "start": 12.06,
-      "end": 15.14
+      "start": 11.9,
+      "end": 15.2
     }
   }
 }

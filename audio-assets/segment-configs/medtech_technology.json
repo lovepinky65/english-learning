@@ -1,30 +1,30 @@
 {
-  "word": "medtech",
+  "word": "medtech_technology",
   "audioFile": "audio-assets/audio/medtech_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.23,
-      "end": 7.07
+      "start": 0,
+      "end": 7.325
     },
     "chineseWord": {
-      "start": 7.78,
-      "end": 14.13
+      "start": 7.525,
+      "end": 14.265
     },
     "exampleSentence1English": {
-      "start": 14.6,
-      "end": 17.64
+      "start": 14.465,
+      "end": 17.72
     },
     "exampleSentence1Chinese": {
-      "start": 17.99,
-      "end": 19.69
+      "start": 17.91,
+      "end": 19.77
     },
     "exampleSentence2English": {
-      "start": 19.95,
-      "end": 21.94
+      "start": 19.87,
+      "end": 22.205
     },
     "exampleSentence2Chinese": {
-      "start": 22.67,
-      "end": 31.01
+      "start": 22.405,
+      "end": 31.12
     }
   }
 }

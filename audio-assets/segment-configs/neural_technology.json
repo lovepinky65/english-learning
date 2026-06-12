@@ -1,30 +1,30 @@
 {
-  "word": "neural",
+  "word": "neural_technology",
   "audioFile": "audio-assets/audio/neural_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.23,
-      "end": 2.01
+      "start": 0,
+      "end": 2.09
     },
     "chineseWord": {
-      "start": 2.34,
-      "end": 9.18
+      "start": 2.26,
+      "end": 9.34
     },
     "exampleSentence1English": {
-      "start": 9.7,
-      "end": 14.44
+      "start": 9.54,
+      "end": 14.52
     },
     "exampleSentence1Chinese": {
-      "start": 14.72,
-      "end": 15.51
+      "start": 14.64,
+      "end": 15.645
     },
     "exampleSentence2English": {
-      "start": 15.98,
-      "end": 22.82
+      "start": 15.845,
+      "end": 22.995
     },
     "exampleSentence2Chinese": {
-      "start": 23.37,
-      "end": 30.25
+      "start": 23.195,
+      "end": 30.32
     }
   }
 }

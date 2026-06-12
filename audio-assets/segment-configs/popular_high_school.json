@@ -1,30 +1,30 @@
 {
-  "word": "popular",
+  "word": "popular_high_school",
   "audioFile": "audio-assets/audio/popular_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.32,
-      "end": 1.14
+      "start": 0,
+      "end": 1.355
     },
     "chineseWord": {
-      "start": 1.77,
-      "end": 3.06
+      "start": 1.555,
+      "end": 3.365
     },
     "exampleSentence1English": {
-      "start": 3.87,
-      "end": 7.05
+      "start": 3.565,
+      "end": 7.25
     },
     "exampleSentence1Chinese": {
-      "start": 7.65,
-      "end": 11.45
+      "start": 7.45,
+      "end": 11.795
     },
     "exampleSentence2English": {
-      "start": 12.34,
-      "end": 15.48
+      "start": 11.995,
+      "end": 15.71
     },
     "exampleSentence2Chinese": {
-      "start": 16.14,
-      "end": 19.71
+      "start": 15.91,
+      "end": 19.91
     }
   }
 }

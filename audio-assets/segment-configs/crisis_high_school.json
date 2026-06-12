@@ -1,30 +1,30 @@
 {
-  "word": "crisis",
+  "word": "crisis_high_school",
   "audioFile": "audio-assets/audio/crisis_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.45,
-      "end": 1.43
+      "start": 0,
+      "end": 1.51
     },
     "chineseWord": {
-      "start": 1.77,
-      "end": 2.93
+      "start": 1.69,
+      "end": 3.035
     },
     "exampleSentence1English": {
-      "start": 3.34,
-      "end": 5.78
+      "start": 3.235,
+      "end": 6.015
     },
     "exampleSentence1Chinese": {
-      "start": 6.45,
-      "end": 8.98
+      "start": 6.215,
+      "end": 9.06
     },
     "exampleSentence2English": {
-      "start": 9.27,
-      "end": 11.62
+      "start": 9.19,
+      "end": 12.005
     },
     "exampleSentence2Chinese": {
-      "start": 12.59,
-      "end": 15.64
+      "start": 12.205,
+      "end": 15.72
     }
   }
 }

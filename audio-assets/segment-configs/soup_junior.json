@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/soup_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.28,
-      "end": 3.24
+      "start": 0,
+      "end": 3.355
     },
     "chineseWord": {
-      "start": 3.67,
-      "end": 5.31
+      "start": 3.555,
+      "end": 5.36
     },
     "exampleSentence1English": {
-      "start": 5.41,
-      "end": 6.83
+      "start": 5.36,
+      "end": 7
     },
     "exampleSentence1Chinese": {
-      "start": 7.37,
-      "end": 10.63
+      "start": 7.2,
+      "end": 10.88
     },
     "exampleSentence2English": {
-      "start": 11.33,
-      "end": 12.98
+      "start": 11.08,
+      "end": 13.015
     },
     "exampleSentence2Chinese": {
-      "start": 13.05,
-      "end": 14.6
+      "start": 13.015,
+      "end": 14.64
     }
   }
 }

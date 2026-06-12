@@ -1,30 +1,30 @@
 {
-  "word": "lifeguard",
+  "word": "lifeguard_travel",
   "audioFile": "audio-assets/audio/lifeguard_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.27
+      "start": 0,
+      "end": 1.43
     },
     "chineseWord": {
-      "start": 1.79,
-      "end": 2.91
+      "start": 1.63,
+      "end": 3.075
     },
     "exampleSentence1English": {
-      "start": 3.44,
-      "end": 7.96
+      "start": 3.275,
+      "end": 8.075
     },
     "exampleSentence1Chinese": {
-      "start": 8.39,
-      "end": 12.85
+      "start": 8.275,
+      "end": 13.045
     },
     "exampleSentence2English": {
-      "start": 13.44,
-      "end": 17.45
+      "start": 13.245,
+      "end": 17.575
     },
     "exampleSentence2Chinese": {
-      "start": 17.9,
-      "end": 22.51
+      "start": 17.775,
+      "end": 22.71
     }
   }
 }

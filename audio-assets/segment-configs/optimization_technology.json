@@ -1,30 +1,30 @@
 {
-  "word": "optimization",
+  "word": "optimization_technology",
   "audioFile": "audio-assets/audio/optimization_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.23,
-      "end": 1.27
+      "start": 0,
+      "end": 1.42
     },
     "chineseWord": {
-      "start": 1.77,
-      "end": 2.77
+      "start": 1.62,
+      "end": 2.93
     },
     "exampleSentence1English": {
-      "start": 3.29,
-      "end": 9.33
+      "start": 3.13,
+      "end": 9.62
     },
     "exampleSentence1Chinese": {
-      "start": 10.11,
-      "end": 16.6
+      "start": 9.82,
+      "end": 16.8
     },
     "exampleSentence2English": {
-      "start": 17.2,
-      "end": 23.01
+      "start": 17,
+      "end": 23.375
     },
     "exampleSentence2Chinese": {
-      "start": 23.94,
-      "end": 29.05
+      "start": 23.575,
+      "end": 29.2
     }
   }
 }

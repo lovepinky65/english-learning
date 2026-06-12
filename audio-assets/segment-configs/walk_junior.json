@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/walk_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.72,
-      "end": 1.32
+      "start": 0,
+      "end": 1.815
     },
     "chineseWord": {
-      "start": 2.51,
-      "end": 3.36
+      "start": 2.015,
+      "end": 4.06
     },
     "exampleSentence1English": {
-      "start": 4.96,
-      "end": 6.81
+      "start": 4.26,
+      "end": 7.42
     },
     "exampleSentence1Chinese": {
-      "start": 8.23,
-      "end": 10.77
+      "start": 7.62,
+      "end": 12.2
     },
     "exampleSentence2English": {
-      "start": 13.83,
-      "end": 15.51
+      "start": 12.4,
+      "end": 16.165
     },
     "exampleSentence2Chinese": {
-      "start": 17.02,
-      "end": 18.83
+      "start": 16.365,
+      "end": 18.92
     }
   }
 }

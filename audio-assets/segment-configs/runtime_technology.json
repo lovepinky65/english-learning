@@ -1,0 +1,30 @@
+{
+  "word": "runtime_technology",
+  "audioFile": "audio-assets/audio/runtime_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0,
+      "end": 1.275
+    },
+    "chineseWord": {
+      "start": 1.475,
+      "end": 3.55
+    },
+    "exampleSentence1English": {
+      "start": 3.75,
+      "end": 10.33
+    },
+    "exampleSentence1Chinese": {
+      "start": 10.53,
+      "end": 18.73
+    },
+    "exampleSentence2English": {
+      "start": 18.93,
+      "end": 26.125
+    },
+    "exampleSentence2Chinese": {
+      "start": 26.325,
+      "end": 33.99
+    }
+  }
+}

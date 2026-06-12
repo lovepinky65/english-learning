@@ -1,30 +1,30 @@
 {
-  "word": "biotech",
+  "word": "biotech_technology",
   "audioFile": "audio-assets/audio/biotech_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.41,
-      "end": 1.21
+      "start": 0,
+      "end": 1.44
     },
     "chineseWord": {
-      "start": 1.87,
-      "end": 3.04
+      "start": 1.64,
+      "end": 3.12
     },
     "exampleSentence1English": {
-      "start": 3.38,
-      "end": 11.18
+      "start": 3.3,
+      "end": 11.45
     },
     "exampleSentence1Chinese": {
-      "start": 11.92,
-      "end": 18.43
+      "start": 11.65,
+      "end": 18.57
     },
     "exampleSentence2English": {
-      "start": 18.91,
-      "end": 25.3
+      "start": 18.77,
+      "end": 25.475
     },
     "exampleSentence2Chinese": {
-      "start": 25.85,
-      "end": 32.15
+      "start": 25.675,
+      "end": 32.28
     }
   }
 }

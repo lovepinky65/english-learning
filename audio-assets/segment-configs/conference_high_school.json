@@ -1,30 +1,30 @@
 {
-  "word": "conference",
+  "word": "conference_high_school",
   "audioFile": "audio-assets/audio/conference_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.3,
-      "end": 1.17
+      "start": 0,
+      "end": 1.25
     },
     "chineseWord": {
-      "start": 1.41,
-      "end": 2.71
+      "start": 1.33,
+      "end": 2.79
     },
     "exampleSentence1English": {
-      "start": 3.05,
-      "end": 5.62
+      "start": 2.97,
+      "end": 5.7
     },
     "exampleSentence1Chinese": {
-      "start": 5.87,
-      "end": 8.15
+      "start": 5.79,
+      "end": 8.23
     },
     "exampleSentence2English": {
-      "start": 8.35,
-      "end": 10.02
+      "start": 8.27,
+      "end": 10.1
     },
     "exampleSentence2Chinese": {
-      "start": 10.37,
-      "end": 12.43
+      "start": 10.29,
+      "end": 12.48
     }
   }
 }

@@ -1,30 +1,30 @@
 {
-  "word": "rebase",
+  "word": "rebase_technology",
   "audioFile": "audio-assets/audio/rebase_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.29,
-      "end": 1.27
+      "start": 0,
+      "end": 1.45
     },
     "chineseWord": {
-      "start": 1.83,
-      "end": 2.96
+      "start": 1.65,
+      "end": 3.13
     },
     "exampleSentence1English": {
-      "start": 3.5,
-      "end": 9
+      "start": 3.33,
+      "end": 9.255
     },
     "exampleSentence1Chinese": {
-      "start": 9.71,
-      "end": 16.11
+      "start": 9.455,
+      "end": 16.225
     },
     "exampleSentence2English": {
-      "start": 16.54,
-      "end": 22.46
+      "start": 16.425,
+      "end": 22.71
     },
     "exampleSentence2Chinese": {
-      "start": 23.16,
-      "end": 29.81
+      "start": 22.91,
+      "end": 30.01
     }
   }
 }

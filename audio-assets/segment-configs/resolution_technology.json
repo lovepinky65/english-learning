@@ -1,30 +1,30 @@
 {
-  "word": "resolution",
+  "word": "resolution_technology",
   "audioFile": "audio-assets/audio/resolution_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.28
+      "start": 0,
+      "end": 1.455
     },
     "chineseWord": {
-      "start": 1.83,
-      "end": 2.73
+      "start": 1.655,
+      "end": 3.01
     },
     "exampleSentence1English": {
-      "start": 3.49,
-      "end": 10.88
+      "start": 3.21,
+      "end": 11.165
     },
     "exampleSentence1Chinese": {
-      "start": 11.65,
-      "end": 19.72
+      "start": 11.365,
+      "end": 20.045
     },
     "exampleSentence2English": {
-      "start": 20.57,
-      "end": 26.6
+      "start": 20.245,
+      "end": 26.85
     },
     "exampleSentence2Chinese": {
-      "start": 27.3,
-      "end": 32.92
+      "start": 27.05,
+      "end": 33.12
     }
   }
 }

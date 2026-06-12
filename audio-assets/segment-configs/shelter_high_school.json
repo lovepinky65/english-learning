@@ -1,30 +1,30 @@
 {
-  "word": "shelter",
+  "word": "shelter_high_school",
   "audioFile": "audio-assets/audio/shelter_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.35,
-      "end": 1.13
+      "start": 0,
+      "end": 1.35
     },
     "chineseWord": {
-      "start": 1.77,
-      "end": 3.58
+      "start": 1.55,
+      "end": 3.905
     },
     "exampleSentence1English": {
-      "start": 4.43,
-      "end": 7.13
+      "start": 4.105,
+      "end": 7.425
     },
     "exampleSentence1Chinese": {
-      "start": 7.92,
-      "end": 11.38
+      "start": 7.625,
+      "end": 11.74
     },
     "exampleSentence2English": {
-      "start": 12.3,
-      "end": 15
+      "start": 11.94,
+      "end": 15.355
     },
     "exampleSentence2Chinese": {
-      "start": 15.91,
-      "end": 18.99
+      "start": 15.555,
+      "end": 19.16
     }
   }
 }

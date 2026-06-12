@@ -1,30 +1,30 @@
 {
-  "word": "reservation",
+  "word": "reservation_travel",
   "audioFile": "audio-assets/audio/reservation_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.22,
-      "end": 1.96
+      "start": 0,
+      "end": 2.04
     },
     "chineseWord": {
-      "start": 2.16,
-      "end": 6.28
+      "start": 2.08,
+      "end": 6.43
     },
     "exampleSentence1English": {
-      "start": 6.78,
-      "end": 10.91
+      "start": 6.63,
+      "end": 10.99
     },
     "exampleSentence1Chinese": {
-      "start": 11.27,
-      "end": 17.37
+      "start": 11.19,
+      "end": 17.48
     },
     "exampleSentence2English": {
-      "start": 17.79,
-      "end": 19.88
+      "start": 17.68,
+      "end": 19.96
     },
     "exampleSentence2Chinese": {
-      "start": 20.17,
-      "end": 22.5
+      "start": 20.09,
+      "end": 22.6
     }
   }
 }

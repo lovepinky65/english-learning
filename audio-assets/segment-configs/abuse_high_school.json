@@ -1,30 +1,30 @@
 {
-  "word": "abuse",
+  "word": "abuse_high_school",
   "audioFile": "audio-assets/audio/abuse_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.22,
-      "end": 1.29
+      "start": 0,
+      "end": 1.37
     },
     "chineseWord": {
-      "start": 1.63,
-      "end": 3.49
+      "start": 1.55,
+      "end": 3.57
     },
     "exampleSentence1English": {
-      "start": 3.85,
-      "end": 7.08
+      "start": 3.77,
+      "end": 7.22
     },
     "exampleSentence1Chinese": {
-      "start": 7.56,
-      "end": 10.3
+      "start": 7.42,
+      "end": 10.42
     },
     "exampleSentence2English": {
-      "start": 10.74,
-      "end": 13.13
+      "start": 10.62,
+      "end": 13.275
     },
     "exampleSentence2Chinese": {
-      "start": 13.62,
-      "end": 16.09
+      "start": 13.475,
+      "end": 16.24
     }
   }
 }

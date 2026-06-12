@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/campfire_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.31,
-      "end": 1.19
+      "start": 0,
+      "end": 1.445
     },
     "chineseWord": {
-      "start": 1.9,
-      "end": 2.71
+      "start": 1.645,
+      "end": 2.865
     },
     "exampleSentence1English": {
-      "start": 3.22,
-      "end": 7.58
+      "start": 3.065,
+      "end": 7.74
     },
     "exampleSentence1Chinese": {
-      "start": 8.1,
-      "end": 12.48
+      "start": 7.94,
+      "end": 12.73
     },
     "exampleSentence2English": {
-      "start": 13.18,
-      "end": 17.86
+      "start": 12.93,
+      "end": 18.045
     },
     "exampleSentence2Chinese": {
-      "start": 18.43,
-      "end": 22.18
+      "start": 18.245,
+      "end": 22.24
     }
   }
 }

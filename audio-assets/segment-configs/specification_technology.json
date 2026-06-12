@@ -1,30 +1,30 @@
 {
-  "word": "specification",
+  "word": "specification_technology",
   "audioFile": "audio-assets/audio/specification_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.29,
-      "end": 1.46
+      "start": 0,
+      "end": 1.7
     },
     "chineseWord": {
-      "start": 2.14,
-      "end": 3.62
+      "start": 1.9,
+      "end": 3.795
     },
     "exampleSentence1English": {
-      "start": 4.17,
-      "end": 11.06
+      "start": 3.995,
+      "end": 11.21
     },
     "exampleSentence1Chinese": {
-      "start": 11.56,
-      "end": 18.69
+      "start": 11.41,
+      "end": 18.785
     },
     "exampleSentence2English": {
-      "start": 19.08,
-      "end": 25.85
+      "start": 18.985,
+      "end": 25.99
     },
     "exampleSentence2Chinese": {
-      "start": 26.33,
-      "end": 33.68
+      "start": 26.19,
+      "end": 33.8
     }
   }
 }

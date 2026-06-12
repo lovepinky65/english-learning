@@ -1,30 +1,30 @@
 {
-  "word": "network",
+  "word": "network_technology",
   "audioFile": "audio-assets/audio/network_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.24,
-      "end": 0.9
+      "start": 0,
+      "end": 1.19
     },
     "chineseWord": {
-      "start": 1.68,
-      "end": 2.49
+      "start": 1.39,
+      "end": 2.725
     },
     "exampleSentence1English": {
-      "start": 3.16,
-      "end": 9.19
+      "start": 2.925,
+      "end": 9.4
     },
     "exampleSentence1Chinese": {
-      "start": 9.81,
-      "end": 16.75
+      "start": 9.6,
+      "end": 16.99
     },
     "exampleSentence2English": {
-      "start": 17.43,
-      "end": 22.37
+      "start": 17.19,
+      "end": 22.735
     },
     "exampleSentence2Chinese": {
-      "start": 23.3,
-      "end": 28.16
+      "start": 22.935,
+      "end": 28.24
     }
   }
 }

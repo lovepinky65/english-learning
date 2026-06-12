@@ -1,30 +1,30 @@
 {
-  "word": "workshop",
+  "word": "workshop_high_school",
   "audioFile": "audio-assets/audio/workshop_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.2,
-      "end": 1.05
+      "start": 0,
+      "end": 1.19
     },
     "chineseWord": {
-      "start": 1.53,
-      "end": 3.81
+      "start": 1.39,
+      "end": 3.99
     },
     "exampleSentence1English": {
-      "start": 4.37,
-      "end": 7.05
+      "start": 4.19,
+      "end": 7.205
     },
     "exampleSentence1Chinese": {
-      "start": 7.56,
-      "end": 10.29
+      "start": 7.405,
+      "end": 10.46
     },
     "exampleSentence2English": {
-      "start": 10.83,
-      "end": 13.66
+      "start": 10.66,
+      "end": 13.885
     },
     "exampleSentence2Chinese": {
-      "start": 14.31,
-      "end": 17.04
+      "start": 14.085,
+      "end": 17.16
     }
   }
 }

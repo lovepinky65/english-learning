@@ -1,30 +1,30 @@
 {
-  "word": "artifact",
+  "word": "artifact_technology",
   "audioFile": "audio-assets/audio/artifact_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.06
+      "start": 0,
+      "end": 1.275
     },
     "chineseWord": {
-      "start": 1.69,
-      "end": 2.87
+      "start": 1.475,
+      "end": 3.015
     },
     "exampleSentence1English": {
-      "start": 3.36,
-      "end": 9.26
+      "start": 3.215,
+      "end": 9.4
     },
     "exampleSentence1Chinese": {
-      "start": 9.74,
-      "end": 15.28
+      "start": 9.6,
+      "end": 15.47
     },
     "exampleSentence2English": {
-      "start": 15.86,
-      "end": 22.12
+      "start": 15.67,
+      "end": 22.31
     },
     "exampleSentence2Chinese": {
-      "start": 22.7,
-      "end": 28.84
+      "start": 22.51,
+      "end": 28.92
     }
   }
 }

@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/beach_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.23,
-      "end": 0.64
+      "start": 0,
+      "end": 0.955
     },
     "chineseWord": {
-      "start": 1.47,
-      "end": 2.39
+      "start": 1.155,
+      "end": 2.47
     },
     "exampleSentence1English": {
-      "start": 2.68,
-      "end": 5.81
+      "start": 2.6,
+      "end": 5.98
     },
     "exampleSentence1Chinese": {
-      "start": 6.35,
-      "end": 9.97
+      "start": 6.18,
+      "end": 10.05
     },
     "exampleSentence2English": {
-      "start": 10.31,
-      "end": 13.33
+      "start": 10.23,
+      "end": 13.56
     },
     "exampleSentence2Chinese": {
-      "start": 13.99,
-      "end": 16.96
+      "start": 13.76,
+      "end": 17.08
     }
   }
 }

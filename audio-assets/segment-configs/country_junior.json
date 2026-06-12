@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/country_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.42,
-      "end": 1.14
+      "start": 0,
+      "end": 1.335
     },
     "chineseWord": {
-      "start": 1.73,
-      "end": 3.66
+      "start": 1.535,
+      "end": 3.845
     },
     "exampleSentence1English": {
-      "start": 4.23,
-      "end": 8.14
+      "start": 4.045,
+      "end": 8.32
     },
     "exampleSentence1Chinese": {
-      "start": 8.7,
-      "end": 12.18
+      "start": 8.52,
+      "end": 12.465
     },
     "exampleSentence2English": {
-      "start": 12.95,
-      "end": 17.49
+      "start": 12.665,
+      "end": 17.7
     },
     "exampleSentence2Chinese": {
-      "start": 18.11,
-      "end": 22.15
+      "start": 17.9,
+      "end": 22.24
     }
   }
 }

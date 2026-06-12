@@ -1,30 +1,30 @@
 {
-  "word": "pier",
+  "word": "pier_travel",
   "audioFile": "audio-assets/audio/pier_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.33,
-      "end": 0.89
+      "start": 0,
+      "end": 1.085
     },
     "chineseWord": {
-      "start": 1.48,
-      "end": 2.13
+      "start": 1.285,
+      "end": 2.325
     },
     "exampleSentence1English": {
-      "start": 2.72,
-      "end": 3.73
+      "start": 2.525,
+      "end": 3.91
     },
     "exampleSentence1Chinese": {
-      "start": 4.29,
-      "end": 9.3
+      "start": 4.11,
+      "end": 9.575
     },
     "exampleSentence2English": {
-      "start": 10.05,
-      "end": 14.47
+      "start": 9.775,
+      "end": 14.62
     },
     "exampleSentence2Chinese": {
-      "start": 14.97,
-      "end": 24.71
+      "start": 14.82,
+      "end": 24.91
     }
   }
 }

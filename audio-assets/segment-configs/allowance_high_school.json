@@ -1,30 +1,30 @@
 {
-  "word": "allowance",
+  "word": "allowance_high_school",
   "audioFile": "audio-assets/audio/allowance_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.22,
-      "end": 1.28
+      "start": 0,
+      "end": 1.46
     },
     "chineseWord": {
-      "start": 1.84,
-      "end": 3.99
+      "start": 1.66,
+      "end": 4.095
     },
     "exampleSentence1English": {
-      "start": 4.4,
-      "end": 7.26
+      "start": 4.295,
+      "end": 7.38
     },
     "exampleSentence1Chinese": {
-      "start": 7.7,
-      "end": 10.39
+      "start": 7.58,
+      "end": 10.545
     },
     "exampleSentence2English": {
-      "start": 10.9,
-      "end": 13.45
+      "start": 10.745,
+      "end": 13.66
     },
     "exampleSentence2Chinese": {
-      "start": 14.07,
-      "end": 17.05
+      "start": 13.86,
+      "end": 17.24
     }
   }
 }

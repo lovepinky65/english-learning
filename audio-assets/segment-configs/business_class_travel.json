@@ -1,30 +1,30 @@
 {
-  "word": "business_class",
+  "word": "business_class_travel",
   "audioFile": "audio-assets/audio/business_class_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.22,
-      "end": 1.26
+      "start": 0,
+      "end": 1.485
     },
     "chineseWord": {
-      "start": 1.91,
-      "end": 2.96
+      "start": 1.685,
+      "end": 3.11
     },
     "exampleSentence1English": {
-      "start": 3.46,
-      "end": 8.27
+      "start": 3.31,
+      "end": 8.45
     },
     "exampleSentence1Chinese": {
-      "start": 8.83,
-      "end": 13.17
+      "start": 8.65,
+      "end": 13.32
     },
     "exampleSentence2English": {
-      "start": 13.67,
-      "end": 18.02
+      "start": 13.52,
+      "end": 18.215
     },
     "exampleSentence2Chinese": {
-      "start": 18.61,
-      "end": 22.53
+      "start": 18.415,
+      "end": 22.72
     }
   }
 }

@@ -1,30 +1,30 @@
 {
-  "word": "violence",
+  "word": "violence_high_school",
   "audioFile": "audio-assets/audio/violence_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.27,
-      "end": 1.42
+      "start": 0,
+      "end": 1.52
     },
     "chineseWord": {
-      "start": 1.82,
-      "end": 3.8
+      "start": 1.72,
+      "end": 3.935
     },
     "exampleSentence1English": {
-      "start": 4.27,
-      "end": 7.12
+      "start": 4.135,
+      "end": 7.275
     },
     "exampleSentence1Chinese": {
-      "start": 7.63,
-      "end": 10.43
+      "start": 7.475,
+      "end": 10.53
     },
     "exampleSentence2English": {
-      "start": 10.83,
-      "end": 13.08
+      "start": 10.73,
+      "end": 13.205
     },
     "exampleSentence2Chinese": {
-      "start": 13.53,
-      "end": 15.53
+      "start": 13.405,
+      "end": 15.72
     }
   }
 }

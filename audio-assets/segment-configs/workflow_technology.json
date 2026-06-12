@@ -1,30 +1,30 @@
 {
-  "word": "workflow",
+  "word": "workflow_technology",
   "audioFile": "audio-assets/audio/workflow_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.23,
-      "end": 1.28
+      "start": 0,
+      "end": 1.395
     },
     "chineseWord": {
-      "start": 1.71,
-      "end": 3.09
+      "start": 1.595,
+      "end": 3.17
     },
     "exampleSentence1English": {
-      "start": 3.42,
-      "end": 10.59
+      "start": 3.34,
+      "end": 10.92
     },
     "exampleSentence1Chinese": {
-      "start": 11.45,
-      "end": 17.93
+      "start": 11.12,
+      "end": 18.08
     },
     "exampleSentence2English": {
-      "start": 18.43,
-      "end": 24.62
+      "start": 18.28,
+      "end": 24.945
     },
     "exampleSentence2Chinese": {
-      "start": 25.47,
-      "end": 30.49
+      "start": 25.145,
+      "end": 30.69
     }
   }
 }

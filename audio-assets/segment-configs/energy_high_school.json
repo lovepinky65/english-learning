@@ -1,30 +1,30 @@
 {
-  "word": "energy",
+  "word": "energy_high_school",
   "audioFile": "audio-assets/audio/energy_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.14,
-      "end": 0.9
+      "start": 0,
+      "end": 1.16
     },
     "chineseWord": {
-      "start": 1.62,
-      "end": 2.46
+      "start": 1.36,
+      "end": 2.765
     },
     "exampleSentence1English": {
-      "start": 3.27,
-      "end": 7.31
+      "start": 2.965,
+      "end": 7.66
     },
     "exampleSentence1Chinese": {
-      "start": 8.21,
-      "end": 11.79
+      "start": 7.86,
+      "end": 12.08
     },
     "exampleSentence2English": {
-      "start": 12.57,
-      "end": 15.33
+      "start": 12.28,
+      "end": 15.645
     },
     "exampleSentence2Chinese": {
-      "start": 16.16,
-      "end": 19.07
+      "start": 15.845,
+      "end": 19.27
     }
   }
 }

@@ -1,30 +1,30 @@
 {
-  "word": "budget",
+  "word": "budget_high_school",
   "audioFile": "audio-assets/audio/budget_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.35,
-      "end": 0.97
+      "start": 0,
+      "end": 1.165
     },
     "chineseWord": {
-      "start": 1.56,
-      "end": 3.26
+      "start": 1.365,
+      "end": 3.53
     },
     "exampleSentence1English": {
-      "start": 4,
-      "end": 7.54
+      "start": 3.73,
+      "end": 7.71
     },
     "exampleSentence1Chinese": {
-      "start": 8.08,
-      "end": 11.01
+      "start": 7.91,
+      "end": 11.285
     },
     "exampleSentence2English": {
-      "start": 11.76,
-      "end": 14.2
+      "start": 11.485,
+      "end": 14.4
     },
     "exampleSentence2Chinese": {
-      "start": 14.8,
-      "end": 17.61
+      "start": 14.6,
+      "end": 17.81
     }
   }
 }

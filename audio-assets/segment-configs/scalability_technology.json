@@ -1,30 +1,30 @@
 {
-  "word": "scalability",
+  "word": "scalability_technology",
   "audioFile": "audio-assets/audio/scalability_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.44,
-      "end": 1.3
+      "start": 0,
+      "end": 1.495
     },
     "chineseWord": {
-      "start": 1.89,
-      "end": 3.11
+      "start": 1.695,
+      "end": 3.27
     },
     "exampleSentence1English": {
-      "start": 3.63,
-      "end": 5.09
+      "start": 3.47,
+      "end": 5.225
     },
     "exampleSentence1Chinese": {
-      "start": 5.56,
-      "end": 9.75
+      "start": 5.425,
+      "end": 10.115
     },
     "exampleSentence2English": {
-      "start": 10.68,
-      "end": 22.49
+      "start": 10.315,
+      "end": 22.645
     },
     "exampleSentence2Chinese": {
-      "start": 23,
-      "end": 28.83
+      "start": 22.845,
+      "end": 29.03
     }
   }
 }

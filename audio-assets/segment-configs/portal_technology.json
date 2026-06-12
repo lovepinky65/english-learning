@@ -1,30 +1,30 @@
 {
-  "word": "portal",
+  "word": "portal_technology",
   "audioFile": "audio-assets/audio/portal_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.27,
-      "end": 0.79
+      "start": 0,
+      "end": 0.96
     },
     "chineseWord": {
-      "start": 1.33,
-      "end": 2.5
+      "start": 1.16,
+      "end": 2.63
     },
     "exampleSentence1English": {
-      "start": 2.96,
-      "end": 9.72
+      "start": 2.83,
+      "end": 9.95
     },
     "exampleSentence1Chinese": {
-      "start": 10.38,
-      "end": 16.67
+      "start": 10.15,
+      "end": 16.785
     },
     "exampleSentence2English": {
-      "start": 17.1,
-      "end": 22.48
+      "start": 16.985,
+      "end": 22.715
     },
     "exampleSentence2Chinese": {
-      "start": 23.15,
-      "end": 28.9
+      "start": 22.915,
+      "end": 29
     }
   }
 }

@@ -1,30 +1,30 @@
 {
-  "word": "versioning",
+  "word": "versioning_technology",
   "audioFile": "audio-assets/audio/versioning_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.28,
-      "end": 1.02
+      "start": 0,
+      "end": 1.185
     },
     "chineseWord": {
-      "start": 1.55,
-      "end": 2.71
+      "start": 1.385,
+      "end": 2.87
     },
     "exampleSentence1English": {
-      "start": 3.23,
-      "end": 8.17
+      "start": 3.07,
+      "end": 8.34
     },
     "exampleSentence1Chinese": {
-      "start": 8.71,
-      "end": 14.03
+      "start": 8.54,
+      "end": 14.145
     },
     "exampleSentence2English": {
-      "start": 14.46,
-      "end": 15.97
+      "start": 14.345,
+      "end": 16.05
     },
     "exampleSentence2Chinese": {
-      "start": 16.13,
-      "end": 20.14
+      "start": 16.05,
+      "end": 20.34
     }
   }
 }

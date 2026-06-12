@@ -1,30 +1,30 @@
 {
-  "word": "dependency",
+  "word": "dependency_technology",
   "audioFile": "audio-assets/audio/dependency_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.18,
-      "end": 1.28
+      "start": 0,
+      "end": 1.45
     },
     "chineseWord": {
-      "start": 1.82,
-      "end": 3.22
+      "start": 1.65,
+      "end": 3.33
     },
     "exampleSentence1English": {
-      "start": 3.64,
-      "end": 10.52
+      "start": 3.53,
+      "end": 10.79
     },
     "exampleSentence1Chinese": {
-      "start": 11.26,
-      "end": 18.28
+      "start": 10.99,
+      "end": 18.405
     },
     "exampleSentence2English": {
-      "start": 18.73,
-      "end": 25.22
+      "start": 18.605,
+      "end": 25.355
     },
     "exampleSentence2Chinese": {
-      "start": 25.69,
-      "end": 32.42
+      "start": 25.555,
+      "end": 32.52
     }
   }
 }

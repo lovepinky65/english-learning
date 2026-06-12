@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/yesterday_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.42,
-      "end": 1.44
+      "start": 0,
+      "end": 1.97
     },
     "chineseWord": {
-      "start": 2.7,
-      "end": 3.66
+      "start": 2.17,
+      "end": 4.22
     },
     "exampleSentence1English": {
-      "start": 4.98,
-      "end": 7.27
+      "start": 4.42,
+      "end": 7.645
     },
     "exampleSentence1Chinese": {
-      "start": 8.22,
-      "end": 10.33
+      "start": 7.845,
+      "end": 11.025
     },
     "exampleSentence2English": {
-      "start": 11.92,
-      "end": 15.01
+      "start": 11.225,
+      "end": 15.45
     },
     "exampleSentence2Chinese": {
-      "start": 16.09,
-      "end": 19.91
+      "start": 15.65,
+      "end": 20.11
     }
   }
 }

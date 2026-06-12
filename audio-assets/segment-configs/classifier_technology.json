@@ -1,30 +1,30 @@
 {
-  "word": "classifier",
+  "word": "classifier_technology",
   "audioFile": "audio-assets/audio/classifier_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.29,
-      "end": 1.16
+      "start": 0,
+      "end": 1.335
     },
     "chineseWord": {
-      "start": 1.71,
-      "end": 2.53
+      "start": 1.535,
+      "end": 2.625
     },
     "exampleSentence1English": {
-      "start": 2.92,
-      "end": 8.82
+      "start": 2.825,
+      "end": 9.015
     },
     "exampleSentence1Chinese": {
-      "start": 9.41,
-      "end": 16.27
+      "start": 9.215,
+      "end": 16.35
     },
     "exampleSentence2English": {
-      "start": 16.59,
-      "end": 22.53
+      "start": 16.51,
+      "end": 23.005
     },
     "exampleSentence2Chinese": {
-      "start": 23.68,
-      "end": 29.25
+      "start": 23.205,
+      "end": 29.4
     }
   }
 }

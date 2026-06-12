@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/miss_a_flight_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.41
+      "start": 0,
+      "end": 1.91
     },
     "chineseWord": {
-      "start": 2.61,
-      "end": 3.92
+      "start": 2.11,
+      "end": 4.17
     },
     "exampleSentence1English": {
-      "start": 4.62,
-      "end": 8.86
+      "start": 4.37,
+      "end": 9.255
     },
     "exampleSentence1Chinese": {
-      "start": 9.85,
-      "end": 14.58
+      "start": 9.455,
+      "end": 14.81
     },
     "exampleSentence2English": {
-      "start": 15.24,
-      "end": 20.11
+      "start": 15.01,
+      "end": 20.49
     },
     "exampleSentence2Chinese": {
-      "start": 21.07,
-      "end": 26.97
+      "start": 20.69,
+      "end": 27.17
     }
   }
 }

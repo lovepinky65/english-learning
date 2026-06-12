@@ -1,30 +1,30 @@
 {
-  "word": "check-in",
+  "word": "check-in_travel",
   "audioFile": "audio-assets/audio/check-in_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.32,
-      "end": 1.01
+      "start": 0,
+      "end": 1.115
     },
     "chineseWord": {
-      "start": 1.42,
-      "end": 2.02
+      "start": 1.315,
+      "end": 2.165
     },
     "exampleSentence1English": {
-      "start": 2.51,
-      "end": 5.82
+      "start": 2.365,
+      "end": 6.215
     },
     "exampleSentence1Chinese": {
-      "start": 6.81,
-      "end": 11.59
+      "start": 6.415,
+      "end": 11.755
     },
     "exampleSentence2English": {
-      "start": 12.12,
-      "end": 16.03
+      "start": 11.955,
+      "end": 16.285
     },
     "exampleSentence2Chinese": {
-      "start": 16.74,
-      "end": 20.47
+      "start": 16.485,
+      "end": 20.6
     }
   }
 }

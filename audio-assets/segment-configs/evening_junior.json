@@ -1,0 +1,31 @@
+{
+  "word": "evening_junior",
+  "change": true,
+  "audioFile": "audio-assets/audio/evening_junior.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.24,
+      "end": 0.96
+    },
+    "chineseWord": {
+      "start": 1.43,
+      "end": 3.18
+    },
+    "exampleSentence1English": {
+      "start": 3.69,
+      "end": 6.62
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.75,
+      "end": 8.85
+    },
+    "exampleSentence2English": {
+      "start": 9.3,
+      "end": 11.7
+    },
+    "exampleSentence2Chinese": {
+      "start": 12.5,
+      "end": 15.37
+    }
+  }
+}

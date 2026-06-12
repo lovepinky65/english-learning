@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/safe_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.24,
-      "end": 0.76
+      "start": 0,
+      "end": 0.885
     },
     "chineseWord": {
-      "start": 1.21,
-      "end": 2.13
+      "start": 1.085,
+      "end": 2.21
     },
     "exampleSentence1English": {
-      "start": 2.39,
-      "end": 5.6
+      "start": 2.31,
+      "end": 5.705
     },
     "exampleSentence1Chinese": {
-      "start": 6.01,
-      "end": 10.6
+      "start": 5.905,
+      "end": 10.68
     },
     "exampleSentence2English": {
-      "start": 10.91,
-      "end": 14.67
+      "start": 10.83,
+      "end": 14.815
     },
     "exampleSentence2Chinese": {
-      "start": 15.16,
-      "end": 20
+      "start": 15.015,
+      "end": 20.08
     }
   }
 }

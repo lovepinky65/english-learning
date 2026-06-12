@@ -1,30 +1,30 @@
 {
-  "word": "router",
+  "word": "router_technology",
   "audioFile": "audio-assets/audio/router_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.06
+      "start": 0,
+      "end": 1.23
     },
     "chineseWord": {
-      "start": 1.6,
-      "end": 2.59
+      "start": 1.43,
+      "end": 2.675
     },
     "exampleSentence1English": {
-      "start": 2.96,
-      "end": 9.42
+      "start": 2.875,
+      "end": 9.55
     },
     "exampleSentence1Chinese": {
-      "start": 9.88,
-      "end": 15.87
+      "start": 9.75,
+      "end": 15.975
     },
     "exampleSentence2English": {
-      "start": 16.28,
-      "end": 23.2
+      "start": 16.175,
+      "end": 23.285
     },
     "exampleSentence2Chinese": {
-      "start": 23.57,
-      "end": 28.74
+      "start": 23.485,
+      "end": 28.92
     }
   }
 }

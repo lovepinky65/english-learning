@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/book_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 0.67
+      "start": 0,
+      "end": 0.935
     },
     "chineseWord": {
-      "start": 1.4,
-      "end": 2.05
+      "start": 1.135,
+      "end": 2.16
     },
     "exampleSentence1English": {
-      "start": 2.47,
-      "end": 5.04
+      "start": 2.36,
+      "end": 5.255
     },
     "exampleSentence1Chinese": {
-      "start": 5.67,
-      "end": 8.37
+      "start": 5.455,
+      "end": 8.515
     },
     "exampleSentence2English": {
-      "start": 8.86,
-      "end": 11.38
+      "start": 8.715,
+      "end": 11.58
     },
     "exampleSentence2Chinese": {
-      "start": 11.98,
-      "end": 14.77
+      "start": 11.78,
+      "end": 14.96
     }
   }
 }

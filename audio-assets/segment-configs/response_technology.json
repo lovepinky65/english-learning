@@ -1,30 +1,30 @@
 {
-  "word": "response",
+  "word": "response_technology",
   "audioFile": "audio-assets/audio/response_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.32
+      "start": 0,
+      "end": 2.14
     },
     "chineseWord": {
-      "start": 3.16,
-      "end": 3.95
+      "start": 2.34,
+      "end": 4.5
     },
     "exampleSentence1English": {
-      "start": 5.25,
-      "end": 10.55
+      "start": 4.7,
+      "end": 10.71
     },
     "exampleSentence1Chinese": {
-      "start": 11.07,
-      "end": 12.52
+      "start": 10.91,
+      "end": 12.525
     },
     "exampleSentence2English": {
-      "start": 12.53,
-      "end": 16.09
+      "start": 12.525,
+      "end": 16.445
     },
     "exampleSentence2Chinese": {
-      "start": 17,
-      "end": 22.75
+      "start": 16.645,
+      "end": 22.95
     }
   }
 }

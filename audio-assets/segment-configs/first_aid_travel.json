@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/first_aid_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.3,
-      "end": 1.27
+      "start": 0,
+      "end": 1.42
     },
     "chineseWord": {
-      "start": 1.77,
-      "end": 2.54
+      "start": 1.62,
+      "end": 2.62
     },
     "exampleSentence1English": {
-      "start": 2.89,
-      "end": 6.73
+      "start": 2.81,
+      "end": 6.905
     },
     "exampleSentence1Chinese": {
-      "start": 7.28,
-      "end": 11.45
+      "start": 7.105,
+      "end": 11.545
     },
     "exampleSentence2English": {
-      "start": 11.84,
-      "end": 15.85
+      "start": 11.745,
+      "end": 16
     },
     "exampleSentence2Chinese": {
-      "start": 16.35,
-      "end": 20.74
+      "start": 16.2,
+      "end": 20.84
     }
   }
 }

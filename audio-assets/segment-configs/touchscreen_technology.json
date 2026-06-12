@@ -1,30 +1,30 @@
 {
-  "word": "touchscreen",
+  "word": "touchscreen_technology",
   "audioFile": "audio-assets/audio/touchscreen_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.34,
-      "end": 5.53
+      "start": 0,
+      "end": 5.615
     },
     "chineseWord": {
-      "start": 5.9,
-      "end": 7.12
+      "start": 5.815,
+      "end": 7.405
     },
     "exampleSentence1English": {
-      "start": 7.89,
-      "end": 12.01
+      "start": 7.605,
+      "end": 12.09
     },
     "exampleSentence1Chinese": {
-      "start": 12.19,
-      "end": 15.81
+      "start": 12.11,
+      "end": 15.98
     },
     "exampleSentence2English": {
-      "start": 16.35,
-      "end": 22.66
+      "start": 16.18,
+      "end": 22.965
     },
     "exampleSentence2Chinese": {
-      "start": 23.47,
-      "end": 29.96
+      "start": 23.165,
+      "end": 30.12
     }
   }
 }

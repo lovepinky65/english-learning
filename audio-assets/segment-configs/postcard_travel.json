@@ -1,30 +1,30 @@
 {
-  "word": "postcard",
+  "word": "postcard_travel",
   "audioFile": "audio-assets/audio/postcard_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.38,
-      "end": 1.32
+      "start": 0,
+      "end": 1.525
     },
     "chineseWord": {
-      "start": 1.93,
-      "end": 2.95
+      "start": 1.725,
+      "end": 3.335
     },
     "exampleSentence1English": {
-      "start": 3.92,
-      "end": 7.81
+      "start": 3.535,
+      "end": 8.26
     },
     "exampleSentence1Chinese": {
-      "start": 8.91,
-      "end": 12.32
+      "start": 8.46,
+      "end": 12.76
     },
     "exampleSentence2English": {
-      "start": 13.4,
-      "end": 17.78
+      "start": 12.96,
+      "end": 18.215
     },
     "exampleSentence2Chinese": {
-      "start": 18.85,
-      "end": 23.14
+      "start": 18.415,
+      "end": 23.34
     }
   }
 }

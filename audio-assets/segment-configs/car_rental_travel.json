@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/car_rental_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.31,
-      "end": 4.47
+      "start": 0,
+      "end": 4.59
     },
     "chineseWord": {
-      "start": 4.91,
-      "end": 9.53
+      "start": 4.79,
+      "end": 9.61
     },
     "exampleSentence1English": {
-      "start": 9.83,
-      "end": 12.12
+      "start": 9.75,
+      "end": 12.155
     },
     "exampleSentence1Chinese": {
-      "start": 12.19,
-      "end": 14.65
+      "start": 12.155,
+      "end": 14.77
     },
     "exampleSentence2English": {
-      "start": 15.09,
-      "end": 17.73
+      "start": 14.97,
+      "end": 17.775
     },
     "exampleSentence2Chinese": {
-      "start": 17.82,
-      "end": 20.59
+      "start": 17.775,
+      "end": 20.72
     }
   }
 }

@@ -1,30 +1,30 @@
 {
-  "word": "client",
+  "word": "client_technology",
   "audioFile": "audio-assets/audio/client_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.34,
-      "end": 0.98
+      "start": 0,
+      "end": 1.21
     },
     "chineseWord": {
-      "start": 1.64,
-      "end": 2.59
+      "start": 1.41,
+      "end": 2.74
     },
     "exampleSentence1English": {
-      "start": 3.09,
-      "end": 9.29
+      "start": 2.94,
+      "end": 9.44
     },
     "exampleSentence1Chinese": {
-      "start": 9.79,
-      "end": 15.89
+      "start": 9.64,
+      "end": 16.02
     },
     "exampleSentence2English": {
-      "start": 16.35,
-      "end": 22.66
+      "start": 16.22,
+      "end": 22.8
     },
     "exampleSentence2Chinese": {
-      "start": 23.14,
-      "end": 28.16
+      "start": 23,
+      "end": 28.36
     }
   }
 }

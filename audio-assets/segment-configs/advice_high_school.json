@@ -1,30 +1,30 @@
 {
-  "word": "advice",
+  "word": "advice_high_school",
   "audioFile": "audio-assets/audio/advice_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.02
+      "start": 0,
+      "end": 1.275
     },
     "chineseWord": {
-      "start": 1.73,
-      "end": 3.5
+      "start": 1.475,
+      "end": 3.69
     },
     "exampleSentence1English": {
-      "start": 4.08,
-      "end": 6.5
+      "start": 3.89,
+      "end": 6.63
     },
     "exampleSentence1Chinese": {
-      "start": 6.96,
-      "end": 9.78
+      "start": 6.83,
+      "end": 9.905
     },
     "exampleSentence2English": {
-      "start": 10.23,
-      "end": 12.18
+      "start": 10.105,
+      "end": 12.455
     },
     "exampleSentence2Chinese": {
-      "start": 12.93,
-      "end": 15.29
+      "start": 12.655,
+      "end": 15.44
     }
   }
 }

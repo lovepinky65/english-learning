@@ -1,0 +1,30 @@
+{
+  "word": "battery_travel",
+  "audioFile": "audio-assets/audio/battery_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0,
+      "end": 1.05
+    },
+    "chineseWord": {
+      "start": 1.25,
+      "end": 2.2
+    },
+    "exampleSentence1English": {
+      "start": 2.37,
+      "end": 7.025
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.225,
+      "end": 12.29
+    },
+    "exampleSentence2English": {
+      "start": 12.49,
+      "end": 17.76
+    },
+    "exampleSentence2Chinese": {
+      "start": 17.96,
+      "end": 22.56
+    }
+  }
+}

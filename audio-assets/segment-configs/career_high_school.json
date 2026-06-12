@@ -1,30 +1,30 @@
 {
-  "word": "career",
+  "word": "career_high_school",
   "audioFile": "audio-assets/audio/career_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.28,
-      "end": 1.09
+      "start": 0,
+      "end": 1.265
     },
     "chineseWord": {
-      "start": 1.64,
-      "end": 2.55
+      "start": 1.465,
+      "end": 2.775
     },
     "exampleSentence1English": {
-      "start": 3.2,
-      "end": 6.87
+      "start": 2.975,
+      "end": 7.055
     },
     "exampleSentence1Chinese": {
-      "start": 7.44,
-      "end": 11.6
+      "start": 7.255,
+      "end": 11.845
     },
     "exampleSentence2English": {
-      "start": 12.29,
-      "end": 15.59
+      "start": 12.045,
+      "end": 15.795
     },
     "exampleSentence2Chinese": {
-      "start": 16.2,
-      "end": 19.29
+      "start": 15.995,
+      "end": 19.49
     }
   }
 }

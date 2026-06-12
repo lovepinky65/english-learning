@@ -1,30 +1,30 @@
 {
-  "word": "biology",
+  "word": "biology_high_school",
   "audioFile": "audio-assets/audio/biology_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.24,
-      "end": 1.3
+      "start": 0,
+      "end": 1.475
     },
     "chineseWord": {
-      "start": 1.85,
-      "end": 4.07
+      "start": 1.675,
+      "end": 4.205
     },
     "exampleSentence1English": {
-      "start": 4.54,
-      "end": 7.07
+      "start": 4.405,
+      "end": 7.24
     },
     "exampleSentence1Chinese": {
-      "start": 7.61,
-      "end": 10.23
+      "start": 7.44,
+      "end": 10.33
     },
     "exampleSentence2English": {
-      "start": 10.63,
-      "end": 13.58
+      "start": 10.53,
+      "end": 13.78
     },
     "exampleSentence2Chinese": {
-      "start": 14.18,
-      "end": 16.68
+      "start": 13.98,
+      "end": 16.8
     }
   }
 }

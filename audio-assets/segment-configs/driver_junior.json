@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/driver_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 1.48,
-      "end": 2.33
+      "start": 0,
+      "end": 3.755
     },
     "chineseWord": {
-      "start": 5.38,
-      "end": 6.55
+      "start": 3.955,
+      "end": 7.29
     },
     "exampleSentence1English": {
-      "start": 8.23,
-      "end": 11.34
+      "start": 7.49,
+      "end": 13.19
     },
     "exampleSentence1Chinese": {
-      "start": 15.24,
-      "end": 18.31
+      "start": 13.39,
+      "end": 20.18
     },
     "exampleSentence2English": {
-      "start": 22.25,
-      "end": 24.93
+      "start": 20.38,
+      "end": 27.125
     },
     "exampleSentence2Chinese": {
-      "start": 29.52,
-      "end": 33.41
+      "start": 27.325,
+      "end": 33.52
     }
   }
 }

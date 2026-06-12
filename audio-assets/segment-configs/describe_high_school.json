@@ -1,30 +1,30 @@
 {
-  "word": "describe",
+  "word": "describe_high_school",
   "audioFile": "audio-assets/audio/describe_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.13
+      "start": 0,
+      "end": 2.54
     },
     "chineseWord": {
-      "start": 4.15,
-      "end": 5.07
+      "start": 2.74,
+      "end": 6.54
     },
     "exampleSentence1English": {
-      "start": 8.21,
-      "end": 12.25
+      "start": 6.74,
+      "end": 12.665
     },
     "exampleSentence1Chinese": {
-      "start": 13.28,
-      "end": 17.36
+      "start": 12.865,
+      "end": 18.415
     },
     "exampleSentence2English": {
-      "start": 19.67,
-      "end": 22.91
+      "start": 18.615,
+      "end": 23.47
     },
     "exampleSentence2Chinese": {
-      "start": 24.23,
-      "end": 27.72
+      "start": 23.67,
+      "end": 27.92
     }
   }
 }

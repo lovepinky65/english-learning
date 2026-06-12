@@ -1,30 +1,30 @@
 {
-  "word": "resource",
+  "word": "resource_high_school",
   "audioFile": "audio-assets/audio/resource_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.28,
-      "end": 1.12
+      "start": 0,
+      "end": 1.42
     },
     "chineseWord": {
-      "start": 1.92,
-      "end": 2.94
+      "start": 1.62,
+      "end": 3.1
     },
     "exampleSentence1English": {
-      "start": 3.46,
-      "end": 8
+      "start": 3.3,
+      "end": 8.33
     },
     "exampleSentence1Chinese": {
-      "start": 8.86,
-      "end": 13.24
+      "start": 8.53,
+      "end": 13.455
     },
     "exampleSentence2English": {
-      "start": 13.87,
-      "end": 17.7
+      "start": 13.655,
+      "end": 18.005
     },
     "exampleSentence2Chinese": {
-      "start": 18.51,
-      "end": 22.2
+      "start": 18.205,
+      "end": 22.4
     }
   }
 }

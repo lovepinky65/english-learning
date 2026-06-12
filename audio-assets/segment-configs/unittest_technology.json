@@ -1,30 +1,30 @@
 {
-  "word": "unittest",
+  "word": "unittest_technology",
   "audioFile": "audio-assets/audio/unittest_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.22,
-      "end": 1.59
+      "start": 0,
+      "end": 1.735
     },
     "chineseWord": {
-      "start": 2.08,
-      "end": 3.4
+      "start": 1.935,
+      "end": 3.525
     },
     "exampleSentence1English": {
-      "start": 3.85,
-      "end": 10.69
+      "start": 3.725,
+      "end": 11.135
     },
     "exampleSentence1Chinese": {
-      "start": 11.78,
-      "end": 18.78
+      "start": 11.335,
+      "end": 19.095
     },
     "exampleSentence2English": {
-      "start": 19.61,
-      "end": 25.96
+      "start": 19.295,
+      "end": 26.355
     },
     "exampleSentence2Chinese": {
-      "start": 26.95,
-      "end": 33.3
+      "start": 26.555,
+      "end": 33.5
     }
   }
 }

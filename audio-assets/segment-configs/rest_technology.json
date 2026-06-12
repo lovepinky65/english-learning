@@ -1,30 +1,30 @@
 {
-  "word": "rest",
+  "word": "rest_technology",
   "audioFile": "audio-assets/audio/rest_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.4,
-      "end": 0.86
+      "start": 0,
+      "end": 1.17
     },
     "chineseWord": {
-      "start": 1.68,
-      "end": 3.77
+      "start": 1.37,
+      "end": 4.025
     },
     "exampleSentence1English": {
-      "start": 4.48,
-      "end": 11.09
+      "start": 4.225,
+      "end": 11.41
     },
     "exampleSentence1Chinese": {
-      "start": 11.93,
-      "end": 18.51
+      "start": 11.61,
+      "end": 18.79
     },
     "exampleSentence2English": {
-      "start": 19.27,
-      "end": 25.92
+      "start": 18.99,
+      "end": 26.16
     },
     "exampleSentence2Chinese": {
-      "start": 26.6,
-      "end": 32.75
+      "start": 26.36,
+      "end": 32.88
     }
   }
 }

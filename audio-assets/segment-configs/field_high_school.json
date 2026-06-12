@@ -1,30 +1,30 @@
 {
-  "word": "field",
+  "word": "field_high_school",
   "audioFile": "audio-assets/audio/field_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.37,
-      "end": 1.07
+      "start": 0,
+      "end": 1.35
     },
     "chineseWord": {
-      "start": 1.83,
-      "end": 3.82
+      "start": 1.55,
+      "end": 4.01
     },
     "exampleSentence1English": {
-      "start": 4.4,
-      "end": 7.26
+      "start": 4.21,
+      "end": 7.49
     },
     "exampleSentence1Chinese": {
-      "start": 7.92,
-      "end": 9.95
+      "start": 7.69,
+      "end": 10.125
     },
     "exampleSentence2English": {
-      "start": 10.5,
-      "end": 12.91
+      "start": 10.325,
+      "end": 13.155
     },
     "exampleSentence2Chinese": {
-      "start": 13.6,
-      "end": 15.71
+      "start": 13.355,
+      "end": 15.91
     }
   }
 }

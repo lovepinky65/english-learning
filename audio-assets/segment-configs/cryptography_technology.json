@@ -1,30 +1,30 @@
 {
-  "word": "cryptography",
+  "word": "cryptography_technology",
   "audioFile": "audio-assets/audio/cryptography_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.29,
-      "end": 1.24
+      "start": 0,
+      "end": 1.435
     },
     "chineseWord": {
-      "start": 1.83,
-      "end": 3.01
+      "start": 1.635,
+      "end": 3.28
     },
     "exampleSentence1English": {
-      "start": 3.75,
-      "end": 10
+      "start": 3.48,
+      "end": 10.315
     },
     "exampleSentence1Chinese": {
-      "start": 10.83,
-      "end": 16.8
+      "start": 10.515,
+      "end": 17.08
     },
     "exampleSentence2English": {
-      "start": 17.56,
-      "end": 23.35
+      "start": 17.28,
+      "end": 23.78
     },
     "exampleSentence2Chinese": {
-      "start": 24.41,
-      "end": 29.92
+      "start": 23.98,
+      "end": 30.04
     }
   }
 }

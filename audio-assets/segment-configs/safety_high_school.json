@@ -1,30 +1,30 @@
 {
-  "word": "safety",
+  "word": "safety_high_school",
   "audioFile": "audio-assets/audio/safety_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.28,
-      "end": 1.01
+      "start": 0,
+      "end": 1.48
     },
     "chineseWord": {
-      "start": 2.15,
-      "end": 3.07
+      "start": 1.68,
+      "end": 3.425
     },
     "exampleSentence1English": {
-      "start": 3.98,
-      "end": 6.97
+      "start": 3.625,
+      "end": 7.365
     },
     "exampleSentence1Chinese": {
-      "start": 7.96,
-      "end": 11.13
+      "start": 7.565,
+      "end": 11.475
     },
     "exampleSentence2English": {
-      "start": 12.02,
-      "end": 14.91
+      "start": 11.675,
+      "end": 15.385
     },
     "exampleSentence2Chinese": {
-      "start": 16.06,
-      "end": 19.69
+      "start": 15.585,
+      "end": 19.89
     }
   }
 }

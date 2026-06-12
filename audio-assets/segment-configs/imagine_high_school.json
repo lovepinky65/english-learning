@@ -1,30 +1,30 @@
 {
-  "word": "imagine",
+  "word": "imagine_high_school",
   "audioFile": "audio-assets/audio/imagine_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.22,
-      "end": 1.48
+      "start": 0,
+      "end": 2.19
     },
     "chineseWord": {
-      "start": 3.1,
-      "end": 3.91
+      "start": 2.39,
+      "end": 4.24
     },
     "exampleSentence1English": {
-      "start": 4.77,
-      "end": 8.49
+      "start": 4.44,
+      "end": 8.71
     },
     "exampleSentence1Chinese": {
-      "start": 9.13,
-      "end": 12.7
+      "start": 8.91,
+      "end": 12.95
     },
     "exampleSentence2English": {
-      "start": 13.4,
-      "end": 17.02
+      "start": 13.15,
+      "end": 17.235
     },
     "exampleSentence2Chinese": {
-      "start": 17.65,
-      "end": 20.78
+      "start": 17.435,
+      "end": 20.92
     }
   }
 }

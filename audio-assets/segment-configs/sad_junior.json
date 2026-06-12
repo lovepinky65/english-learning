@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/sad_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.29,
-      "end": 1.17
+      "start": 0,
+      "end": 1.25
     },
     "chineseWord": {
-      "start": 1.5,
-      "end": 2.46
+      "start": 1.42,
+      "end": 2.595
     },
     "exampleSentence1English": {
-      "start": 2.93,
+      "start": 2.795,
       "end": 5.01
     },
     "exampleSentence1Chinese": {
       "start": 5.01,
-      "end": 5.73
+      "end": 5.81
     },
     "exampleSentence2English": {
-      "start": 6.03,
+      "start": 5.95,
       "end": 8.42
     },
     "exampleSentence2Chinese": {
       "start": 8.42,
-      "end": 9.42
+      "end": 9.52
     }
   }
 }

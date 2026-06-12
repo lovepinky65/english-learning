@@ -1,0 +1,30 @@
+{
+  "word": "plan_ahead_travel",
+  "audioFile": "audio-assets/audio/plan_ahead_travel.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0,
+      "end": 1.5
+    },
+    "chineseWord": {
+      "start": 1.7,
+      "end": 3.405
+    },
+    "exampleSentence1English": {
+      "start": 3.605,
+      "end": 8.815
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.015,
+      "end": 14.39
+    },
+    "exampleSentence2English": {
+      "start": 14.59,
+      "end": 20.27
+    },
+    "exampleSentence2Chinese": {
+      "start": 20.47,
+      "end": 24.85
+    }
+  }
+}

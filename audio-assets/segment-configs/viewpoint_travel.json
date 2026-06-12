@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/viewpoint_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.32,
-      "end": 2.56
+      "start": 0,
+      "end": 2.71
     },
     "chineseWord": {
-      "start": 3.06,
-      "end": 8.2
+      "start": 2.91,
+      "end": 8.415
     },
     "exampleSentence1English": {
-      "start": 8.83,
-      "end": 13.75
+      "start": 8.615,
+      "end": 13.905
     },
     "exampleSentence1Chinese": {
-      "start": 14.26,
-      "end": 15.2
+      "start": 14.105,
+      "end": 15.29
     },
     "exampleSentence2English": {
-      "start": 15.58,
-      "end": 18.71
+      "start": 15.49,
+      "end": 18.98
     },
     "exampleSentence2Chinese": {
-      "start": 19.45,
-      "end": 24.14
+      "start": 19.18,
+      "end": 24.34
     }
   }
 }

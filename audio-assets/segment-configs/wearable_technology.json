@@ -1,30 +1,30 @@
 {
-  "word": "wearable",
+  "word": "wearable_technology",
   "audioFile": "audio-assets/audio/wearable_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.43,
-      "end": 1.27
+      "start": 0,
+      "end": 1.61
     },
     "chineseWord": {
-      "start": 2.15,
-      "end": 3.42
+      "start": 1.81,
+      "end": 3.58
     },
     "exampleSentence1English": {
-      "start": 3.94,
-      "end": 10.22
+      "start": 3.78,
+      "end": 10.49
     },
     "exampleSentence1Chinese": {
-      "start": 10.96,
-      "end": 18.01
+      "start": 10.69,
+      "end": 18.165
     },
     "exampleSentence2English": {
-      "start": 18.52,
-      "end": 25.04
+      "start": 18.365,
+      "end": 25.355
     },
     "exampleSentence2Chinese": {
-      "start": 25.87,
-      "end": 32.17
+      "start": 25.555,
+      "end": 32.32
     }
   }
 }

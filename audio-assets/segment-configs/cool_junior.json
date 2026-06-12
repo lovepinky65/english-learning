@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/cool_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.3,
-      "end": 1.03
+      "start": 0,
+      "end": 1.28
     },
     "chineseWord": {
-      "start": 1.73,
-      "end": 2.63
+      "start": 1.48,
+      "end": 3.06
     },
     "exampleSentence1English": {
-      "start": 3.69,
-      "end": 6.97
+      "start": 3.26,
+      "end": 7.385
     },
     "exampleSentence1Chinese": {
-      "start": 8,
-      "end": 11.56
+      "start": 7.585,
+      "end": 11.945
     },
     "exampleSentence2English": {
-      "start": 12.53,
-      "end": 15.83
+      "start": 12.145,
+      "end": 16.175
     },
     "exampleSentence2Chinese": {
-      "start": 16.72,
-      "end": 19.91
+      "start": 16.375,
+      "end": 20.11
     }
   }
 }

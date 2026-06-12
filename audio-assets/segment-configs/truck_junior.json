@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/truck_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.38,
-      "end": 0.9
+      "start": 0,
+      "end": 1.035
     },
     "chineseWord": {
-      "start": 1.37,
-      "end": 1.94
+      "start": 1.235,
+      "end": 2.105
     },
     "exampleSentence1English": {
-      "start": 2.47,
-      "end": 4.83
+      "start": 2.305,
+      "end": 4.99
     },
     "exampleSentence1Chinese": {
-      "start": 5.35,
-      "end": 12.07
+      "start": 5.19,
+      "end": 12.31
     },
     "exampleSentence2English": {
-      "start": 12.75,
-      "end": 15.54
+      "start": 12.51,
+      "end": 15.68
     },
     "exampleSentence2Chinese": {
-      "start": 16.02,
-      "end": 19.54
+      "start": 15.88,
+      "end": 19.6
     }
   }
 }

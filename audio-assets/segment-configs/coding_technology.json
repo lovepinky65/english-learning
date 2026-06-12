@@ -1,30 +1,30 @@
 {
-  "word": "coding",
+  "word": "coding_technology",
   "audioFile": "audio-assets/audio/coding_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.38,
-      "end": 0.97
+      "start": 0,
+      "end": 1.14
     },
     "chineseWord": {
-      "start": 1.51,
-      "end": 6.74
+      "start": 1.34,
+      "end": 6.945
     },
     "exampleSentence1English": {
-      "start": 7.35,
-      "end": 9.99
+      "start": 7.145,
+      "end": 10.07
     },
     "exampleSentence1Chinese": {
-      "start": 10.18,
-      "end": 12.85
+      "start": 10.1,
+      "end": 13.035
     },
     "exampleSentence2English": {
-      "start": 13.42,
-      "end": 19.98
+      "start": 13.235,
+      "end": 20.145
     },
     "exampleSentence2Chinese": {
-      "start": 20.51,
-      "end": 26.46
+      "start": 20.345,
+      "end": 26.64
     }
   }
 }

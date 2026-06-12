@@ -3,28 +3,28 @@
   "audioFile": "audio-assets/audio/boat_junior.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.21,
-      "end": 0.66
+      "start": 0,
+      "end": 0.875
     },
     "chineseWord": {
-      "start": 1.29,
-      "end": 2.32
+      "start": 1.075,
+      "end": 2.4
     },
     "exampleSentence1English": {
-      "start": 2.64,
-      "end": 5.71
+      "start": 2.56,
+      "end": 5.88
     },
     "exampleSentence1Chinese": {
-      "start": 6.25,
-      "end": 9.28
+      "start": 6.08,
+      "end": 9.37
     },
     "exampleSentence2English": {
-      "start": 9.66,
-      "end": 10.96
+      "start": 9.57,
+      "end": 11.015
     },
     "exampleSentence2Chinese": {
-      "start": 11.07,
-      "end": 12.43
+      "start": 11.015,
+      "end": 12.63
     }
   }
 }

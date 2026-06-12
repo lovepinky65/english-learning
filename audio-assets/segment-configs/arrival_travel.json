@@ -1,30 +1,30 @@
 {
-  "word": "arrival",
+  "word": "arrival_travel",
   "audioFile": "audio-assets/audio/arrival_travel.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.22,
-      "end": 1.22
+      "start": 0,
+      "end": 1.31
     },
     "chineseWord": {
-      "start": 1.6,
-      "end": 2.43
+      "start": 1.51,
+      "end": 2.53
     },
     "exampleSentence1English": {
-      "start": 2.83,
-      "end": 7.11
+      "start": 2.73,
+      "end": 7.28
     },
     "exampleSentence1Chinese": {
-      "start": 7.65,
-      "end": 11.42
+      "start": 7.48,
+      "end": 11.58
     },
     "exampleSentence2English": {
-      "start": 11.94,
-      "end": 16
+      "start": 11.78,
+      "end": 16.17
     },
     "exampleSentence2Chinese": {
-      "start": 16.54,
-      "end": 20.4
+      "start": 16.37,
+      "end": 20.52
     }
   }
 }

@@ -1,30 +1,30 @@
 {
-  "word": "differ",
+  "word": "differ_high_school",
   "audioFile": "audio-assets/audio/differ_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.07
+      "start": 0,
+      "end": 1.15
     },
     "chineseWord": {
-      "start": 1.43,
-      "end": 2.31
+      "start": 1.35,
+      "end": 2.4
     },
     "exampleSentence1English": {
-      "start": 2.69,
-      "end": 6.21
+      "start": 2.6,
+      "end": 6.39
     },
     "exampleSentence1Chinese": {
-      "start": 6.77,
-      "end": 10.63
+      "start": 6.59,
+      "end": 10.71
     },
     "exampleSentence2English": {
-      "start": 10.95,
-      "end": 14.11
+      "start": 10.87,
+      "end": 14.26
     },
     "exampleSentence2Chinese": {
-      "start": 14.61,
-      "end": 17.09
+      "start": 14.46,
+      "end": 17.2
     }
   }
 }

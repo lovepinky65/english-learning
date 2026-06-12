@@ -1,30 +1,30 @@
 {
-  "word": "encouragement",
+  "word": "encouragement_high_school",
   "audioFile": "audio-assets/audio/encouragement_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.23,
-      "end": 1.31
+      "start": 0,
+      "end": 1.485
     },
     "chineseWord": {
-      "start": 1.86,
-      "end": 2.57
+      "start": 1.685,
+      "end": 2.805
     },
     "exampleSentence1English": {
-      "start": 3.24,
-      "end": 5.47
+      "start": 3.005,
+      "end": 5.655
     },
     "exampleSentence1Chinese": {
-      "start": 6.04,
-      "end": 8.06
+      "start": 5.855,
+      "end": 8.255
     },
     "exampleSentence2English": {
-      "start": 8.65,
-      "end": 11.08
+      "start": 8.455,
+      "end": 11.365
     },
     "exampleSentence2Chinese": {
-      "start": 11.85,
-      "end": 14.15
+      "start": 11.565,
+      "end": 14.24
     }
   }
 }

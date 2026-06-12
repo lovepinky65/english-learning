@@ -1,30 +1,30 @@
 {
-  "word": "science",
+  "word": "science_high_school",
   "audioFile": "audio-assets/audio/science_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.23
+      "start": 0,
+      "end": 1.36
     },
     "chineseWord": {
-      "start": 1.69,
-      "end": 2.56
+      "start": 1.56,
+      "end": 2.725
     },
     "exampleSentence1English": {
-      "start": 3.09,
-      "end": 5.96
+      "start": 2.925,
+      "end": 6.105
     },
     "exampleSentence1Chinese": {
-      "start": 6.45,
-      "end": 9.39
+      "start": 6.305,
+      "end": 9.52
     },
     "exampleSentence2English": {
-      "start": 9.85,
-      "end": 12.79
+      "start": 9.72,
+      "end": 13.02
     },
     "exampleSentence2Chinese": {
-      "start": 13.45,
-      "end": 16.21
+      "start": 13.22,
+      "end": 16.36
     }
   }
 }

@@ -1,30 +1,30 @@
 {
-  "word": "responsible",
+  "word": "responsible_high_school",
   "audioFile": "audio-assets/audio/responsible_high_school.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.39
+      "start": 0,
+      "end": 1.555
     },
     "chineseWord": {
-      "start": 1.92,
-      "end": 3.29
+      "start": 1.755,
+      "end": 3.445
     },
     "exampleSentence1English": {
-      "start": 3.8,
-      "end": 7.98
+      "start": 3.645,
+      "end": 8.115
     },
     "exampleSentence1Chinese": {
-      "start": 8.45,
-      "end": 12.12
+      "start": 8.315,
+      "end": 12.325
     },
     "exampleSentence2English": {
-      "start": 12.73,
-      "end": 15.85
+      "start": 12.525,
+      "end": 16.06
     },
     "exampleSentence2Chinese": {
-      "start": 16.47,
-      "end": 18.81
+      "start": 16.26,
+      "end": 19.01
     }
   }
 }

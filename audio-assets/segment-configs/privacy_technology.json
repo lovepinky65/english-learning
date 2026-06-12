@@ -1,30 +1,30 @@
 {
-  "word": "privacy",
+  "word": "privacy_technology",
   "audioFile": "audio-assets/audio/privacy_technology.mp3",
   "fields": {
     "englishWord": {
-      "start": 0.25,
-      "end": 1.05
+      "start": 0,
+      "end": 1.24
     },
     "chineseWord": {
-      "start": 1.63,
-      "end": 9.73
+      "start": 1.44,
+      "end": 9.93
     },
     "exampleSentence1English": {
-      "start": 10.33,
-      "end": 16.81
+      "start": 10.13,
+      "end": 16.965
     },
     "exampleSentence1Chinese": {
-      "start": 17.32,
-      "end": 23.7
+      "start": 17.165,
+      "end": 23.925
     },
     "exampleSentence2English": {
-      "start": 24.35,
-      "end": 29.01
+      "start": 24.125,
+      "end": 29.19
     },
     "exampleSentence2Chinese": {
-      "start": 29.57,
-      "end": 30.9
+      "start": 29.39,
+      "end": 31.08
     }
   }
 }
