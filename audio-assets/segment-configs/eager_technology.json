@@ -1,0 +1,30 @@
+{
+  "word": "eager_technology",
+  "audioFile": "audio-assets/audio/eager_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 0.967
+    },
+    "chineseWord": {
+      "start": 1.167,
+      "end": 2.433
+    },
+    "exampleSentence1English": {
+      "start": 2.632,
+      "end": 6.258
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.457,
+      "end": 10.467
+    },
+    "exampleSentence2English": {
+      "start": 10.668,
+      "end": 15.718
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.918,
+      "end": 22.745
+    }
+  }
+}

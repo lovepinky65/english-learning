@@ -1,0 +1,30 @@
+{
+  "word": "shadow_technology",
+  "audioFile": "audio-assets/audio/shadow_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.337
+    },
+    "chineseWord": {
+      "start": 1.538,
+      "end": 2.812
+    },
+    "exampleSentence1English": {
+      "start": 3.013,
+      "end": 7.173
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.372,
+      "end": 11.817
+    },
+    "exampleSentence2English": {
+      "start": 12.018,
+      "end": 15.787
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.988,
+      "end": 20.465
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "loading_technology",
+  "audioFile": "audio-assets/audio/loading_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.538
+    },
+    "chineseWord": {
+      "start": 1.737,
+      "end": 2.958
+    },
+    "exampleSentence1English": {
+      "start": 3.158,
+      "end": 7.838
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.037,
+      "end": 12.303
+    },
+    "exampleSentence2English": {
+      "start": 12.502,
+      "end": 16.732
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.933,
+      "end": 20.935
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "sidebar_technology",
+  "audioFile": "audio-assets/audio/sidebar_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.238
+    },
+    "chineseWord": {
+      "start": 1.438,
+      "end": 2.782
+    },
+    "exampleSentence1English": {
+      "start": 2.982,
+      "end": 6.518
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.718,
+      "end": 9.992
+    },
+    "exampleSentence2English": {
+      "start": 10.192,
+      "end": 13.617
+    },
+    "exampleSentence2Chinese": {
+      "start": 13.818,
+      "end": 17.745
+    }
+  }
+}

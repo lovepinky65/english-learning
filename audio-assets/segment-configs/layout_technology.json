@@ -1,0 +1,30 @@
+{
+  "word": "layout_technology",
+  "audioFile": "audio-assets/audio/layout_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.262
+    },
+    "chineseWord": {
+      "start": 1.462,
+      "end": 2.487
+    },
+    "exampleSentence1English": {
+      "start": 2.688,
+      "end": 7.587
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.787,
+      "end": 12.992
+    },
+    "exampleSentence2English": {
+      "start": 13.193,
+      "end": 18.197
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.398,
+      "end": 22.925
+    }
+  }
+}

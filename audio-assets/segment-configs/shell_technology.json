@@ -1,0 +1,30 @@
+{
+  "word": "shell_technology",
+  "audioFile": "audio-assets/audio/shell_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 0.962
+    },
+    "chineseWord": {
+      "start": 1.162,
+      "end": 2.458
+    },
+    "exampleSentence1English": {
+      "start": 2.658,
+      "end": 7.093
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.292,
+      "end": 12.508
+    },
+    "exampleSentence2English": {
+      "start": 12.707,
+      "end": 17.212
+    },
+    "exampleSentence2Chinese": {
+      "start": 17.413,
+      "end": 22.275
+    }
+  }
+}

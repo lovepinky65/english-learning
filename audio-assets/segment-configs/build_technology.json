@@ -1,0 +1,30 @@
+{
+  "word": "build_technology",
+  "audioFile": "audio-assets/audio/build_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 0.943
+    },
+    "chineseWord": {
+      "start": 1.143,
+      "end": 2.107
+    },
+    "exampleSentence1English": {
+      "start": 2.308,
+      "end": 6.723
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.922,
+      "end": 10.742
+    },
+    "exampleSentence2English": {
+      "start": 10.942,
+      "end": 14.957
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.158,
+      "end": 19.155
+    }
+  }
+}

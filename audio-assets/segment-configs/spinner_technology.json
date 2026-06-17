@@ -1,0 +1,30 @@
+{
+  "word": "spinner_technology",
+  "audioFile": "audio-assets/audio/spinner_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.292
+    },
+    "chineseWord": {
+      "start": 1.493,
+      "end": 3.808
+    },
+    "exampleSentence1English": {
+      "start": 4.008,
+      "end": 8.228
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.428,
+      "end": 13.393
+    },
+    "exampleSentence2English": {
+      "start": 13.592,
+      "end": 18.242
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.442,
+      "end": 24.625
+    }
+  }
+}

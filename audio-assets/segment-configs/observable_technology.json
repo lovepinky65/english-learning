@@ -1,0 +1,30 @@
+{
+  "word": "observable_technology",
+  "audioFile": "audio-assets/audio/observable_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.377
+    },
+    "chineseWord": {
+      "start": 1.577,
+      "end": 3.448
+    },
+    "exampleSentence1English": {
+      "start": 3.647,
+      "end": 8.328
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.527,
+      "end": 13.402
+    },
+    "exampleSentence2English": {
+      "start": 13.602,
+      "end": 18.147
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.348,
+      "end": 23.485
+    }
+  }
+}

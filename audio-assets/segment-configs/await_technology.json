@@ -1,0 +1,30 @@
+{
+  "word": "await_technology",
+  "audioFile": "audio-assets/audio/await_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.638
+    },
+    "chineseWord": {
+      "start": 1.837,
+      "end": 3.842
+    },
+    "exampleSentence1English": {
+      "start": 4.042,
+      "end": 9.332
+    },
+    "exampleSentence1Chinese": {
+      "start": 9.533,
+      "end": 15.103
+    },
+    "exampleSentence2English": {
+      "start": 15.303,
+      "end": 20.867
+    },
+    "exampleSentence2Chinese": {
+      "start": 21.068,
+      "end": 25.525
+    }
+  }
+}

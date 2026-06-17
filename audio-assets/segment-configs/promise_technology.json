@@ -1,0 +1,30 @@
+{
+  "word": "promise_technology",
+  "audioFile": "audio-assets/audio/promise_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.212
+    },
+    "chineseWord": {
+      "start": 1.413,
+      "end": 3.393
+    },
+    "exampleSentence1English": {
+      "start": 3.592,
+      "end": 6.633
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.832,
+      "end": 10.737
+    },
+    "exampleSentence2English": {
+      "start": 10.938,
+      "end": 14.928
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.127,
+      "end": 20.905
+    }
+  }
+}

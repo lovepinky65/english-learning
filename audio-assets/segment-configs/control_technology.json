@@ -1,0 +1,30 @@
+{
+  "word": "control_technology",
+  "audioFile": "audio-assets/audio/control_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.083
+    },
+    "chineseWord": {
+      "start": 1.282,
+      "end": 2.453
+    },
+    "exampleSentence1English": {
+      "start": 2.652,
+      "end": 6.343
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.542,
+      "end": 10.752
+    },
+    "exampleSentence2English": {
+      "start": 10.953,
+      "end": 14.567
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.768,
+      "end": 18.935
+    }
+  }
+}

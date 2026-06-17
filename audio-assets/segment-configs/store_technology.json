@@ -1,0 +1,30 @@
+{
+  "word": "store_technology",
+  "audioFile": "audio-assets/audio/store_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 0.982
+    },
+    "chineseWord": {
+      "start": 1.183,
+      "end": 3.042
+    },
+    "exampleSentence1English": {
+      "start": 3.243,
+      "end": 8.008
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.207,
+      "end": 14.588
+    },
+    "exampleSentence2English": {
+      "start": 14.787,
+      "end": 19.742
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.942,
+      "end": 26.085
+    }
+  }
+}

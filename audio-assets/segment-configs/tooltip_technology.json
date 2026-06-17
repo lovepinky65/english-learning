@@ -1,0 +1,30 @@
+{
+  "word": "tooltip_technology",
+  "audioFile": "audio-assets/audio/tooltip_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.143
+    },
+    "chineseWord": {
+      "start": 1.343,
+      "end": 2.993
+    },
+    "exampleSentence1English": {
+      "start": 3.192,
+      "end": 7.272
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.473,
+      "end": 11.262
+    },
+    "exampleSentence2English": {
+      "start": 11.463,
+      "end": 15.238
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.438,
+      "end": 19.475
+    }
+  }
+}

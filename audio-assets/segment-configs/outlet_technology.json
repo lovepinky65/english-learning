@@ -1,0 +1,30 @@
+{
+  "word": "outlet_technology",
+  "audioFile": "audio-assets/audio/outlet_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 0.973
+    },
+    "chineseWord": {
+      "start": 1.172,
+      "end": 2.183
+    },
+    "exampleSentence1English": {
+      "start": 2.382,
+      "end": 7.442
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.643,
+      "end": 11.922
+    },
+    "exampleSentence2English": {
+      "start": 12.123,
+      "end": 16.758
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.957,
+      "end": 22.015
+    }
+  }
+}

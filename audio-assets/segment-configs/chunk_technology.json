@@ -1,0 +1,30 @@
+{
+  "word": "chunk_technology",
+  "audioFile": "audio-assets/audio/chunk_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 0.948
+    },
+    "chineseWord": {
+      "start": 1.147,
+      "end": 2.317
+    },
+    "exampleSentence1English": {
+      "start": 2.518,
+      "end": 6.287
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.487,
+      "end": 10.547
+    },
+    "exampleSentence2English": {
+      "start": 10.748,
+      "end": 14.348
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.547,
+      "end": 18.685
+    }
+  }
+}

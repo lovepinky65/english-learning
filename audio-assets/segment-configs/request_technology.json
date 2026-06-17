@@ -1,0 +1,24 @@
+{
+  "word": "request_technology",
+  "audioFile": "audio-assets/audio/request_technology.mp3",
+  "fields": {
+    "englishWord": null,
+    "chineseWord": null,
+    "exampleSentence1English": {
+      "start": 0.28,
+      "end": 4.812
+    },
+    "exampleSentence1Chinese": {
+      "start": 5.012,
+      "end": 9.982
+    },
+    "exampleSentence2English": {
+      "start": 10.182,
+      "end": 14.612
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.812,
+      "end": 18.795
+    }
+  }
+}

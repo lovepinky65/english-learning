@@ -1,0 +1,30 @@
+{
+  "word": "dropdown_technology",
+  "audioFile": "audio-assets/audio/dropdown_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.112
+    },
+    "chineseWord": {
+      "start": 1.312,
+      "end": 3.047
+    },
+    "exampleSentence1English": {
+      "start": 3.248,
+      "end": 7.643
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.843,
+      "end": 12.272
+    },
+    "exampleSentence2English": {
+      "start": 12.473,
+      "end": 16.927
+    },
+    "exampleSentence2Chinese": {
+      "start": 17.128,
+      "end": 22.025
+    }
+  }
+}

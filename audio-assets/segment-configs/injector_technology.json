@@ -1,6 +1,6 @@
 {
-  "word": "ability_high_school",
-  "audioFile": "audio-assets/audio/ability_high_school.mp3",
+  "word": "injector_technology",
+  "audioFile": "audio-assets/audio/injector_technology.mp3",
   "fields": {
     "englishWord": {
       "start": 0.0,
@@ -8,23 +8,23 @@
     },
     "chineseWord": {
       "start": 1.448,
-      "end": 4.015
+      "end": 2.438
     },
     "exampleSentence1English": {
-      "start": 4.14,
-      "end": 7.4
+      "start": 2.637,
+      "end": 6.497
     },
     "exampleSentence1Chinese": {
-      "start": 7.42,
-      "end": 10.25
+      "start": 6.697,
+      "end": 10.432
     },
     "exampleSentence2English": {
-      "start": 10.45,
-      "end": 13.63
+      "start": 10.633,
+      "end": 15.252
     },
     "exampleSentence2Chinese": {
-      "start": 13.63,
-      "end": 17.72
+      "start": 15.453,
+      "end": 20.205
     }
   }
 }

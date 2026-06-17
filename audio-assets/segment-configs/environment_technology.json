@@ -1,0 +1,30 @@
+{
+  "word": "environment_technology",
+  "audioFile": "audio-assets/audio/environment_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.277
+    },
+    "chineseWord": {
+      "start": 1.478,
+      "end": 2.567
+    },
+    "exampleSentence1English": {
+      "start": 2.768,
+      "end": 7.022
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.223,
+      "end": 10.818
+    },
+    "exampleSentence2English": {
+      "start": 11.018,
+      "end": 15.058
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.258,
+      "end": 18.925
+    }
+  }
+}

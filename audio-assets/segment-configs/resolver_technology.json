@@ -1,0 +1,30 @@
+{
+  "word": "resolver_technology",
+  "audioFile": "audio-assets/audio/resolver_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.312
+    },
+    "chineseWord": {
+      "start": 1.512,
+      "end": 2.708
+    },
+    "exampleSentence1English": {
+      "start": 2.907,
+      "end": 7.107
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.308,
+      "end": 11.592
+    },
+    "exampleSentence2English": {
+      "start": 11.793,
+      "end": 16.442
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.643,
+      "end": 20.755
+    }
+  }
+}

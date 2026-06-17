@@ -1,0 +1,30 @@
+{
+  "word": "touched_technology",
+  "audioFile": "audio-assets/audio/touched_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.167
+    },
+    "chineseWord": {
+      "start": 1.368,
+      "end": 3.312
+    },
+    "exampleSentence1English": {
+      "start": 3.512,
+      "end": 7.947
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.147,
+      "end": 13.857
+    },
+    "exampleSentence2English": {
+      "start": 14.058,
+      "end": 19.152
+    },
+    "exampleSentence2Chinese": {
+      "start": 19.352,
+      "end": 24.955
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "route_technology",
+  "audioFile": "audio-assets/audio/route_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 0.987
+    },
+    "chineseWord": {
+      "start": 1.188,
+      "end": 2.348
+    },
+    "exampleSentence1English": {
+      "start": 2.547,
+      "end": 6.508
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.708,
+      "end": 10.623
+    },
+    "exampleSentence2English": {
+      "start": 10.822,
+      "end": 15.312
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.512,
+      "end": 19.925
+    }
+  }
+}

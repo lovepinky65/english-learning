@@ -1,0 +1,30 @@
+{
+  "word": "instant_technology",
+  "audioFile": "audio-assets/audio/instant_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.143
+    },
+    "chineseWord": {
+      "start": 1.343,
+      "end": 2.453
+    },
+    "exampleSentence1English": {
+      "start": 2.652,
+      "end": 7.508
+    },
+    "exampleSentence1Chinese": {
+      "start": 7.708,
+      "end": 12.072
+    },
+    "exampleSentence2English": {
+      "start": 12.273,
+      "end": 16.697
+    },
+    "exampleSentence2Chinese": {
+      "start": 16.898,
+      "end": 20.835
+    }
+  }
+}

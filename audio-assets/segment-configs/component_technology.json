@@ -1,0 +1,30 @@
+{
+  "word": "component_technology",
+  "audioFile": "audio-assets/audio/component_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.272
+    },
+    "chineseWord": {
+      "start": 1.473,
+      "end": 2.808
+    },
+    "exampleSentence1English": {
+      "start": 3.007,
+      "end": 7.987
+    },
+    "exampleSentence1Chinese": {
+      "start": 8.188,
+      "end": 13.143
+    },
+    "exampleSentence2English": {
+      "start": 13.342,
+      "end": 18.598
+    },
+    "exampleSentence2Chinese": {
+      "start": 18.797,
+      "end": 22.755
+    }
+  }
+}

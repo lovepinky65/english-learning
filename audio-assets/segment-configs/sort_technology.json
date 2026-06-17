@@ -1,0 +1,30 @@
+{
+  "word": "sort_technology",
+  "audioFile": "audio-assets/audio/sort_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 0.977
+    },
+    "chineseWord": {
+      "start": 1.177,
+      "end": 2.353
+    },
+    "exampleSentence1English": {
+      "start": 2.552,
+      "end": 6.258
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.457,
+      "end": 10.312
+    },
+    "exampleSentence2English": {
+      "start": 10.512,
+      "end": 14.748
+    },
+    "exampleSentence2Chinese": {
+      "start": 14.947,
+      "end": 19.365
+    }
+  }
+}

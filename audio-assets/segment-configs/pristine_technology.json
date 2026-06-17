@@ -1,0 +1,30 @@
+{
+  "word": "pristine_technology",
+  "audioFile": "audio-assets/audio/pristine_technology.mp3",
+  "fields": {
+    "englishWord": {
+      "start": 0.0,
+      "end": 1.292
+    },
+    "chineseWord": {
+      "start": 1.492,
+      "end": 2.848
+    },
+    "exampleSentence1English": {
+      "start": 3.047,
+      "end": 6.692
+    },
+    "exampleSentence1Chinese": {
+      "start": 6.893,
+      "end": 10.693
+    },
+    "exampleSentence2English": {
+      "start": 10.893,
+      "end": 15.447
+    },
+    "exampleSentence2Chinese": {
+      "start": 15.648,
+      "end": 20.295
+    }
+  }
+}
