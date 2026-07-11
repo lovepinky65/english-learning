@@ -7,24 +7,24 @@
       "end": 1.68
     },
     "chineseWord": {
-      "start": 1.88,
-      "end": 3.045
+      "start": 2.18,
+      "end": 3.62
     },
     "exampleSentence1English": {
-      "start": 3.245,
-      "end": 5.14
+      "start": 4.12,
+      "end": 9.28
     },
     "exampleSentence1Chinese": {
-      "start": 5.14,
-      "end": 7.755
+      "start": 9.78,
+      "end": 14.18
     },
     "exampleSentence2English": {
-      "start": 7.955,
-      "end": 11.515
+      "start": 14.68,
+      "end": 19.52
     },
     "exampleSentence2Chinese": {
-      "start": 11.715,
-      "end": 15.84
+      "start": 20.02,
+      "end": 25.1
     }
   }
 }
